@@ -2,15 +2,19 @@ news:
 
 - text: Nym x Zcash grant
   src: https://t.me/c/1812390595/8178
+  cat: ecosystem
   
 - text: MoneroKon 2024 started [selling tickets](https://shop.monerokon.org/monerokon/2024/)
   src: https://twitter.com/MoneroKon/status/1752928601299730871
   date: 2024-02-01
+  cat: events
 
 - text: [Privacy Spreadsheet](https://privacyspreadsheet.com/messaging-apps) comparing different messengers on their privacy properties
   src: https://twitter.com/russian_bot_69/status/1754051913182478683
   date: 2024-02-04
+  cat: tools
 
 - text: [Passkeys wallet on the EVM](https://medium.com/@salvayre.yoan/passkeys-wallet-on-the-evm-69d4930ea4af)
   src: https://twitter.com/slovaye/status/1754138804909158708
   date: 2024-02-04
+  cat: research
