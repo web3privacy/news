@@ -12,3 +12,7 @@ This repository serves as a central collection point for all privacy-related new
 ## Weekly frequency
 
 The news is divided to calendar weeks. At the end of each week the news is taken, polished and published in the form of a newsletter.
+
+### Weekly checklist
+1. collect all suggestions from the input funnels and create a records from them
+2. check all items, add categories and other mandatory parameters
