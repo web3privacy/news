@@ -16,3 +16,14 @@ The news is divided to calendar weeks. At the end of each week the news is taken
 ### Weekly checklist
 1. collect all suggestions from the input funnels and create a records from them
 2. check all items, add categories and other mandatory parameters
+
+## Test Period
+
+Feb 5 - Mar 3 (4 weeks)
+
+| Week | Start - End | Curator |
+| --- | --- | --- |
+| 6 | Feb 5 - 11 | @Tree |
+| 7 | Feb 12 - 18 | @Mykola |
+| 8 | Feb 19 - 25 | @PG |
+| 9 | Feb 26 - Mar 3 | @Coinmandeer |
