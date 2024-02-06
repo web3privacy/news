@@ -21,9 +21,9 @@ The news is divided to calendar weeks. At the end of each week the news is taken
 1. collect all suggestions from the input funnels and create a records from them
 2. check all items, add categories and other mandatory parameters
 
-## Test Period
+## Trial Period
 
-Feb 5 - Mar 3 (4 weeks)
+* Period: Feb 5 - Mar 3 (4 weeks)
 
 | Week | Start - End | Curator |
 | --- | --- | --- |
