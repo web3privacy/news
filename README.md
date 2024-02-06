@@ -6,7 +6,7 @@ This repository serves as a central collection point for all privacy-related new
 
 ## Frontend
 
-* [news.web3privacy.info](https://news.web3privacy.info/)
+* [news.web3privacy.info](https://news.web3privacy.info/) ([source](https://github.com/web3privacy/news-app))
 
 ## Input funnels
 
