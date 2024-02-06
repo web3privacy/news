@@ -1,18 +1,8 @@
 news:
 
 - text: |
-    [Feb 7th at 5pm UTC] [DAO Privacy (Twitter Space)](https://twitter.com/i/spaces/1ZkKzjvBLXwKv?s=20) w/ Gnosis Guild, Safe, Shutter Network, ShapeShift, & Fractal
-  src: https://twitter.com/fractalappxyz/status/1753886789402575131
-  cat: events
-
-- text: |
     Web3Privacy Now published a proof-of-concept of their [privacy news aggregator](https://news.web3privacy.info)
   cat: research
-
-- text: |
-    Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
-  cat: wallets
-  date: 2024-02-06
 
 - text: |
     Logos, Nomos, Waku, Codex, Status and others now federated under the [Institute of Free Technology©](https://free.technology/)
@@ -22,3 +12,13 @@ news:
     Binance [Will Delist XMR](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5) on 2024-02-20
   src: https://twitter.com/wilderko/status/1754857029892538430
   cat: ecosystem
+
+- text: |
+    Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
+  cat: wallets
+  date: 2024-02-06
+
+- text: |
+    [Feb 7th at 5pm UTC] [DAO Privacy (Twitter Space)](https://twitter.com/i/spaces/1ZkKzjvBLXwKv?s=20) w/ Gnosis Guild, Safe, Shutter Network, ShapeShift, & Fractal
+  src: https://twitter.com/fractalappxyz/status/1753886789402575131
+  cat: events
