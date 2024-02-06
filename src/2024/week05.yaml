@@ -45,3 +45,8 @@ news:
   src: https://twitter.com/JackRhysider/status/1752013494810198079
   date: 2024-01-29
   cat: videos
+
+- text: |
+    [Breaking Bitlocker](https://www.youtube.com/watch?v=wTl4vEednkQ) - Bypassing the Windows Disk Encryption
+  src: https://twitter.com/wilderko/status/1754198973303165187
+  cat: videos
