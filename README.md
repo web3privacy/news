@@ -23,7 +23,7 @@ The news is divided to calendar weeks. At the end of each week the news is taken
 
 ## Trial Period
 
-* Period: Feb 5 - Mar 3 (4 weeks)
+* Period: Feb 5 - Mar 3, 2024 (4 weeks)
 
 | Week | Start - End | Curator |
 | --- | --- | --- |
