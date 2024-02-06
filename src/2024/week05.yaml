@@ -33,6 +33,7 @@ news:
   date: 2024-01-29
   cat: gov
 
-- text: [Horswap](https://1.horswap.eth.limo/): Uniswap frontend without censorship or interface fees
+- text: [Horswap](https://1.horswap.eth.limo/): Uniswap frontend without censorship or interface fees, by @MicahZoltu
   src: https://twitter.com/MicahZoltu/status/1753416705983074668
   cat: ecosystem
+  date: 2024-02-02
