@@ -8,7 +8,7 @@ This repository serves as a central collection point for all privacy-related new
 
 * [news.web3privacy.info](https://news.web3privacy.info/) ([source](https://github.com/web3privacy/news-app))
 
-## Input funnels
+## How to contribute?
 
 * Manually add a news item via PR to this repository
 * Send a suggestion to our Matrix channel: [#w3p-news:gwei.cz](https://matrix.to/#/#w3p-news:gwei.cz)
