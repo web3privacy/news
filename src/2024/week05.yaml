@@ -32,3 +32,7 @@ news:
 - text: [NSA Admits Secretly Buying Your Internet Browsing Data without Warrants](https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html)
   date: 2024-01-29
   cat: gov
+
+- text: [Horswap](https://1.horswap.eth.limo/): Uniswap frontend without censorship or interface fees
+  src: https://twitter.com/MicahZoltu/status/1753416705983074668
+  cat: ecosystem
