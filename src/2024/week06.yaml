@@ -8,3 +8,8 @@ news:
 - text: |
     Web3Privacy Now published a proof-of-concept of their [privacy news aggregator](https://news.web3privacy.info)
   cat: research
+
+- text: |
+    Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0)
+  cat: wallets
+date: 2024-02-06
