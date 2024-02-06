@@ -4,6 +4,10 @@
 
 This repository serves as a central collection point for all privacy-related news on web3.
 
+## Frontend
+
+* [news.web3privacy.info](https://news.web3privacy.info/)
+
 ## Input funnels
 
 * Manually add a news item via PR to this repository
