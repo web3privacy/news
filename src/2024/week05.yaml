@@ -1,17 +1,6 @@
 news:
 
 - text: |
-    Nym x Zcash grant
-  src: https://forum.zcashcommunity.com/t/revised-nym-for-zcash-network-level-privacy/46688
-  cat: ecosystem
-  
-- text: |
-    MoneroKon 2024 started [selling tickets](https://shop.monerokon.org/monerokon/2024/)
-  src: https://twitter.com/MoneroKon/status/1752928601299730871
-  date: 2024-02-01
-  cat: events
-
-- text: |
     [Privacy Spreadsheet](https://privacyspreadsheet.com/messaging-apps) comparing different messengers on their privacy properties
   src: https://twitter.com/russian_bot_69/status/1754051913182478683
   date: 2024-02-04
@@ -24,6 +13,28 @@ news:
   cat: research
 
 - text: |
+    Nym x Zcash grant
+  src: https://forum.zcashcommunity.com/t/revised-nym-for-zcash-network-level-privacy/46688
+  cat: ecosystem
+
+- text: |
+    [Horswap](https://1.horswap.eth.limo/): Uniswap frontend without censorship or interface fees, by @MicahZoltu
+  src: https://twitter.com/MicahZoltu/status/1753416705983074668
+  cat: ecosystem
+  date: 2024-02-02
+
+- text: |
+    [NSA Admits Secretly Buying Your Internet Browsing Data without Warrants](https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html)
+  date: 2024-01-29
+  cat: gov
+  
+- text: |
+    MoneroKon 2024 started [selling tickets](https://shop.monerokon.org/monerokon/2024/)
+  src: https://twitter.com/MoneroKon/status/1752928601299730871
+  date: 2024-02-01
+  cat: events
+
+- text: |
     ETHBerlin4 [Hacker application](https://visas.ethberlin.org/ethberlin/4/) & [volunteer application](https://office.ethberlin.org/form/#/2/form/view/Jg-FHZYy2RKg7XTJ9pULHii0du1kVQ2QwawZdjkmgCY/) open
   src: https://twitter.com/ETHBerlin/status/1753791403690246348
   date: 2024-02-03
@@ -34,14 +45,3 @@ news:
   src: https://twitter.com/JackRhysider/status/1752013494810198079
   date: 2024-01-29
   cat: videos
-
-- text: |
-    [NSA Admits Secretly Buying Your Internet Browsing Data without Warrants](https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html)
-  date: 2024-01-29
-  cat: gov
-
-- text: |
-    [Horswap](https://1.horswap.eth.limo/): Uniswap frontend without censorship or interface fees, by @MicahZoltu
-  src: https://twitter.com/MicahZoltu/status/1753416705983074668
-  cat: ecosystem
-  date: 2024-02-02
