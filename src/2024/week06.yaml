@@ -37,11 +37,6 @@ news:
   cat: ecosystem
 
 - text: |
-    IllumineX (confidental EVM DEX) [launched Mainnet](https://oasisprotocol.org/blog/illuminex-mainnet-oasis-sapphire) on Oasis Sapphire network
-  src: https://twitter.com/oasisprotocol/status/1754562811462922606
-  cat: ecosystem
-
-- text: |
     Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
   cat: releases
   date: 2024-02-06
