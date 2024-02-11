@@ -56,3 +56,8 @@ news:
     [Breaking Bitlocker](https://www.youtube.com/watch?v=wTl4vEednkQ) - Bypassing the Windows Disk Encryption
   src: https://twitter.com/wilderko/status/1754198973303165187
   cat: videos
+
+- text: |
+    IllumineX (confidental EVM DEX) [launched Mainnet](https://oasisprotocol.org/blog/illuminex-mainnet-oasis-sapphire) on Oasis Sapphire network
+  src: https://twitter.com/oasisprotocol/status/1754562811462922606
+  cat: ecosystem
