@@ -86,6 +86,10 @@ news:
   cat: other
 
 - text: |
+   [Liberation Travel Hacks 02/2024](https://liberation.travel/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzEwLCI0ZjU4NjA1ZWIxMzQiLDAsMCw1LDFd) from Liberation Travel ([subscribe](https://liberation.travel/new-liberation-travel-hacks-month-letter/))
+  cat: other
+
+- text: |
     Canada moves to [ban Flipper Zero](https://gizmodo.com/canada-moves-to-ban-the-flipper-zero-over-car-hacking-f-1851242790) over car hacking fears
   src: https://twitter.com/wilderko/status/1756719463406211357
   cat: other
