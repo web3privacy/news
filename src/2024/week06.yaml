@@ -19,15 +19,27 @@ news:
   ref: ajs
   cat: ecosystem
 
+#
+# Fake news?
+#
+# - text: |
+#    Railway Wallet made its wallet [fully open-source](https://github.com/Railway-Wallet) under a GPL v2 license
+#  ref: mykola
+#  src: https://www.coindesk.com/tech/2024/02/01/protocol-latest-tech-news-crypto-blockchain/
+#  cat: ecosystem
+
 - text: |
-    Railway Wallet made its wallet [fully open-source](https://github.com/Railway-Wallet) under a GPL v2 license
-  ref: mykola
-  src: https://www.coindesk.com/tech/2024/02/01/protocol-latest-tech-news-crypto-blockchain/
+    [Brave Nightly](https://brave.com/download-nightly/) support Zcash in their integrated wallet (only unshielded transactions for now)
+  src: https://twitter.com/brave/status/1756138102395973834
+  cat: ecosystem
+
+- text: |
+    WalletConnect launches Web3Modal Analytics, showing that they [doesn't mind tracking own users](https://twitter.com/hazae41/status/1755379493609374113)
   cat: ecosystem
 
 - text: |
     Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
-  cat: wallets
+  cat: releases
   date: 2024-02-06
 
 - text: |
