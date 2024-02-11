@@ -64,30 +64,30 @@ news:
 
 - text: |
     [War on privacy in Web3?](https://www.podpage.com/epic-web3-podcast/war-on-privacy-in-web3-with-zach-williamson-co-founder-ceo-at-aztec-protocol/): with Zach Williamson, CEO at Aztec Protocol
-  cat: talks
+  cat: podcasts
   date: 2024-02-05
 
 - text: |
     [Function of privacy in DeFi](https://twitter.com/therollupco/status/1755052382633787690): @robbie_rollup and Lou Waroo from Houdini Swap, crosschain DEX and liquidity agreggator
-  cat: talks
+  cat: podcasts
   date: 2024-02-07
 
 - text: |
     [DAO Privacy](https://twitter.com/i/spaces/1ZkKzjvBLXwKv): X space with Gnosis Guild, Safe, Shutter Network, ShapeShift & Fractal
   src: https://twitter.com/fractalappxyz/status/1753886789402575131
   date: 2024-02-07
-  cat: talks
+  cat: community-talks
 
 - text: |
     [Drama is the Prime Indicator of Decentralisation](https://www.youtube.com/watch?v=PLJ1DYdae7o&t=1050s): with Dr. Nick Almond from Factory DAO
   src: https://twitter.com/wuipod/status/1756743521296347418
-  cat: talks
+  cat: podcasts
 
 - text: |
     Defunkt: The co-founder and former CEO of GitHub has been [banned from GitHub](https://twitter.com/defunkt/status/1754610843361362360) (without explanation)
   src: https://twitter.com/vpavlin/status/1754792610898587700
   ref: vpavlin
-  cat: other
+  cat: podcasts
 
 - text: |
     Citrea: [Bitcoin's first ZK Rollup](https://www.blog.citrea.xyz/introducing-citrea/)
