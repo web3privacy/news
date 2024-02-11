@@ -14,10 +14,6 @@ news:
   cat: research
 
 - text: |
-    Defunkt: The co-founder and former CEO of GitHub has been [banned from GitHub](https://twitter.com/defunkt/status/1754610843361362360) (without explanation).
-  cat: ecosystem
-
-- text: |
     Logos, Nomos, Waku, Codex, Status and others now federated under the [Institute of Free Technology](https://free.technology/)
   cat: ecosystem
     
@@ -72,3 +68,7 @@ news:
   src: https://twitter.com/fractalappxyz/status/1753886789402575131
   date: 2024-02-07
   cat: talks
+
+- text: |
+    Defunkt: The co-founder and former CEO of GitHub has been [banned from GitHub](https://twitter.com/defunkt/status/1754610843361362360) (without explanation).
+  cat: other
