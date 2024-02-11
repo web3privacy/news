@@ -79,3 +79,8 @@ news:
   src: https://twitter.com/vpavlin/status/1754792610898587700
   ref: vpavlin
   cat: other
+
+- text: |
+    Citrea: [Bitcoin’s first ZK Rollup](https://www.blog.citrea.xyz/introducing-citrea/)
+  src: https://twitter.com/citrea_xyz/status/1754883284893356368
+  cat: other
