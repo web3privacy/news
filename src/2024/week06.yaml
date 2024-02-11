@@ -15,6 +15,17 @@ news:
   cat: ecosystem
 
 - text: |
+    Financial Times article on Monero delisting: [Binance delisting sparks privacy concerns](https://archive.is/20240209130053/https://www.ft.com/content/971ac694-f250-412c-9fe0-f956378a751a)
+  ref: ajs
+  cat: ecosystem
+
+- text: |
+    Railway Wallet made its wallet [fully open-source](https://github.com/Railway-Wallet) under a GPL v2 license
+  ref: mykola
+  src: https://www.coindesk.com/tech/2024/02/01/protocol-latest-tech-news-crypto-blockchain/
+  cat: ecosystem
+
+- text: |
     Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
   cat: wallets
   date: 2024-02-06
