@@ -29,8 +29,7 @@ news:
 #  cat: ecosystem
 
 - text: |
-    [Brave Nightly](https://brave.com/download-nightly/) support Zcash in their integrated wallet (only unshielded transactions for now)
-  src: https://twitter.com/brave/status/1756138102395973834
+    [Brave Nightly support Zcash](https://twitter.com/brave/status/1756138102395973834) in their integrated wallet (only unshielded transactions for now)
   cat: ecosystem
 
 - text: |
