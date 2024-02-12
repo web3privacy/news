@@ -7,7 +7,7 @@ import issues from '../issues.json';
 ---
 
 <BaseLayout>
-	{issues.map((issue) => (
+	{issues.filter(i => i.newsHtml !== "").map((issue) => (
 		<WeekNews {issue} />
 	))}
 </BaseLayout>
