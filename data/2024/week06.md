@@ -2,6 +2,8 @@
 curator: Tree
 ---
 
+Welcome to our historically **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).
+
 ## The journey begins
 
 At the end of each week, you'll find here a **curated round-up of the most important news and announcements related to privacy in the Web3**. But not only that - we also aim to cover related topics such as freedom, security and decentralisation.
@@ -76,3 +78,7 @@ We hope you will like our concept, but for now, enough talk and let's get to the
 * Oct, [ETHBrno](https://ethbrno.cz/) hackathon
 
 Do you know of any other major Web3 privacy-related event that should be included in this list? [Let us know](https://matrix.to/#/#w3p-news:gwei.cz)!
+
+---
+
+[Sign up](https://paragraph.xyz/@privacynews/subscribe) to receive this newsletter weekly.

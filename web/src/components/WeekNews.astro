@@ -49,6 +49,14 @@ const current = false;
                         <th>Post preview</th>
                         <td><textarea rows="3" cols="65">{config.template.preview.trim()} This edition covers period {format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}.</textarea></td>    
                     </tr>
+                    <tr>
+                        <th>Content (HTML)</th>
+                        <td><textarea rows="5" cols="65">{issue.newsHtml}</textarea></td>
+                    </tr>
+                    <tr>
+                        <th>Content (Markdown)</th>
+                        <td><textarea rows="5" cols="65">{issue.newsMd}</textarea></td>
+                    </tr>
                 </table>
             </div>     
         </div>
