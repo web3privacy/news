@@ -24,7 +24,7 @@ const issue = issues.find(i => i.week === week)
         <div class="grid h-full">
             <div class="mt-48 ml-48">
                 <div class="text-8xl text-white font-bold">{config.name}</div>
-                <div class="text-7xl mt-16">{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
+                <div class="text-6xl mt-16">{issue.week.split('-').reverse().join('/')} | {format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
             </div>
             <div class="flex h-full items-end justify-end">
                 <div class="mr-48 mb-48">
