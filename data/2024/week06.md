@@ -2,23 +2,26 @@
 curator: Tree
 ---
 
-Welcome to our historically **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).
+Welcome to historical debut - the **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).
 
-## The journey begins
+## Privacy awareness starts in 1,2,3
 
-At the end of each week, you'll find here a **curated round-up of the most important news and announcements related to privacy in the Web3**. But not only that - we also aim to cover related topics such as freedom, security and decentralisation.
+_Have you ever tried to follow privacy news?_ Spending hours & hours every week & still lacking clear picture on the latest updates. 
 
-This newsletter is produced by the people around the [Web3Privacy Now](https://web3privacy.info/) initiative. We are passionate about privacy and through many activities such as research, education or IRL events we try to connect people with the same interests or spread these ideas to the wider public.
+The Web3Privacy Now community solves this issue
 
-Like all our other activities, this newsletter is fully [open-source](https://github.com/web3privacy/news) and community-based, so open to anyone to participate. If you want to contribute a news item that should not be missing in the next issue - we would be happy if you send us a tip in our [News channel on Matrix](https://matrix.to/#/%23w3p-news:gwei.cz), or add the news item directly to the [repository on GitHub](https://github.com/web3privacy/news).
+Every week - **1 curated round-up of the most important news related to privacy in the Web3**. Freedom, security and decentralisation topics as a bonus.
 
-**Your help is crucial for us**, because this newsletter should reflect exactly what is important for *you* - what *you* enjoy or what *you* are worried about. Help us shape future editions in the right direction!
+**Production team**: the [Web3Privacy Now](https://web3privacy.info/) community members. We are passionate about privacy and through many activities such as research, education or IRL events we try to connect people with the same interests or spread these ideas to the wider public.
 
-You can learn more about the Week in the Privacy News concept in [our documentation](https://docs.web3privacy.info/news/week-in-the-privacy).
+**Join us**: all our activities are [open-source](https://github.com/web3privacy/news) and community-based, so you can freely contribute with your news:
+- send us a tip in our [News channel on Matrix](https://matrix.to/#/%23w3p-news:gwei.cz)
+- add the news item directly to the [repository on GitHub](https://github.com/web3privacy/news)
+- or share them with us on [X](http://twitter.com/web3privacy)
 
-We hope you will like our concept, but for now, enough talk and let's get to the news...
+Learn more about the Week in the Privacy News [here](https://docs.web3privacy.info/news/week-in-the-privacy).
 
--- Tree
+-- [Tree](https://tree.fail)
 
 ---
 
