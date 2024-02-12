@@ -15,7 +15,7 @@ const { title, description, image } = Astro.props;
         <MetaTags
             title={title ? title : config.name}
             description={description ? description : config.template.preview}
-            {image}
+            image={image ? image : 'https://news.web3privacy.info/img/cover.png'}
         />
 
 	</head>
