@@ -41,7 +41,7 @@ We hope you will like our concept, but for now, enough talk and let's get to the
 
 ### Releases
 
-* Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, added features, faster startup, content creation introduction
+* Brume Wallet [v0.5](https://github.com/brumewallet/wallet/releases/tag/v0.5.0): UI enhancements, faster startup, cleaner onboarding
 
 ### Podcasts
 
