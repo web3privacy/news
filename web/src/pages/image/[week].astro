@@ -1,0 +1,32 @@
+---
+import '../../styles/base.css';
+import config from '../../config.yaml';
+import issues from '../../issues.json';
+const { week } = Astro.params;
+
+import { setWeek, nextMonday, format, addDays } from 'date-fns';
+
+export function getStaticPaths() {
+    return issues.map(issue => {
+        return {
+            params: { week: issue.week }
+        }
+    })
+}
+
+const issue = issues.find(i => i.week === week)
+
+---
+
+<html>
+    <head></head>
+    <body class="w-full h-full">
+        <div class="m-20 w-full h-full">
+            <div class="w-16 mb-14">
+                <div class="w3pn-logo h-24"></div>
+            </div>
+            <div class="text-7xl text-white font-bold">{config.name}</div>
+            <div class="text-6xl mt-10">{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
+        </div>
+    </body>
+</html>

@@ -46,7 +46,7 @@ async function build() {
         const imgResp = await fetch("https://html2svg.gwei.cz", {
             method: 'POST',
             body: JSON.stringify({
-                url: "https://news.web3privacy.info/",
+                url: `https://news.web3privacy.info/image/${issue.week}`,
                 format: "png",
                 width: 1920,
                 height: 960,
