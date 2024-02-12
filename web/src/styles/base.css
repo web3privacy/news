@@ -37,6 +37,17 @@
     .news-content li {
         @apply ml-6 mb-2;
     }
+
+    .release-helper {
+        @apply m-4;
+    }
+    .release-helper th {
+        @apply pr-4 text-right;
+
+    }
+    .release-helper textarea {
+        @apply text-white bg-black p-2;
+    }
 }
 
 .w3pn-logo {

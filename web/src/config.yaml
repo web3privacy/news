@@ -1,5 +1,9 @@
+name: Week in the Privacy News
 cats:
   events:
     title: Events
   gov:
     title: Government
+template:
+  preview: |
+    Weekly newsletter with round-up of the most important news happening around privacy in Web3.

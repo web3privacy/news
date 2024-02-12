@@ -8,7 +8,7 @@ const SRC_DIR = "./data";
 const DEST_DIR = "./dist";
 
 async function build() {
-    const issues = [];
+    let issues = [];
     for await (const dirEntry of Deno.readDir(SRC_DIR)) {
         if (!dirEntry.isDirectory || !dirEntry.name.match(/^\d{4}$/)) {
             continue;

@@ -20,5 +20,5 @@ const issue = issues.find(item => item.week === week);
     <div class="mb-8">
         <a href="/">← Show latest edition</a>
     </div>
-	<WeekNews {issue} />
+	<WeekNews {issue} isFull={true} />
 </BaseLayout>
