@@ -38,6 +38,28 @@ async function build() {
     }
 
     await emptyDir(DEST_DIR);
+    const imgDir = join(DEST_DIR, "img")
+    await emptyDir(imgDir)
+
+    // get images
+    for (const issue of issues) {
+        const imgResp = await fetch("https://html2svg.gwei.cz", {
+            method: 'POST',
+            body: JSON.stringify({
+                url: "https://news.web3privacy.info/",
+                format: "png",
+                width: 1920,
+                height: 960,
+            })
+        });
+
+        const imgFn = join(imgDir, `${issue.week}.png`)
+        if (imgResp.body) {
+            const file = await Deno.open(imgFn, { write: true, create: true });
+            await imgResp.body.pipeTo(file.writable);
+        }
+    }
+
     const outputFn = join(DEST_DIR, "index.json");
     await writeJSONFile(outputFn, issues);
 }
