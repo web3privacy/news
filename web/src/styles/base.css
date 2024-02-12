@@ -17,9 +17,20 @@
         @apply no-underline;
     }
 
+    .news-content p {
+        @apply mb-4;
+    }
+
     .news-content h3 {
         @apply mb-4 text-xl;
     }
+    .news-content h2 {
+        @apply mb-6 text-2xl;
+    }
+    .news-content hr {
+        @apply my-8 border-[#909090];
+    }
+
     .news-content ul {
         @apply list-disc mb-6;
     }

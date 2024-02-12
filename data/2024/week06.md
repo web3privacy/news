@@ -2,6 +2,26 @@
 curator: Tree
 ---
 
+## The journey begins
+
+At the end of each week, you'll find here a **curated round-up of the most important news and announcements related to privacy in the Web3**. But not only that - we also aim to cover related topics such as freedom, security and decentralisation.
+
+This newsletter is produced by the people around the [Web3Privacy Now](https://web3privacy.info/) initiative. We are passionate about privacy and through many activities such as research, education or IRL events we try to connect people with the same interests or spread these ideas to the wider public.
+
+Like all our other activities, this newsletter is fully [open-source](https://github.com/web3privacy/news) and community-based, so open to anyone to participate. If you want to contribute a news item that should not be missing in the next issue - we would be happy if you send us a tip in our [News channel on Matrix](https://matrix.to/#/%23w3p-news:gwei.cz), or add the news item directly to the [repository on GitHub](https://github.com/web3privacy/news).
+
+**Your help is crucial for us**, because this newsletter should reflect exactly what is important for *you* - what *you* enjoy or what *you* are worried about. Help us shape future editions in the right direction!
+
+You can learn more about the Week in the Privacy News concept in [our documentation](https://docs.web3privacy.info/news/week-in-the-privacy).
+
+We hope you will like our concept, but for now, enough talk and let's get to the news...
+
+-- Tree
+
+---
+
+## Feb 5 - Feb 11, 2024
+
 ### Research
 
 * [Week in the Privacy News](https://news.web3privacy.info/): new weekly summary of the most important news from ecosystem
@@ -39,3 +59,20 @@ curator: Tree
 * Citrea: [Bitcoin's first ZK Rollup](https://www.blog.citrea.xyz/introducing-citrea/) ([src](https://twitter.com/citrea_xyz/status/1754883284893356368))
 * [Liberation Travel Hacks 02/2024](https://liberation.travel/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzEwLCI0ZjU4NjA1ZWIxMzQiLDAsMCw1LDFd) from Liberation Travel ([subscribe](https://liberation.travel/new-liberation-travel-hacks-month-letter/))
 * Canada moves to [ban Flipper Zero](https://gizmodo.com/canada-moves-to-ban-the-flipper-zero-over-car-hacking-f-1851242790) over car hacking fears ([src](https://twitter.com/wilderko/status/1756719463406211357))
+
+---
+
+## Upcoming events
+
+* Feb 20, [Binance delisting Monero](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5)
+* Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
+* Apr 12-14, [ETHDam](https://www.ethdam.com/) hackathon
+* May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
+* May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
+* Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
+* Jun 19-26, [Web3Privacy Now Hackathon](https://web3privacy.info/events/) (Bled)
+* Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
+* Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
+* Oct, [ETHBrno](https://ethbrno.cz/) hackathon
+
+Do you know of any other major Web3 privacy-related event that should be included in this list? [Let us know](https://matrix.to/#/#w3p-news:gwei.cz)!
