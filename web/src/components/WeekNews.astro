@@ -23,8 +23,11 @@ const current = false;
         <div class="mt-2 sm:mt-0 flex gap-4 items-center">
             {issue.published &&
                 <a href={issue.published}>Paragraph</a>
+                <a href=`https://github.com/web3privacy/news/blob/main/data/${year}/week${week}.md`>Source</a>
             }
-            <a href=`https://github.com/web3privacy/news/edit/main/data/${year}/week${week}.md`>{issue.published ? 'Source' : 'Edit'}</a>
+            {!issue.published &&
+                <a href=`https://github.com/web3privacy/news/edit/main/data/${year}/week${week}.md`>Edit</a>
+            }
         </div>
     </div>
 
