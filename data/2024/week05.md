@@ -1,3 +1,7 @@
+---
+published: https://paragraph.xyz/@privacynews/2024-05
+---
+
 ### Research
 
 * [Privacy Spreadsheet](https://privacyspreadsheet.com/messaging-apps) comparing different messengers on their privacy properties ([src](https://twitter.com/russian_bot_69/status/1754051913182478683))

@@ -1,0 +1,30 @@
+---
+import { setWeek, nextMonday, format, addDays } from 'date-fns';
+const { issue } = Astro.props;
+
+const [ year, week ] = issue.week.split('-');
+const current = false;
+
+---
+
+
+<div class=`mb-8 border ${!issue.published ? "border-dashed border-blue-950" : "border-white/20"}`>
+    
+    <div class=`flex w-full p-4 sm:p-6 ${!issue.published ? "bg-blue-950" : "bg-white/10"}`>
+        <div class="grid gap-2 sm:gap-6 sm:flex items-center">
+            <h1 class="text-2xl"><a href={issue.published} class=`${!issue.published ? 'no-underline' : ''}`>Week {issue.week.split('-').join('/')}</a></h1>
+            <div class=`text-xl ${current ? "text-white/50" : ""}`>{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
+            {!issue.published &&
+                <div class="text-white">🚧 Current week</div>
+            }
+        </div>
+        <div class="grow"></div>
+        <div class="">
+            <a href=`https://github.com/web3privacy/news/edit/main/data/${year}/week${week}.md`>Edit</a>
+        </div>
+    </div>
+
+    <div class="p-4 sm:p-6">
+        <div class="news-content" set:html={issue.newsHtml}></div>
+    </div>
+</div>

@@ -16,6 +16,16 @@
     a:hover {
         @apply no-underline;
     }
+
+    .news-content h3 {
+        @apply mb-4 text-xl;
+    }
+    .news-content ul {
+        @apply list-disc mb-6;
+    }
+    .news-content li {
+        @apply ml-6 mb-2;
+    }
 }
 
 .w3pn-logo {
