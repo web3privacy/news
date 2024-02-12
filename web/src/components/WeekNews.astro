@@ -12,10 +12,10 @@ const current = false;
     
     <div class=`flex w-full p-4 sm:p-6 ${!issue.published ? "bg-blue-950" : "bg-white/10"}`>
         <div class="grid gap-2 sm:gap-6 sm:flex items-center">
-            <h1 class="text-2xl"><a href={issue.published} class=`${!issue.published ? 'no-underline' : ''}`>Week {issue.week.split('-').join('/')}</a></h1>
+            <h1 class="text-2xl"><a href=`/issue/${issue.week}`>Week {issue.week.split('-').join('/')}</a></h1>
             <div class=`text-xl ${current ? "text-white/50" : ""}`>{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
             {!issue.published &&
-                <div class="text-white">🚧 Current week</div>
+                <div class="text-white">🚧 Future edition</div>
             }
         </div>
         <div class="grow"></div>

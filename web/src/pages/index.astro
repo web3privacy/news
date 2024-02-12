@@ -7,9 +7,6 @@ import issues from '../issues.json';
 ---
 
 <BaseLayout>
-	<div class="mb-8">
-		<a href="https://paragraph.xyz/@privacynews/subscribe">Subscribe now!</a>
-	</div>
 	{issues.map((issue) => (
 		<WeekNews {issue} />
 	))}
