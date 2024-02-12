@@ -21,12 +21,14 @@ const issue = issues.find(i => i.week === week)
 <html>
     <head></head>
     <body class="w-full h-full">
-        <div class="m-20 w-full h-full">
-            <div class="w-16 mb-14">
-                <div class="w3pn-logo h-24"></div>
+        <div class="grid m-24 h-screen">
+            <div class="w-full">
+                <div class="text-8xl text-white font-bold">{config.name}</div>
+                <div class="text-7xl mt-16">{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
             </div>
-            <div class="text-7xl text-white font-bold">{config.name}</div>
-            <div class="text-6xl mt-10">{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
+            <div class="flex h-full w-full items-end justify-end">
+                <div class="w3pn-logo h-32"></div>
+            </div>
         </div>
     </body>
 </html>
