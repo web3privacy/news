@@ -1,41 +1,61 @@
-name: Build and Deploy
-on:
-    push:
-      branches:
-        - main  # Set a branch to deploy
-    pull_request:
-        
-permissions:
-  contents: write
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-        with:
-           fetch-depth: 0
 
-      - uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
+name: Deploy to GitHub Pages
+
+on:
+  # Trigger the workflow every time you push to the `main` branch
+  # Using a different branch name? Replace `main` with your branch’s name
+  push:
+    branches: [ main ]
+
+# Allow this job to clone the repo and create a page deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v3
 
       - uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Europe/Prague"
 
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
       - name: Build bundle
         run: make
 
-      #- name: Add custom domain
-      #  run: "touch dist/CNAME && echo \"data.web3privacy.info\" >> dist/CNAME"
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Setup node
+        uses: actions/setup-node@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+            cache: npm
+
+      - name: Web install
+        run: "cd web && npm install"
+    
+      - name: Web build
+        run: "cd web && npm run build"
+
+      - name: Upload Pages Artifact
+        # Must use v2 to avoid requiring `actions/deploy-pages@v4` or newer
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+

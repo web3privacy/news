@@ -1,0 +1,31 @@
+---
+import '../styles/base.css';
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Week in the Privacy News | Web3Privacy Now</title>
+	</head>
+	<body>
+        <div class="m-4 sm:m-8">
+            <div class="md:flex w-full">
+                <div class="flex gap-6">
+                    <a href="https://web3privacy.info"><div class="w3pn-logo h-6 sm:h-8 md:h-10"></div></a>
+		            <h1 class="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold">Week in the Privacy News</h1>
+                </div>
+                <div class="grow"></div>
+                <div class="flex gap-3 mt-4 md:mt-0">
+                    <a href="https://docs.web3privacy.info/news/week-in-the-privacy">Documentation</a>
+                    <a href="https://github.com/web3privacy/news">Source code</a>
+                </div>
+            </div>
+            <div class="mt-10">
+                <slot />
+            </div>
+        </div>
+	</body>
+</html>
