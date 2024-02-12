@@ -2,11 +2,11 @@
 curator: Tree
 ---
 
-Welcome to historical debut - the **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).
+Welcome to the historical debut - the **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).
 
 ## Privacy awareness starts in 1,2,3
 
-_Have you ever tried to follow privacy news?_ Spending hours & hours every week & still lacking clear picture on the latest updates. 
+_Have you ever tried to follow privacy news?_ Spending hours & hours every week & still lacking a clear picture of the latest updates.
 
 The Web3Privacy Now community solves this issue
 
