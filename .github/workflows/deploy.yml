@@ -29,7 +29,7 @@ jobs:
           deno-version: v1.x
 
       - name: Build bundle
-        run: make
+        run: make build
 
       - name: Setup node
         uses: actions/setup-node@v4
@@ -37,11 +37,11 @@ jobs:
             cache: npm
             cache-dependency-path: ./web/package-lock.json
 
-      - name: Web install
-        run: "cd web && npm install"
-    
-      - name: Web build
-        run: "cd web && npm run build"
+      - name: Build frontend
+        run: make frontend
+
+      - name: Compile all together
+        run: make compile
 
       - name: Upload Pages Artifact
         # Must use v2 to avoid requiring `actions/deploy-pages@v4` or newer
