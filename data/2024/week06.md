@@ -19,7 +19,7 @@ Every week - **1 curated round-up of the most important news related to privacy 
 - add the news item directly to the [repository on GitHub](https://github.com/web3privacy/news)
 - or share them with us on [X](http://twitter.com/web3privacy)
 
-Learn more about the Week in the Privacy News [here](https://docs.web3privacy.info/news/week-in-the-privacy).
+Learn more about the Week in the Privacy News in our [Documentation](https://docs.web3privacy.info/news/week-in-the-privacy).
 
 -- [Tree](https://tree.fail)
 
