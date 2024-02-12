@@ -4,7 +4,7 @@ import { setWeek, nextMonday, format, addDays } from 'npm:date-fns';
 import { marked } from 'npm:marked';
 import matter from 'npm:front-matter';
 
-const SRC_DIR = "./src";
+const SRC_DIR = "./data";
 const DEST_DIR = "./dist";
 
 async function build() {
