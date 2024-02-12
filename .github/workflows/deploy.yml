@@ -1,0 +1,41 @@
+name: Build and Deploy
+on:
+    push:
+      branches:
+        - main  # Set a branch to deploy
+    pull_request:
+        
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+           fetch-depth: 0
+
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Prague"
+
+      - name: Build bundle
+        run: make
+
+      #- name: Add custom domain
+      #  run: "touch dist/CNAME && echo \"data.web3privacy.info\" >> dist/CNAME"
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
