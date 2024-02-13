@@ -10,4 +10,4 @@ curator: Mykola
 
 ### Releases
 
-* Noir [v0.24.0](https://github.com/noir-lang/noir/releases)
+* Noir [v0.24.0](https://github.com/noir-lang/noir/releases) (pre-release)
