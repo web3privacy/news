@@ -33,7 +33,6 @@ Learn more about the Week in the Privacy News in our [Documentation](https://doc
 * Pavol Lupták: [Brave is not a true privacy-oriented browser](https://twitter.com/wilderko/status/1755724309371158612)
 * Zac Williamson: thread about visions of a [dystopian future when we fail](https://twitter.com/Zac_Aztec/status/1755309412435259657)
 * Wired: [experience with Passkeys](https://web.archive.org/web/20240211021321/https://www.wired.com/story/stopped-using-passwords-passkeys/#intcid=_wired-tag-right-rail_be4cde38-940c-4c15-8796-37cb1513d6ae_popular4-1)
-* [Swarm Foundation](https://www.ethswarm.org/): The new paper about [Erasure Coding](https://papers.ethswarm.org/p/erasure/) on the Swarm Network has been published. It provides a technical exploration of erasure coding within the Swarm network, focusing on ensuring data integrity and resilience.
 
 ### Ecosystem
 
