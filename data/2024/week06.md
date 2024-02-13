@@ -1,6 +1,9 @@
 ---
 curator: Tree
-published: https://paragraph.xyz/@privacynews/2024-06
+published: true
+links:
+  paragraph: https://paragraph.xyz/@privacynews/2024-06
+  mirror: https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/YeescUmT44QN7Hv4a9L6GuK6LZS0N5VO-4g7NnYHNbo
 ---
 
 Welcome to the historical debut - the **first edition** (#1) of [Week In The Privacy News](https://news.web3privacy.info/).

@@ -1,5 +1,7 @@
 ---
-published: https://paragraph.xyz/@privacynews/2024-05
+published: true
+links:
+  paragraph: https://paragraph.xyz/@privacynews/2024-05
 ---
 
 ### Research

@@ -6,6 +6,10 @@ import config from '../config.yaml';
 const [ year, week ] = issue.week.split('-');
 const current = false;
 
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 ---
 
 
@@ -22,7 +26,11 @@ const current = false;
         <div class="grow"></div>
         <div class="mt-2 sm:mt-0 flex gap-4 items-center">
             {issue.published &&
-                <a href={issue.published}>Paragraph</a>
+                <div class="flex gap-4">
+                    {Object.keys(issue.links).map((lk) => 
+                        <a href={issue.links[lk]}>{capitalizeFirstLetter(lk)}</a>
+                    )}
+                </div>
                 <a href=`https://github.com/web3privacy/news/blob/main/data/${year}/week${week}.md`>Source</a>
             }
             {!issue.published &&
