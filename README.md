@@ -1,4 +1,4 @@
-<img src="https://github.com/web3privacy/news/assets/67269/3751ac53-019d-411c-83ce-77faf4b2505d" width="75%" />
+<a href="https://news.web3privacy.info"><img src="https://github.com/web3privacy/news/assets/67269/3751ac53-019d-411c-83ce-77faf4b2505d" width="75%" /></a>
 
 # Week in the Privacy News
 
