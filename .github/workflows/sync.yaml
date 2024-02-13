@@ -1,0 +1,30 @@
+name: Synchronize repo
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+  pages: write
+  actions: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v3
+
+      - uses: denoland/setup-deno@v1
+        with:
+            deno-version: v1.x
+
+      - name: Run synchronization script
+        run: make sync
+    
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions

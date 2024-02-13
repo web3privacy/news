@@ -9,5 +9,8 @@ frontend:
 readme:
 	deno run --allow-all utils/readme.js
 
+sync:
+	make readme
+
 compile:
 	cp -r web/dist/** dist
