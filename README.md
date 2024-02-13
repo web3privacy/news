@@ -17,7 +17,7 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 | Week | Period | Deadline | Curator |
 | --- | --- | --- | --- |
 | [2024-07](/data/2024/week07.md) | Feb 12 - Feb 18, 2024 | Feb 18 | Mykola |
-| [2024-06](/data/2024/week06.md) | Feb 5 - Feb 11, 2024 | ✅ published | Tree |
-| [2024-05](/data/2024/week05.md) | Jan 29 - Feb 4, 2024 | ✅ published | - |
+| [2024-06](/data/2024/week06.md) | Feb 5 - Feb 11, 2024 | ✅ [published](https://news.web3privacy.info/2024-06) | Tree |
+| [2024-05](/data/2024/week05.md) | Jan 29 - Feb 4, 2024 | ✅ [published](https://news.web3privacy.info/2024-05) | - |
 
 <!-- ISSUES-END -->

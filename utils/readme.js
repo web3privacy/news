@@ -12,7 +12,7 @@ for (const issue of issues) {
     const props = [
         `[${issue.week}](/data/${year}/week${week}.md)`,
         `${format(new Date(issue.period[0]), "MMM d")} - ${format(new Date(issue.period[1]), "MMM d, yyyy")}`,
-        issue.published ? '✅ published' : format(new Date(issue.period[1]), "MMM d"),
+        issue.published ? `✅ [published](https://news.web3privacy.info/${issue.week})` : format(new Date(issue.period[1]), "MMM d"),
         issue.curator || '-'
     ]
 
