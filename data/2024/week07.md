@@ -9,4 +9,4 @@ curator: Mykola
 
 ### Releases
 
-* Noir [v0.24.0](https://github.com/noir-lang/noir/releases)
+* Noir [v0.24.0](https://github.com/noir-lang/noir/releases) - new Traits syntax, new U128 structure & BN254 field comparison module in the std lib ([src](https://twitter.com/aztecnetwork/status/1757224321242837344))
