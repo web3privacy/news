@@ -4,7 +4,8 @@ function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-const issues = JSON.parse(await Deno.readTextFile("./dist/index.json"));
+let issues = JSON.parse(await Deno.readTextFile("./dist/index.json"));
+issues = issues.sort((x, y) => x.period[1] > y.period[1] ? 1 : -1);
 
 const lines = [];
 
