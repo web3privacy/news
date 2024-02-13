@@ -38,24 +38,6 @@ async function build() {
   }
 
   await emptyDir(DEST_DIR);
-  const imgDir = join(DEST_DIR, "img");
-  await emptyDir(imgDir);
-
-  // get images
-  for (const issue of issues) {
-    await genImage(
-      `https://news.web3privacy.info/image/${issue.week}?${
-        new Date().valueOf()
-      }`,
-      join(imgDir, `${issue.week}.png`),
-    );
-  }
-
-  // make cover
-  await genImage(
-    `https://news.web3privacy.info/cover`,
-    join(imgDir, "cover.png"),
-  );
 
   const outputFn = join(DEST_DIR, "index.json");
   await writeJSONFile(outputFn, issues);
@@ -93,23 +75,6 @@ function calcPeriod(year, week) {
 async function writeJSONFile(fn, data) {
   console.log(`File written: ${fn}`);
   return Deno.writeTextFile(fn, JSON.stringify(data, null, 2));
-}
-
-async function genImage(url, fn) {
-  const imgResp = await fetch("https://html2svg.gwei.cz", {
-    method: "POST",
-    body: JSON.stringify({
-      url,
-      format: "png",
-      width: 1920,
-      height: 960,
-    }),
-  });
-
-  if (imgResp.body) {
-    const file = await Deno.open(fn, { write: true, create: true });
-    await imgResp.body.pipeTo(file.writable);
-  }
 }
 
 build();
