@@ -1,3 +1,5 @@
+<img src="https://github.com/web3privacy/news/assets/67269/3751ac53-019d-411c-83ce-77faf4b2505d" width="75%" />
+
 # Week in the Privacy News
 
 [![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml)
