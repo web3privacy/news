@@ -1,7 +1,8 @@
 ---
-import BaseLayout from '../../layouts/base.astro';
-import WeekNews from '../../components/WeekNews.astro';
-import issues from '../../issues.json';
+import BaseLayout from '../layouts/base.astro';
+import WeekNews from '../components/WeekNews.astro';
+import issues from '../issues.json';
+import config from '../config.yaml';
 
 export function getStaticPaths() {
     return issues.map(issue => {
@@ -16,7 +17,11 @@ const issue = issues.find(item => item.week === week);
 
 ---
 
-<BaseLayout>
+<BaseLayout
+    title=`${config.name} - ${issue.week.split('-').reverse().join('/')}`,
+    description=`${config.template.preview}`
+    image=`https://news.web3privacy.info/img/${issue.week}.png`
+>
     <div class="mb-8">
         <a href="/">← Show latest edition</a>
     </div>

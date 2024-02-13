@@ -1,15 +1,23 @@
 ---
 import '../styles/base.css';
 import config from '../config.yaml';
+import MetaTags from '../components/MetaTags.astro';
+
+const { title, description, image } = Astro.props;
+
 ---
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{config.name} | Web3Privacy Now</title>
+
+        <MetaTags
+            title={title ? title : config.name}
+            description={description ? description : config.template.preview}
+            image={image ? image : 'https://news.web3privacy.info/img/cover.png'}
+        />
+
 	</head>
 	<body>
         <div class="m-4 sm:m-8">

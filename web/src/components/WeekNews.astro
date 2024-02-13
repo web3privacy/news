@@ -13,7 +13,7 @@ const current = false;
     
     <div class=`sm:flex w-full p-4 sm:p-6 bg-white/10`>
         <div class="grid gap-2 sm:gap-6 sm:flex items-center">
-            <h1 class="text-2xl"><a href=`/issue/${issue.week}`>Week {issue.week.split('-').reverse().join('/')}</a></h1>
+            <h1 class="text-2xl"><a href=`/${issue.week}`>Week {issue.week.split('-').reverse().join('/')}</a></h1>
             <div class=`text-xl ${current ? "text-white/50" : ""}`>{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
             {!issue.published &&
                 <div class="text-white">🚧 Future edition</div>
@@ -23,8 +23,11 @@ const current = false;
         <div class="mt-2 sm:mt-0 flex gap-4 items-center">
             {issue.published &&
                 <a href={issue.published}>Paragraph</a>
+                <a href=`https://github.com/web3privacy/news/blob/main/data/${year}/week${week}.md`>Source</a>
             }
-            <a href=`https://github.com/web3privacy/news/edit/main/data/${year}/week${week}.md`>{issue.published ? 'Source' : 'Edit'}</a>
+            {!issue.published &&
+                <a href=`https://github.com/web3privacy/news/edit/main/data/${year}/week${week}.md`>Edit</a>
+            }
         </div>
     </div>
 
