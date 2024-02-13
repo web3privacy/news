@@ -17,3 +17,6 @@ sync:
 
 compile:
 	cp -r web/dist/** dist
+
+fmt:
+	deno fmt utils/*.js
