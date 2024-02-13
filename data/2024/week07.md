@@ -2,6 +2,10 @@
 curator: Mykola
 ---
 
+### Research
+
+* [Technical exploration of Erasure Coding](https://papers.ethswarm.org/p/erasure/) within the Swarm network, focusing on ensuring data integrity and resilience -- [@GasperX93](https://github.com/GasperX93)
+
 ### Ecosystem
 
 * [Eppie](https://eppie.io/): encrypted p2p email as better replacement for Skiff ([src](https://blog.eppie.io/post/nextgen/))
