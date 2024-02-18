@@ -2,13 +2,6 @@
 curator: Mykola
 ---
 
-### Research
-
-* [Technical exploration of Erasure Coding](https://papers.ethswarm.org/p/erasure/) within the Swarm network, focusing on ensuring data integrity and resilience -- [@GasperX93](https://github.com/GasperX93)
-* Healthcare data privacy: Researchers pair medical devices with blockchain to defend against cyberattacks ([scs](https://cointelegraph.com/news/researchers-pair-medical-devices-blockchain-defend-against-cyberattacks))
-* OCash: Fully Anonymous Payments between Blockchain Light Clients ([src](https://eprint.iacr.org/2024/246))
-* Pay2Chain bridge, named Alba, facilitates the efficient, secure, and trustless execution of conditional payments or smart contracts on a target blockchain based on off-chain events ([src](https://eprint.iacr.org/2024/197))
-
 ### Concepts
 
 * [Eppie](https://eppie.io/): encrypted p2p email as better replacement for Skiff ([src](https://blog.eppie.io/post/nextgen/))
@@ -31,6 +24,14 @@ curator: Mykola
 * Privacy wallets W3PN database PR by niclaz ([src](https://github.com/web3privacy/web3privacy/pull/54))
 * [Holepunch](https://holepunch.to) launch Pears - a combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool ([src](https://pears.com))
 * Anon Aadhaar v1.0.0 uodate ([src](https://mirror.xyz/privacy-scaling-explorations.eth/YnqHAxpjoWl4e_K2opKPN4OAy5EU4sIJYYYHFCjkNOE))
+* [Lit](https://www.litprotocol.com) V0, Habanero Mainnet Beta: Decentralized Key Management ([src](https://twitter.com/LitProtocol/status/1757051352365109695))
+
+### Research
+
+* [Technical exploration of Erasure Coding](https://papers.ethswarm.org/p/erasure/) within the Swarm network, focusing on ensuring data integrity and resilience -- [@GasperX93](https://github.com/GasperX93)
+* Healthcare data privacy: Researchers pair medical devices with blockchain to defend against cyberattacks ([scs](https://cointelegraph.com/news/researchers-pair-medical-devices-blockchain-defend-against-cyberattacks))
+* OCash: Fully Anonymous Payments between Blockchain Light Clients ([src](https://eprint.iacr.org/2024/246))
+* Pay2Chain bridge, named Alba, facilitates the efficient, secure, and trustless execution of conditional payments or smart contracts on a target blockchain based on off-chain events ([src](https://eprint.iacr.org/2024/197))
 
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
