@@ -29,3 +29,6 @@ curator: Mykola
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
 * ETHBerlin will be sponsorless ([src](https://twitter.com/ETHBerlin/status/1758446135679541694))
+
+### Podcasts
+* Ben Wizner: Speech, Privacy, and Technology | Logos Podcast with Jarrad Hope ([src](https://press.logos.co/podcasts/logos-state/ben-wizner-speech-privacy-and-technology-logos-podcast-with-jarrad-hope))
