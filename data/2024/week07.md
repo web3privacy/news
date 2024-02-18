@@ -27,6 +27,7 @@ curator: Mykola
 * Noir [v0.24.0](https://github.com/noir-lang/noir/releases) (pre-release)
 * Skiff Mail will now run forwarding up through 2025 ([src](https://twitter.com/skiffprivacy/status/1757274376188354979))
 * Privacy wallets W3PN database PR by niclaz ([src](https://github.com/web3privacy/web3privacy/pull/54))
+* [Holepunch](https://holepunch.to) launch Pears - a combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool ([src](https://pears.com))
 
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
@@ -34,3 +35,4 @@ curator: Mykola
 
 ### Podcasts
 * Ben Wizner: Speech, Privacy, and Technology | Logos Podcast with Jarrad Hope ([src](https://press.logos.co/podcasts/logos-state/ben-wizner-speech-privacy-and-technology-logos-podcast-with-jarrad-hope))
+
