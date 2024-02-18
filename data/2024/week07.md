@@ -40,4 +40,5 @@ curator: Mykola
 * Ben Wizner: Speech, Privacy, and Technology | Logos Podcast with Jarrad Hope ([src](https://press.logos.co/podcasts/logos-state/ben-wizner-speech-privacy-and-technology-logos-podcast-with-jarrad-hope))
 * /zk Farcaster x PSE projects forthcoming podcast (21.02) ([src](https://twitter.com/PrivacyScaling/status/1758551791380115600))
 * [The Blockchain Socialist](https://theblockchainsocialist.com): Accelerationism is back and tech elites are making it cringier than it already was ([src](https://www.youtube.com/watch?v=9KfmqmuUwPM)
+* War on privacy in Web3? With Zach Williamson, Co-founder & CEO at Aztec Protocol ([src](https://www.youtube.com/watch?v=RIIl40Bp0hI))
 
