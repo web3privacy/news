@@ -6,6 +6,8 @@ curator: Mykola
 
 * [Technical exploration of Erasure Coding](https://papers.ethswarm.org/p/erasure/) within the Swarm network, focusing on ensuring data integrity and resilience -- [@GasperX93](https://github.com/GasperX93)
 * Healthcare data privacy: Researchers pair medical devices with blockchain to defend against cyberattacks ([scs](https://cointelegraph.com/news/researchers-pair-medical-devices-blockchain-defend-against-cyberattacks))
+* OCash: Fully Anonymous Payments between Blockchain Light Clients ([src](https://eprint.iacr.org/2024/246))
+* Pay2Chain bridge, named Alba, facilitates the efficient, secure, and trustless execution of conditional payments or smart contracts on a target blockchain based on off-chain events ([src](https://eprint.iacr.org/2024/197))
 
 ### Concepts
 
