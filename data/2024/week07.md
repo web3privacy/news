@@ -26,6 +26,7 @@ curator: Mykola
 
 * Noir [v0.24.0](https://github.com/noir-lang/noir/releases) (pre-release)
 * Skiff Mail will now run forwarding up through 2025 ([src](https://twitter.com/skiffprivacy/status/1757274376188354979))
+* Privacy wallets W3PN database PR by niclaz ([src](https://github.com/web3privacy/web3privacy/pull/54))
 
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
