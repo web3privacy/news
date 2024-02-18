@@ -16,6 +16,7 @@ curator: Mykola
 
 * [European Court of Human Rights](https://hudoc.echr.coe.int/eng/#{%22itemid%22:[%22001-230854%22]}) unequivocally protects encryption in Telegram ([src](https://twitter.com/natynettle/status/1757473040063975595))
 * Digital euro will have a high level of privacy ([src](https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240214_1~4bf1ab0319.en.html))
+* [EEF](https://www.eff.org/deeplinks/2024/02/dont-fall-latest-changes-dangerous-kids-online-safety-act): The authors of the dangerous Kids Online Safety Act (KOSA) unveiled an amended version this week, but it’s still an unconstitutional censorship bill ([src](https://www.eff.org/deeplinks/2024/02/dont-fall-latest-changes-dangerous-kids-online-safety-act))
 
 ### Ecosystem
 
