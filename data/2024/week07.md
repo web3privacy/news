@@ -26,6 +26,9 @@ curator: Mykola
 * Anon Aadhaar v1.0.0 uodate ([src](https://mirror.xyz/privacy-scaling-explorations.eth/YnqHAxpjoWl4e_K2opKPN4OAy5EU4sIJYYYHFCjkNOE))
 * [Lit](https://www.litprotocol.com) V0, Habanero Mainnet Beta: Decentralized Key Management ([src](https://twitter.com/LitProtocol/status/1757051352365109695))
 
+### Partnerships
+* Spot on enterprise data privacy: QuickNode and Matter Labs Partner to scale with zkSync [Hyperchains](https://blog.matter-labs.io/introduction-to-hyperchains-fdb33414ead7) ([src](https://blog.quicknode.com/zksync-quicknode-partnership/))
+
 ### Research
 
 * [Technical exploration of Erasure Coding](https://papers.ethswarm.org/p/erasure/) within the Swarm network, focusing on ensuring data integrity and resilience -- [@GasperX93](https://github.com/GasperX93)
