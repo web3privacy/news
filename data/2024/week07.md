@@ -16,6 +16,7 @@ curator: Mykola
 ### Ecosystem
 
 * [Eternal Safe](https://github.com/eternalsafe/wallet/): decentralized fork of Safe{Wallet} without tracking ([src](https://twitter.com/devanoneth/status/1756861443310305780))
+* [Electronic Coin & Co] drops Zcash ecosystem update ([src](https://forum.zcashcommunity.com/t/ecc-update-for-feb-16-2025/46897))
 
 ### Releases
 
@@ -25,9 +26,13 @@ curator: Mykola
 * [Holepunch](https://holepunch.to) launch Pears - a combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool ([src](https://pears.com))
 * Anon Aadhaar v1.0.0 uodate ([src](https://mirror.xyz/privacy-scaling-explorations.eth/YnqHAxpjoWl4e_K2opKPN4OAy5EU4sIJYYYHFCjkNOE))
 * [Lit](https://www.litprotocol.com) V0, Habanero Mainnet Beta: Decentralized Key Management ([src](https://twitter.com/LitProtocol/status/1757051352365109695))
+* [Rarimo](https://rarimo.com) launched Freedom tool for digital voting ([src](https://freedomtool.org/#/doc))
 
 ### Partnerships
 * Spot on enterprise data privacy: QuickNode and Matter Labs Partner to scale with zkSync [Hyperchains](https://blog.matter-labs.io/introduction-to-hyperchains-fdb33414ead7) ([src](https://blog.quicknode.com/zksync-quicknode-partnership/))
+
+### Grants
+* [Zama](https://www.zama.ai) Grant Program has been launched ([src](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5))
 
 ### Research
 
