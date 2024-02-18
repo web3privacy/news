@@ -24,3 +24,8 @@ curator: Mykola
 ### Releases
 
 * Noir [v0.24.0](https://github.com/noir-lang/noir/releases) (pre-release)
+* Skiff Mail will now run forwarding up through 2025 ([src](https://twitter.com/skiffprivacy/status/1757274376188354979))
+
+### Events
+* W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
+* ETHBerlin will be sponsorless ([src](https://twitter.com/ETHBerlin/status/1758446135679541694))
