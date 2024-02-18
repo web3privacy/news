@@ -40,6 +40,7 @@ curator: Mykola
 * Healthcare data privacy: Researchers pair medical devices with blockchain to defend against cyberattacks ([scs](https://cointelegraph.com/news/researchers-pair-medical-devices-blockchain-defend-against-cyberattacks))
 * OCash: Fully Anonymous Payments between Blockchain Light Clients ([src](https://eprint.iacr.org/2024/246))
 * Pay2Chain bridge, named Alba, facilitates the efficient, secure, and trustless execution of conditional payments or smart contracts on a target blockchain based on off-chain events ([src](https://eprint.iacr.org/2024/197))
+* Sigma Protocol(s) by [Patrickd](https://ventral.digital/about/#patrickd) ([src](https://ventral.digital/posts/2024/2/10/cryptocurrency-privacy-technologies-sigma/))
 
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
