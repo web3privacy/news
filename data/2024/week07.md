@@ -47,6 +47,7 @@ curator: Mykola
 ### Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
 * ETHBerlin will be sponsorless ([src](https://twitter.com/ETHBerlin/status/1758446135679541694))
+* Privacy Reunion II [call for proposal](https://pcfe1zlfqy6.typeform.com/to/dkDipiCG) ([src](https://t.me/c/1567842163/3606))
 
 ### Podcasts
 * Ben Wizner: Speech, Privacy, and Technology | Logos Podcast with Jarrad Hope ([src](https://press.logos.co/podcasts/logos-state/ben-wizner-speech-privacy-and-technology-logos-podcast-with-jarrad-hope))
@@ -54,3 +55,17 @@ curator: Mykola
 * [The Blockchain Socialist](https://theblockchainsocialist.com): Accelerationism is back and tech elites are making it cringier than it already was ([src](https://www.youtube.com/watch?v=9KfmqmuUwPM)
 * War on privacy in Web3? With Zach Williamson, Co-founder & CEO at Aztec Protocol ([src](https://www.youtube.com/watch?v=RIIl40Bp0hI))
 
+---
+
+## Upcoming events
+
+* Feb 20, [Binance delisting Monero](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5)
+* Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
+* Apr 12-14, [ETHDam](https://www.ethdam.com/) hackathon
+* May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
+* May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
+* Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
+* Jun 19-26, [Web3Privacy Now Hackathon](https://web3privacy.info/events/) (Bled)
+* Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
+* Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
+* Oct, [ETHBrno](https://ethbrno.cz/) hackathon
