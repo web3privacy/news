@@ -16,7 +16,7 @@ curator: Mykola
 ### Ecosystem
 
 * [Eternal Safe](https://github.com/eternalsafe/wallet/): decentralized fork of Safe{Wallet} without tracking ([src](https://twitter.com/devanoneth/status/1756861443310305780))
-* [Electronic Coin & Co] drops Zcash ecosystem update ([src](https://forum.zcashcommunity.com/t/ecc-update-for-feb-16-2025/46897))
+* [Electronic Coin & Co](http://electriccoin.co) drops Zcash ecosystem update ([src](https://forum.zcashcommunity.com/t/ecc-update-for-feb-16-2025/46897))
 * [DarkFi](https://dark.fi) started hiring devs ([src](https://darkrenaissance.github.io/darkfi/dev/contrib/contrib.html#employment))
 
 ### Releases
