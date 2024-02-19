@@ -57,7 +57,7 @@ curator: Mykola
 
 ---
 
-## Upcoming events
+### Upcoming events
 
 * Feb 20, [Binance delisting Monero](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5)
 * Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
