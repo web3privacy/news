@@ -7,7 +7,7 @@ import issues from '../issues.json';
 ---
 
 <BaseLayout>
-	{issues.filter(i => i.newsHtml !== "").map((issue) => (
+	{issues.sort((x, y) => x.period[0] < y.period[0] ? 1 : -1).filter(i => i.newsHtml !== "").map((issue) => (
 		<WeekNews {issue} />
 	))}
 </BaseLayout>
