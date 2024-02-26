@@ -6,7 +6,6 @@ curator: PG
 * [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
 * [The State of the Culture](https://www.honest-broker.com/p/the-state-of-the-culture-2024) (2024): a non pretty glimpse into post-entertainment society
 * EFF: [Unregulated, Exploitative, and on the Rise](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring) report on electronic monitoring from Vera Institute
-* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit) by @nicksvyaznoy and @niclaz (updated)
 * [WTF is Aztec?](https://aztec.network/blog/wtf-is-aztec/) introduction article
 * Hackernoon: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
 * Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
@@ -17,6 +16,7 @@ curator: PG
 * Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Railgun [surpasses $20m TVL](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2) ([src](https://defillama.com/protocol/railgun))
+* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit) by @nicksvyaznoy and @niclaz (updated)
 
 ### Grants
 * Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
