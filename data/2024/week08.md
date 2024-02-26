@@ -36,8 +36,8 @@ curator: PG
 * Firn x Brume ([src](https://twitter.com/Grav_Amundsen/status/1761799089665290430))
  
 ### Research
-* The State of the Culture, 2024: a non pretty glimpse into post-entertainment society ([src](https://www.honest-broker.com/p/the-state-of-the-culture-2024)) 
- * Adam Back's complete emails with Satoshi Nakamato ([src](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto))
+* The State of the Culture, 2024: a non pretty glimpse into post-entertainment society ([src](https://www.honest-broker.com/p/the-state-of-the-culture-2024))
+* Adam Back's complete emails with Satoshi Nakamato ([src](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto))
 
 ## Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
