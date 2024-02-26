@@ -6,12 +6,10 @@ curator: PG
 * [The State of the Culture](https://www.honest-broker.com/p/the-state-of-the-culture-2024) (2024): a non pretty glimpse into post-entertainment society
 * EFF: [Unregulated, Exploitative, and on the Rise](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring) report on electronic monitoring from Vera Institute
 * [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit) by @nicksvyaznoy and @niclaz (updated)
-* [WTF is Aztec?](https://aztec.network/blog/wtf-is-aztec/) introduction article
 * [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
-* Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
-* Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
+* [WTF is Aztec?](https://aztec.network/blog/wtf-is-aztec/) introduction article
 * Hackernoon: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
-
+* Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
 
 ### Governments
 * Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
@@ -23,27 +21,26 @@ curator: PG
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 ### Ecosystem
+* Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
-* Railgun new TVL (20M) and volume milestone ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=20))([src2](https://defillama.com/protocol/railgun))
+* Railgun [surpasses $20m TVL](https://defillama.com/protocol/railgun) ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2))
 
 ### Releases
 * NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
 
-### Grants
-* Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
-* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
-
-### Community
-* Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
-
-### Partnerships
-* Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
- 
 ### Podcasts  
 * [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20) (LunarDAO)
 * [Protecting health data & patient privacy](https://www.youtube.com/watch?v=1XplgVgPiXo) (Verida Network x Partisia Blockchain)
 * [Alternatives to CEXs in the Crypto Space](https://twitter.com/firoorg/status/1761747274034774285) (Firo)
 * [Privacy + blockchain: how important is it?](https://twitter.com/QuickswapDEX/status/1760428696534466743) (QuickSwap)
+
+### Grants
+* Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
+* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
+
+### Other
+* Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
+* Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 
 ---
 
