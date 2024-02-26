@@ -7,6 +7,13 @@ import matter from "npm:front-matter";
 const SRC_DIR = "./data";
 const DEST_DIR = "./dist";
 
+function upgradeText (text) {
+  text = text.replace(/\@([a-zA-Z0-9_]+)/, (_, twitterId) => {
+    return `[@${twitterId}](https://twitter.com/${twitterId})`
+  })
+  return text
+}
+
 async function build() {
   let issues = [];
   for await (const dirEntry of Deno.readDir(SRC_DIR)) {
@@ -45,10 +52,11 @@ async function build() {
 
 async function renderData(issue, source) {
   const fm = matter(source);
+  const md = upgradeText(fm.body);
 
-  const parsed = marked.parse(fm.body);
+  const parsed = marked.parse(md);
   return Object.assign(issue, fm.attributes, {
-    newsMd: fm.body,
+    newsMd: md,
     newsHtml: parsed,
   });
 
