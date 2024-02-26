@@ -28,7 +28,7 @@ curator: PG
 * [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20) (LunarDAO)
 * [Protecting health data & patient privacy](https://www.youtube.com/watch?v=1XplgVgPiXo) (Verida Network x Partisia Blockchain)
 * [Alternatives to CEXs](https://twitter.com/firoorg/status/1761747274034774285) (Firo)
-* [Privacy + blockchain](https://twitter.com/QuickswapDEX/status/1760428696534466743): how important is it? (QuickSwap)
+* [Privacy + blockchain: how important is it?](https://twitter.com/QuickswapDEX/status/1760428696534466743) (QuickSwap)
 
 ### Governments
 * Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
