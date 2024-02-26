@@ -4,8 +4,14 @@ curator: PG
 
 ### Research
 * [The State of the Culture](https://www.honest-broker.com/p/the-state-of-the-culture-2024) (2024): a non pretty glimpse into post-entertainment society
-* Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
+* EFF: [Unregulated, Exploitative, and on the Rise](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring) report on electronic monitoring from Vera Institute
+* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit) by @nicksvyaznoy and @niclaz (updated)
+* [WTF is Aztec?](https://aztec.network/blog/wtf-is-aztec/) introduction article
+* [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
 * Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
+* Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
+* Hackernoon: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
+
 
 ### Governments
 * Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
@@ -17,24 +23,18 @@ curator: PG
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 ### Ecosystem
-* Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
-* Unregulated, Exploitative, and on the Rise: [Vera Institute's Report on Electronic Monitoring](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring)
-* Navigating Multichain Environments: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
 * Railgun new TVL (20M) and volume milestone ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=20))([src2](https://defillama.com/protocol/railgun))
-* WTF is Aztec ([src](https://aztec.network/blog/wtf-is-aztec/))
 
 ### Releases
-* W3PN Membership approach 2024 for Partners & individuals - [support our Annual Track](https://docs.web3privacy.info/membership/) (from events to research)
-* NymVPN client ([src](https://x.com/nymproject/status/1760082042274918772?s=20))
-* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit)  by nicksvyaznoy and niclaz
+* NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
 
 ### Grants
 * The first [ZK Grants Round ($900k) is now open](https://twitter.com/ethereum/status/1760378315141939674)
 * Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ### Community
-* [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
+* Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 
 ### Partnerships
 * Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
