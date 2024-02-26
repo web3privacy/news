@@ -11,6 +11,7 @@ curator: PG
 * Hackernoon: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
 * Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
 * The Big Brother Watch: thread on X [comparing CBDCs around the world](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ)
+* Google: [AI privacy risks from sharing with chatbots](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/)
 
 ### Ecosystem
 * Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
@@ -33,7 +34,6 @@ curator: PG
 ### Governments
 * Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
 * [The real story of the SEC's suit](https://twitter.com/DavidLRipley/status/1760829432292405368) from Kraken CEO @DavidLRipley
-* Google: [AI privacy risks from sharing with chatbots](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/)
 * ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1)
 * Australian experts discusses [privacy and data collection by smart home devices](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing)
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
