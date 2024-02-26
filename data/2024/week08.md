@@ -20,7 +20,7 @@ curator: PG
 
 ### Grants
 * Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
-* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
+* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ($110k) ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ### Releases
 * NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
