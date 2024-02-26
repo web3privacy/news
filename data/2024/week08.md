@@ -29,7 +29,7 @@ curator: PG
 
 ## Grants
 * The first [ZK Grants Round ($900k) is now open](https://twitter.com/ethereum/status/1760378315141939674)
-* Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955)
+* Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ##  Partnerships
 * Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
