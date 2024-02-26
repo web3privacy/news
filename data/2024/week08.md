@@ -2,7 +2,12 @@
 curator: PG
 ---
 
-### Corps & Governments
+### Research
+* [The State of the Culture, 2024](https://www.honest-broker.com/p/the-state-of-the-culture-2024): a non pretty glimpse into post-entertainment society
+* Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
+* Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
+
+### Governments
 * Arrested in Russia a US-Russian dual citizen [faces up to 20 years for donating $51 to Ukraine](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation))
 * [The Big Brother Watch](https://twitter.com/BigBrotherWatch) analysis comparing CBDCs around the world ([src](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ))
 * [David Ripley](https://twitter.com/DavidLRipley) Kraken's CEO tells [the real story of the SEC’s suit](https://x.com/DavidLRipley/status/1760829432292405368?s=20)
@@ -13,7 +18,6 @@ curator: PG
 
 ### Ecosystem
 * [Keep your phone number private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) with Signal usernames
-* [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
 * Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 * Privacy-focused Aleo users concerned after [KYC documents leak](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Unregulated, Exploitative, and on the Rise: [Vera Institute's Report on Electronic Monitoring](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring)
@@ -30,14 +34,13 @@ curator: PG
 * The first [ZK Grants Round ($900k) is now open](https://twitter.com/ethereum/status/1760378315141939674)
 * Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
-### Partnerships
+### Community
+* [Memetic warfare](https://dark.fi/insights/memetic-warfare.html): notes from the W3PN Summit meme talk by @lunar_mining
+
+### Partnerships
 * Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
 * Firn x Brume ([src](https://twitter.com/Grav_Amundsen/status/1761799089665290430))
  
-### Research
-* [The State of the Culture, 2024](https://www.honest-broker.com/p/the-state-of-the-culture-2024): a non pretty glimpse into post-entertainment society
-* Adam Back's complete emails with Satoshi Nakamato ([src](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto))
-
 ### Podcasts  
 * Lunarpunk Future: [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20)
 * [Protecting health data & patient privacy](https://www.youtube.com/watch?v=1XplgVgPiXo) - Verida Network x Partisia Blockchain AMA
