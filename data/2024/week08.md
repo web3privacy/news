@@ -41,7 +41,6 @@ curator: PG
 
 ## Events
 * W3PN Call for proposals is here ([src](https://twitter.com/web3privacy/status/1757778295934832652))
-* [Web3Privacy Now Meetup](https://web3privacy.info/event/m24buc/) x ETHBucharest - Mar 28
 
 ### Podcasts  
 * Lunarpunk Future: Privacy tools in the real world ([src](https://x.com/lunarpunksquad/status/1760681059229048859?s=20))
