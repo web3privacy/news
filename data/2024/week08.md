@@ -14,7 +14,7 @@ curator: PG
 
 ### Ecosystem
 * [Keep your phone number private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) with Signal usernames
-* [lunar_mining](https://twitter.com/lunar_mining) from DarkFi shared txt / img / meme version of her speech at Web3Privacy Summit Prague 2023 ([src](https://dark.fi/insights/memetic-warfare.html))
+* [lunar_mining](https://twitter.com/lunar_mining) from DarkFi shared [txt / img / meme version of her speech](https://dark.fi/insights/memetic-warfare.html) at Web3Privacy Summit Prague 2023 
 * Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 * Privacy-focused Aleo users concerned after [KYC documents leak](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Unregulated, Exploitative, and on the Rise: [Vera Institute's Report on Electronic Monitoring](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring)
