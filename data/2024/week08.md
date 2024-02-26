@@ -3,17 +3,17 @@ curator: PG
 ---
 
 ### Corps & Governments
-* Arrested in Russia a US-Russian dual citizen faces up to 20 years for donating $51 to Ukraine ([src](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation))
+* Arrested in Russia a US-Russian dual citizen [faces up to 20 years for donating $51 to Ukraine](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation))
 * [The Big Brother Watch](https://twitter.com/BigBrotherWatch) analysis comparing CBDCs around the world ([src](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ))
-* [David Ripley](https://twitter.com/DavidLRipley) Kraken's CEO tells the real story of the SEC’s suit ([src](https://x.com/DavidLRipley/status/1760829432292405368?s=20))
-* Google Issues Warning: updates this year will be dominated by AI ([src](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/)}
-* ‘Privacy and Security’ Should Be the Core of National Digital ID ([src](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1))
+* [David Ripley](https://twitter.com/DavidLRipley) Kraken's CEO tells [the real story of the SEC’s suit](https://x.com/DavidLRipley/status/1760829432292405368?s=20))
+* [Google Issues Warning](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/): updates this year will be dominated by AI
+* ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1))
 * Is my home spying on me? As smart devices move in, experts fear Australians are oversharing ([src](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing))
-* Privacy Commissioner highlights concerns on RCMP's web surveillance with private tech ([src](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech))
+* Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech))
 
 
 ### Ecosystem
-* Keep your phone number private with Signal usernames ([src](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/))
+* [Keep your phone number private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) with Signal usernames
 * [lunar_mining](https://twitter.com/lunar_mining) from DarkFi shared txt / img / meme version of her speech at Web3Privacy Summit Prague 2023 ([src](https://dark.fi/insights/memetic-warfare.html))
 * Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their entire email history [(src](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  )
 * Privacy-focused Aleo users concerned after KYC documents leak ([src](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak))
