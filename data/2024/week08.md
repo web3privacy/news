@@ -1,5 +1,8 @@
 ---
 curator: PG
+published: true
+links:
+  paragraph: https://paragraph.xyz/@privacynews/2024-08
 ---
 
 ### Research
