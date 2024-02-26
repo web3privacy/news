@@ -11,7 +11,6 @@ curator: PG
 * Is my home spying on me? As smart devices move in, experts fear Australians are oversharing ([src](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing))
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
-
 ### Ecosystem
 * [Keep your phone number private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) with Signal usernames
 * [lunar_mining](https://twitter.com/lunar_mining) from DarkFi shared [txt / img / meme version of her speech](https://dark.fi/insights/memetic-warfare.html) at Web3Privacy Summit Prague 2023 
@@ -27,11 +26,11 @@ curator: PG
 * NymVPN client ([src](https://x.com/nymproject/status/1760082042274918772?s=20))
 * [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit)  by nicksvyaznoy and niclaz
 
-## Grants
+### Grants
 * The first [ZK Grants Round ($900k) is now open](https://twitter.com/ethereum/status/1760378315141939674)
 * Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
-##  Partnerships
+###  Partnerships
 * Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
 * Firn x Brume ([src](https://twitter.com/Grav_Amundsen/status/1761799089665290430))
  
@@ -45,7 +44,11 @@ curator: PG
 * Exploring the Future: [Alternatives to CEXs in the Crypto Space](https://twitter.com/firoorg/status/1761747274034774285)
 * Privacy + blockchain: how important is it? ([src](https://twitter.com/QuickswapDEX/status/1760428696534466743))
 
+---
+
 ### Upcoming events
+*(new/changes in **bold**)*
+
 * Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
 * Apr 12-14, [ETHDam](https://www.ethdam.com/) hackathon
 * May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
