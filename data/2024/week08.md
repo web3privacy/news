@@ -16,7 +16,7 @@ curator: PG
 ### Ecosystem
 * Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
-* Railgun [surpasses $20m TVL](https://defillama.com/protocol/railgun) ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2))
+* Railgun [surpasses $20m TVL](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2) ([src](https://defillama.com/protocol/railgun))
 
 ### Grants
 * Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
