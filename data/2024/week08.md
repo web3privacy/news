@@ -19,6 +19,8 @@ curator: PG
 * Privacy-focused Aleo users concerned after KYC documents leak ([src](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak))
 * Unregulated, Exploitative, and on the Rise: Vera Institute's Report on Electronic Monitoring ([src](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring))
 * Navigating Multichain Environments: The Role of Asset-Agnostic Privacy ([src](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy))
+* Railgun new TVL (20M) and volume milestone ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=20))([src2](https://defillama.com/protocol/railgun))
+* WTF is Aztec ([src](https://aztec.network/blog/wtf-is-aztec/))
 
 ### Releases
 * W3PN Membership approach 2024 for Partners & individuals - support our Annual Track (from events to research)([src](https://docs.web3privacy.info/membership/))
@@ -27,9 +29,11 @@ curator: PG
 
 ## Grants
 * The first ZK Grants Round ($900k) is now open ([src](https://twitter.com/ethereum/status/1760378315141939674))
+* Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ##  Partnerships
 * Fluidkey: ENS and Safe partnered to tackle the Transaction Privacy Issues on EVM Chains ([src](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/))
+* Firn x Brume ([src](https://twitter.com/Grav_Amundsen/status/1761799089665290430))
  
 ### Research
 * The State of the Culture, 2024: a non pretty glimpse into post-entertainment society ([src](https://www.honest-broker.com/p/the-state-of-the-culture-2024)) 
@@ -42,6 +46,8 @@ curator: PG
 ### Podcasts  
 * Lunarpunk Future: Privacy tools in the real world ([src](https://x.com/lunarpunksquad/status/1760681059229048859?s=20))
 * Protecting health data & patient privacy - Verida Network x Partisia Blockchain AMA ([src](https://www.youtube.com/watch?v=1XplgVgPiXo))
+* Exploring the Future: Alternatives to CEXs in the Crypto Space ([src](https://twitter.com/firoorg/status/1761747274034774285))
+* Privacy + blockchain: how important is it? ([src](https://twitter.com/QuickswapDEX/status/1760428696534466743))
 
 ### Upcoming events
 * Feb 20, [Binance delisting Monero](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5)
