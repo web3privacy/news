@@ -23,7 +23,7 @@ curator: PG
 * Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ($110k) ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ### Releases
-* NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
+* NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20)\: initial release
 
 ### Podcasts  
 * [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20) (LunarDAO)
