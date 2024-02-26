@@ -17,9 +17,8 @@ curator: PG
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 ### Ecosystem
-* [Keep your phone number private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) with Signal usernames
 * Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
-* Privacy-focused Aleo users concerned after [KYC documents leak](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
+* Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Unregulated, Exploitative, and on the Rise: [Vera Institute's Report on Electronic Monitoring](https://www.eff.org/deeplinks/2024/02/unregulated-exploitative-and-rise-vera-institutes-report-electronic-monitoring)
 * Navigating Multichain Environments: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
 * Railgun new TVL (20M) and volume milestone ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=20))([src2](https://defillama.com/protocol/railgun))
