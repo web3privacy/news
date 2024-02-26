@@ -14,10 +14,10 @@ curator: PG
 ### Governments
 * Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
 * [The Big Brother Watch](https://twitter.com/BigBrotherWatch) analysis comparing CBDCs around the world ([src](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ))
-* [David Ripley](https://twitter.com/DavidLRipley) Kraken's CEO tells [the real story of the SEC’s suit](https://x.com/DavidLRipley/status/1760829432292405368?s=20)
+* [The real story of the SEC's suit](https://twitter.com/DavidLRipley/status/1760829432292405368) from Kraken CEO @DavidLRipley
 * [Google Issues Warning](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/): updates this year will be dominated by AI
 * ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1)
-* Is my home spying on me? As smart devices move in, experts fear Australians are oversharing ([src](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing))
+* Australian experts discusses [privacy and data collection by smart home devices](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing)
 * Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 ### Ecosystem
