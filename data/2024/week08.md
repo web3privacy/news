@@ -9,7 +9,7 @@ curator: PG
 * [Google Issues Warning](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/): updates this year will be dominated by AI
 * ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1)
 * Is my home spying on me? As smart devices move in, experts fear Australians are oversharing ([src](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing))
-* Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
+* Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 
 ### Ecosystem
@@ -46,7 +46,6 @@ curator: PG
 * Privacy + blockchain: how important is it? ([src](https://twitter.com/QuickswapDEX/status/1760428696534466743))
 
 ### Upcoming events
-* Feb 20, [Binance delisting Monero](https://www.binance.com/en/support/announcement/binance-will-delist-ant-multi-vai-xmr-on-2024-02-20-f73b083ba6834771b07dbe5319917ae5)
 * Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
 * Apr 12-14, [ETHDam](https://www.ethdam.com/) hackathon
 * May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
