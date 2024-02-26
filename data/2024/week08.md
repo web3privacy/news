@@ -30,21 +30,20 @@ curator: PG
 * NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
 
 ### Grants
-* The first [ZK Grants Round ($900k) is now open](https://twitter.com/ethereum/status/1760378315141939674)
-* Zcash grant for maya protocol approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
+* Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
+* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ### Community
 * Satoshi Nakamoto's earliest collaborator Martii 'Sirius' Malmi released their [entire email history](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)  
 
 ### Partnerships
 * Fluidkey: ENS and Safe partnered to [tackle the Transaction Privacy Issues on EVM Chains](https://news.bitcoin.com/fluidkey-launches-to-tackle-the-transaction-privacy-issues-on-evm-chains/)
-* Firn x Brume ([src](https://twitter.com/Grav_Amundsen/status/1761799089665290430))
  
 ### Podcasts  
-* Lunarpunk Future: [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20)
-* [Protecting health data & patient privacy](https://www.youtube.com/watch?v=1XplgVgPiXo) - Verida Network x Partisia Blockchain AMA
-* Exploring the Future: [Alternatives to CEXs in the Crypto Space](https://twitter.com/firoorg/status/1761747274034774285)
-* Privacy + blockchain: how important is it? ([src](https://twitter.com/QuickswapDEX/status/1760428696534466743))
+* [Privacy tools in the real world](https://x.com/lunarpunksquad/status/1760681059229048859?s=20) (LunarDAO)
+* [Protecting health data & patient privacy](https://www.youtube.com/watch?v=1XplgVgPiXo) (Verida Network x Partisia Blockchain)
+* [Alternatives to CEXs in the Crypto Space](https://twitter.com/firoorg/status/1761747274034774285) (Firo)
+* [Privacy + blockchain: how important is it?](https://twitter.com/QuickswapDEX/status/1760428696534466743) (QuickSwap)
 
 ---
 
