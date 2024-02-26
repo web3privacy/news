@@ -11,19 +11,14 @@ curator: PG
 * Hackernoon: [The Role of Asset-Agnostic Privacy](https://hackernoon.com/navigating-multichain-environments-the-role-of-asset-agnostic-privacy)
 * Wired: experience with [Signal usernames](https://web.archive.org/web/20240225123658/https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/)
 
-### Governments
-* Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
-* [The Big Brother Watch](https://twitter.com/BigBrotherWatch) analysis comparing CBDCs around the world ([src](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ))
-* [The real story of the SEC's suit](https://twitter.com/DavidLRipley/status/1760829432292405368) from Kraken CEO @DavidLRipley
-* [Google Issues Warning](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/): updates this year will be dominated by AI
-* ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1)
-* Australian experts discusses [privacy and data collection by smart home devices](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing)
-* Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
-
 ### Ecosystem
 * Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Railgun [surpasses $20m TVL](https://defillama.com/protocol/railgun) ([src](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2))
+
+### Grants
+* Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
+* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
 
 ### Releases
 * NymVPN [v0.0.4](https://x.com/nymproject/status/1760082042274918772?s=20): initial release
@@ -34,9 +29,14 @@ curator: PG
 * [Alternatives to CEXs in the Crypto Space](https://twitter.com/firoorg/status/1761747274034774285) (Firo)
 * [Privacy + blockchain: how important is it?](https://twitter.com/QuickswapDEX/status/1760428696534466743) (QuickSwap)
 
-### Grants
-* Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
-* Zcash: [grant for Maya Protocol](https://forum.zcashcommunity.com/t/transparent-shielded-dex-with-maya-protocol/46857/46) approved ([src](https://twitter.com/crypto_cr0c/status/1760091597902106955))
+### Governments
+* Russia [arrested a woman for a $51 donation](https://www.theguardian.com/world/2024/feb/20/russia-arrests-us-dual-national-for-51-ukrainian-charity-donation) to Ukraine charity, facing up to 20 years in prison
+* [The Big Brother Watch](https://twitter.com/BigBrotherWatch) analysis comparing CBDCs around the world ([src](https://x.com/bigbrotherwatch/status/1761005320938156182?s=46&t=b1BOenGGst5sOeePtNVPjQ))
+* [The real story of the SEC's suit](https://twitter.com/DavidLRipley/status/1760829432292405368) from Kraken CEO @DavidLRipley
+* [Google Issues Warning](https://www.forbes.com/sites/zakdoffman/2024/02/12/google-warns-as-free-ai-upgrade-for-iphone-android-and-samsung-users/): updates this year will be dominated by AI
+* ‘Privacy and Security’ Should Be [the Core of National Digital ID](https://www.theepochtimes.com/world/privacy-and-security-should-be-the-core-of-national-digital-id-australias-largest-bank-5583047?welcomeuser=1)
+* Australian experts discusses [privacy and data collection by smart home devices](https://www.theguardian.com/technology/2024/feb/11/is-my-home-spying-on-me-as-smart-devices-move-in-experts-fear-australians-are-oversharing)
+* Canadian Privacy Commissioner highlights concerns on [RCMP's web surveillance with private tech](https://www.rebelnews.com/privacy_commissioner_highlights_concerns_on_rcmp_s_web_surveillance_with_private_tech)
 
 ### Other
 * Bitcoin Magazine: Adam Back's complete [emails with Satoshi Nakamato](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
