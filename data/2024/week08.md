@@ -16,7 +16,7 @@ curator: PG
 * Fluidkey launched [alpha version on Optimism](https://twitter.com/fluidkey/status/1760364897831960833)
 * Aleo users alarmed by [leaked KYC documents](https://cointelegraph.com/news/privacy-focused-aleo-users-concerned-after-kyc-documents-leak)
 * Railgun [surpasses $20m TVL](https://x.com/RAILGUN_Project/status/1760811652482830549?s=2) ([src](https://defillama.com/protocol/railgun))
-* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit) by @nicksvyaznoy and @niclaz (updated)
+* [Privacy x Web3 job board](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit)  by @nicksvyaznoy and @niclaz (updated)
 
 ### Grants
 * Ethereum Foundation: [The first ZK Grants Round](https://esp.ethereum.foundation/zk-grants) is now open ($900k) ([src](https://twitter.com/ethereum/status/1760378315141939674))
