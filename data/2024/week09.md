@@ -3,7 +3,7 @@ curator: Coinmandeer
 ---
 
 ### Research
-- Collusion-Resistant Impartial Selection Protocol (CRISP) [srx](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
+- Collusion-Resistant Impartial Selection Protocol (CRISP) [src](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
 
 ### Ecosystem
 
