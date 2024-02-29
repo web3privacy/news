@@ -14,6 +14,7 @@ curator: Coinmandeer
 
 ### Releases
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
+- MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
 
 ### Podcasts
 - Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
