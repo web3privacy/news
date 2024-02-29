@@ -13,6 +13,7 @@ curator: Coinmandeer
 ### Podcasts
 - Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
 - Creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
+- On-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
 
 ### Governments
 
