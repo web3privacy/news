@@ -12,6 +12,7 @@ curator: Coinmandeer
 - Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
 
 ### Releases
+- Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
 
 ### Podcasts
 - Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
