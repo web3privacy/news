@@ -11,6 +11,8 @@ curator: Coinmandeer
 ### Releases
 
 ### Podcasts
+- Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
+- Creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
 
 ### Governments
 
