@@ -25,6 +25,7 @@ curator: Mykola
 ### Governments
 
 ### Other
+- Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
 
 ---
 
