@@ -1,5 +1,5 @@
 ---
-curator: Coinmandeer
+curator: Mykola
 ---
 
 ### Research
