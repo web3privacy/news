@@ -5,10 +5,6 @@ curator: Mykola
 ### Research
 - Collusion-Resistant Impartial Selection Protocol (CRISP) [src](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
 
-### Ecosystem
-
-### Grants
-
 ### Partnership
 - Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
 
