@@ -8,6 +8,9 @@ curator: Mykola
 ### Partnership
 - Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
 
+### Ecosystem
+- ECC (Zcash) update, Roadmap [(src)](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
+
 ### Releases
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
 - MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
@@ -17,8 +20,6 @@ curator: Mykola
 - Creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
 - On-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
 - Scaling Bitcoin Privately x John Light [(What Bitcoin Did)](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately)
-
-### Governments
 
 ### Other
 - Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
