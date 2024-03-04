@@ -34,6 +34,7 @@ links:
 - Logos press engine: [creating Politically Autonomous Communities](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities) with Patri Friedman
 - Blockchain Recorded: [on-chain ZK Privacy](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/) with Kieran (Kai) Mesquita
 - What Bitcoin did: [scaling Bitcoin Privately](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately) x John Light
+- Moneto Talk: [Privacy in Focus at ETH Denver](https://www.youtube.com/watch?v=GhNljgiQKp8) w/ Luke Parker, SirJamz & Seth Estrada 
 
 ### Event highlights
 **ETHDenver**
