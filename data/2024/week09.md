@@ -15,9 +15,13 @@ curator: Mykola
 ### Releases
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
 - MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
+- Inco released Gentry Testnet ([src](https://www.inco.org/blogs/introducing-the-inco-gentry-testnet/))
 
 ### Fundraising
 - Inco network closed $4.5 round ([src](https://twitter.com/inconetwork/status/1760305729901093341))
+
+### Governments
+- Push notifications as a surveillance technique [src](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 
 ### Podcasts
 - Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
