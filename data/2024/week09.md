@@ -16,6 +16,9 @@ curator: Mykola
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
 - MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
 
+### Fundraising
+- Inco network closed $4.5 round ([src](https://twitter.com/inconetwork/status/1760305729901093341))
+
 ### Podcasts
 - Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
 - Creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
