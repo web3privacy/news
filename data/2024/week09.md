@@ -21,6 +21,7 @@ curator: Mykola
 
 ### Fundraising
 - Inco network closed $4.5 round ([src](https://twitter.com/inconetwork/status/1760305729901093341))
+- Humanity Protocol Announced Strategic Funding ([src](https://medium.com/@humanityprot/humanity-protocol-announces-strategic-funding-to-build-the-human-layer-for-web3-492f111c1be2))
 
 ### Governments
 - Push notifications as a surveillance technique [src](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
