@@ -17,6 +17,7 @@ curator: Mykola
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
 - MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
 - Inco released Gentry Testnet ([src](https://www.inco.org/blogs/introducing-the-inco-gentry-testnet/))
+- 𝐨𝐩𝐩/𝐚𝐢 - Optimistic Privacy-Preserving AI on blockchain by ORA ([src](https://twitter.com/OraProtocol/status/1763051629127897254))
 
 ### Fundraising
 - Inco network closed $4.5 round ([src](https://twitter.com/inconetwork/status/1760305729901093341))
@@ -37,10 +38,14 @@ curator: Mykola
 - The Case for Monolithic Rollups by @jonwu_ x ex-@aztecnetwork [src](http://youtube.com/watch?v=aqhddRq8jDY)
 - "The Hard Kind of Censorship Resistance” by @nullchinchilla x @melproject_org ([src](https://youtube.com/watch?v=couO1JCWQs4))
 
+**Circuit Breaker**
+- ZK-centric hackathon winners has been announced ([src](https://twitter.com/forweb3media/status/1762113089129099325))
+
 ### Other
 - Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
 - Private, on-chain, implementation for RetroPGF ([src](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733))
 - One-dimensional humans: the curse of single sign-in apps by ML_sudo ([src](https://irregularmail.substack.com/p/one-dimensional-humans-the-curse))
+- Monero-related Twitter list has been compiled by Schmidt ([src](https://twitter.com/ASchmidt1024/status/1763970025306702014))
 
 ---
 
