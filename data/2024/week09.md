@@ -21,6 +21,12 @@ curator: Mykola
 - On-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
 - Scaling Bitcoin Privately x John Light [(What Bitcoin Did)](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately)
 
+### Event highlights
+**ETHDenver**
+- Why Tornado Cash Developers Need Your Support by @ameensol x MolochDAO ([src](https://www.youtube.com/watch?v=-yhm-hBoPvg))
+- ZK Tech and Privacy by @matthew_d_green ([src](http://youtube.com/watch?v=jNOD1DnYMlQ))
+- The Case for Monolithic Rollups by @jonwu_ x ex-@aztecnetwork [src](http://youtube.com/watch?v=aqhddRq8jDY)
+
 ### Other
 - Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
 
