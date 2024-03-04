@@ -3,14 +3,14 @@ curator: Mykola
 ---
 
 ### Research
-- Collusion-Resistant Impartial Selection Protocol (CRISP) [src](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
+- ETH Research: Collusion-Resistant Impartial Selection Protocol (CRISP) [src](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
 
 ### Partnership
-- Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
+- Coindesk: Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
 
 ### Ecosystem
-- ECC (Zcash) update, Roadmap [(src)](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
-- 24 new projects in W3PN privacy-enhancing services DB ([src](https://twitter.com/web3privacy/status/1762986263190143372))
+- Zcash Forum: ECC update, Roadmap [(src)](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
+- W3PN: 24 new projects in W3PN privacy-enhancing services DB ([src](https://twitter.com/web3privacy/status/1762986263190143372))
 - PSE Acceleration Program Round 2 has been launched [src](https://twitter.com/PrivacyScaling/status/1763369233533284685)
 
 ### Releases
@@ -24,13 +24,13 @@ curator: Mykola
 - Humanity Protocol Announced Strategic Funding ([src](https://medium.com/@humanityprot/humanity-protocol-announces-strategic-funding-to-build-the-human-layer-for-web3-492f111c1be2))
 
 ### Governments
-- Push notifications as a surveillance technique [src](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
+- Washington Post: push notifications as a surveillance technique [src](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 
 ### Podcasts
-- Open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
-- Creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
-- On-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
-- Scaling Bitcoin Privately x John Light [(What Bitcoin Did)](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately)
+- EFF: open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
+- Logos press engine: creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
+- Blockchain Recorded: on-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
+- What Bitcoin did: scaling Bitcoin Privately x John Light [(What Bitcoin Did)](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately)
 
 ### Event highlights
 **ETHDenver**
