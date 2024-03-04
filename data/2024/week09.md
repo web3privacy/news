@@ -30,6 +30,7 @@ curator: Mykola
 - Why Tornado Cash Developers Need Your Support by @ameensol x MolochDAO ([src](https://www.youtube.com/watch?v=-yhm-hBoPvg))
 - ZK Tech and Privacy by @matthew_d_green ([src](http://youtube.com/watch?v=jNOD1DnYMlQ))
 - The Case for Monolithic Rollups by @jonwu_ x ex-@aztecnetwork [src](http://youtube.com/watch?v=aqhddRq8jDY)
+- "The Hard Kind of Censorship Resistance” by @nullchinchilla x @melproject_org ([src](https://youtube.com/watch?v=couO1JCWQs4))
 
 ### Other
 - Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
