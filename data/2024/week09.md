@@ -30,6 +30,7 @@ curator: Mykola
 
 ### Other
 - Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
+- Private, on-chain, implementation for RetroPGF ([src](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733))
 
 ---
 
