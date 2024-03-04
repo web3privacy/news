@@ -60,6 +60,7 @@ links:
 
 * Apr 10, [zkSummit](https://www.zksummit.com/) (Athens) conference
 * Apr 12-14, [ETHDam](https://www.ethdam.com/) hackathon
+* Apr 24, [Privacy Reunion 2](https://twitter.com/privacyguardia/status/1762532962875121786) (Barcelona) conference
 * May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
 * May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
 * Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
