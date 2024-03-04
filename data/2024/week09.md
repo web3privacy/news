@@ -10,6 +10,7 @@ curator: Mykola
 
 ### Ecosystem
 - ECC (Zcash) update, Roadmap [(src)](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
+- 24 new projects in W3PN privacy-enhancing services DB ([src](https://twitter.com/web3privacy/status/1762986263190143372))
 
 ### Releases
 - Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
