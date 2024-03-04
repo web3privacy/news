@@ -3,34 +3,34 @@ curator: Mykola
 ---
 
 ### Research
-- ETH Research: Collusion-Resistant Impartial Selection Protocol (CRISP) [src](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804)
+- ETH Research: Collusion-Resistant Impartial Selection Protocol ([CRISP](https://ethresear.ch/t/collusion-resistant-impartial-selection-protocol-crisp/18804))
 
 ### Partnership
-- Coindesk: Shiba Inu x ZAMA [(src)](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
+- Coindesk: [Shiba Inu partnered with ZAMA](https://www.coindesk.com/markets/2024/02/29/shiba-inu-adopts-tech-to-bring-more-privacy-for-shib-token-holders/)
 
 ### Ecosystem
-- Zcash Forum: ECC update, Roadmap [(src)](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
-- W3PN: 24 new projects in W3PN privacy-enhancing services DB ([src](https://twitter.com/web3privacy/status/1762986263190143372))
-- PSE Acceleration Program Round 2 has been launched [src](https://twitter.com/PrivacyScaling/status/1763369233533284685)
+- Zcash Forum: ECC update, [Roadmap](https://forum.zcashcommunity.com/t/ecc-update-for-march-1-roadmap-edition/46963)
+- W3PN: 24 new projects in [W3PN privacy-enhancing services DB](https://twitter.com/web3privacy/status/176298626319014337)
+- PSE: [Acceleration Program Round 2](https://twitter.com/PrivacyScaling/status/1763369233533284685) has been launched
 
 ### Releases
-- Wasabi Wallet: Juggernaut Release 2.0.6 [(src)](https://twitter.com/wasabiwallet/status/1763211972764414092)
-- MACI v1.2.0 [(src)](https://maci.pse.dev/blog/maci-v1-2-0-release/)
-- Inco released Gentry Testnet ([src](https://www.inco.org/blogs/introducing-the-inco-gentry-testnet/))
-- 𝐨𝐩𝐩/𝐚𝐢 - Optimistic Privacy-Preserving AI on blockchain by ORA ([src](https://twitter.com/OraProtocol/status/1763051629127897254))
+- Wasabi Wallet: [Juggernaut Release 2.0.6](https://twitter.com/wasabiwallet/status/1763211972764414092)
+- MACI [v1.2.0](https://maci.pse.dev/blog/maci-v1-2-0-release/)
+- Inco released [Gentry Testnet](https://www.inco.org/blogs/introducing-the-inco-gentry-testnet/)
+- 𝐨𝐩𝐩/𝐚𝐢 - [Optimistic Privacy-Preserving AI on blockchain](https://twitter.com/OraProtocol/status/1763051629127897254) by ORA
 
 ### Fundraising
-- Inco network closed $4.5 round ([src](https://twitter.com/inconetwork/status/1760305729901093341))
-- Humanity Protocol Announced Strategic Funding ([src](https://medium.com/@humanityprot/humanity-protocol-announces-strategic-funding-to-build-the-human-layer-for-web3-492f111c1be2))
+- Inco network closed [$4.5 round](https://twitter.com/inconetwork/status/1760305729901093341)
+- Humanity Protocol Announced [Strategic Funding](https://medium.com/@humanityprot/humanity-protocol-announces-strategic-funding-to-build-the-human-layer-for-web3-492f111c1be2)
 
 ### Governments
-- Washington Post: push notifications as a surveillance technique [src](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
+- Washington Post: [push notifications as a surveillance technique](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 
 ### Podcasts
-- EFF: open Source Beats Authoritarianism with Audrey Tang [(EFF)](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism)
-- Logos press engine: creating Politically Autonomous Communities with Patri Friedman [(Logos press)](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities)
-- Blockchain Recorded: on-chain ZK Privacy with Kieran (Kai) Mesquita [(Blockchain Recorded)](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/)
-- What Bitcoin did: scaling Bitcoin Privately x John Light [(What Bitcoin Did)](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately)
+- EFF: [open Source Beats Authoritarianism](https://www.eff.org/deeplinks/2024/02/podcast-episode-open-source-beats-authoritarianism) with Audrey Tang
+- Logos press engine: [creating Politically Autonomous Communities](https://press.logos.co/podcasts/logos-state/patri-friedman-creating-politically-autonomous-communities) with Patri Friedman
+- Blockchain Recorded: [on-chain ZK Privacy](https://blockchainrecorded.com/on-chain-zk-privacy-talk-with-kieran-kai-mesquita-contributor-to-railgun/) with Kieran (Kai) Mesquita
+- What Bitcoin did: [scaling Bitcoin Privately](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privately) x John Light
 
 ### Event highlights
 **ETHDenver**
