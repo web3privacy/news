@@ -46,6 +46,7 @@ curator: Mykola
 - Private, on-chain, implementation for RetroPGF ([src](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733))
 - One-dimensional humans: the curse of single sign-in apps by ML_sudo ([src](https://irregularmail.substack.com/p/one-dimensional-humans-the-curse))
 - Monero-related Twitter list has been compiled by Schmidt ([src](https://twitter.com/ASchmidt1024/status/1763970025306702014))
+- Privacy-focused Aleo says KYC leak is copy and paste error ([src](https://cointelegraph.com/news/aleo-says-kyc-leak-copy-paste-error))
 
 ---
 
