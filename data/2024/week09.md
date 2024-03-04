@@ -34,20 +34,20 @@ curator: Mykola
 
 ### Event highlights
 **ETHDenver**
-- Why Tornado Cash Developers Need Your Support by @ameensol x MolochDAO ([src](https://www.youtube.com/watch?v=-yhm-hBoPvg))
-- ZK Tech and Privacy by @matthew_d_green ([src](http://youtube.com/watch?v=jNOD1DnYMlQ))
-- The Case for Monolithic Rollups by @jonwu_ x ex-@aztecnetwork [src](http://youtube.com/watch?v=aqhddRq8jDY)
-- "The Hard Kind of Censorship Resistance” by @nullchinchilla x @melproject_org ([src](https://youtube.com/watch?v=couO1JCWQs4))
+- [Why Tornado Cash Developers Need Your Support](https://www.youtube.com/watch?v=-yhm-hBoPvg) by @ameensol x MolochDAO
+- [ZK Tech and Privacy](http://youtube.com/watch?v=jNOD1DnYMlQ) by @matthew_d_green
+- [The Case for Monolithic Rollups](http://youtube.com/watch?v=aqhddRq8jDY) by @jonwu_ x ex-@aztecnetwork
+- [The Hard Kind of Censorship Resistance](https://youtube.com/watch?v=couO1JCWQs4) by @nullchinchilla x @melproject_org
 
 **Circuit Breaker**
-- ZK-centric hackathon winners has been announced ([src](https://twitter.com/forweb3media/status/1762113089129099325))
+- ZK-centric [hackathon winners has been announced](https://twitter.com/forweb3media/status/1762113089129099325)
 
 ### Other
-- Elusiv is sunsetting [src](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
-- Private, on-chain, implementation for RetroPGF ([src](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733))
-- One-dimensional humans: the curse of single sign-in apps by ML_sudo ([src](https://irregularmail.substack.com/p/one-dimensional-humans-the-curse))
-- Monero-related Twitter list has been compiled by Schmidt ([src](https://twitter.com/ASchmidt1024/status/1763970025306702014))
-- Privacy-focused Aleo says KYC leak is copy and paste error ([src](https://cointelegraph.com/news/aleo-says-kyc-leak-copy-paste-error))
+- [Elusiv is sunsetting](https://medium.com/@elusivprivacy/sunsetting-elusiv-transitioning-towards-the-future-of-privacy-and-confidentiality-0b078e9bcfac)
+- Optimism: [Private, on-chain, implementation](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733) for RetroPGF proposal
+- One-dimensional humans: [the curse of single sign-in apps](https://irregularmail.substack.com/p/one-dimensional-humans-the-curse) by ML_sudo
+- [Monero-related Twitter list](https://twitter.com/ASchmidt1024/status/1763970025306702014) has been compiled by Schmidt
+- Cointelegraph: Privacy-focused Aleo says [KYC leak is copy and paste error](https://cointelegraph.com/news/aleo-says-kyc-leak-copy-paste-error)
 
 ---
 
