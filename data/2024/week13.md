@@ -34,4 +34,4 @@ curator: mykola
 * Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
 * Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
-* Oct, [ETHBrno](https://ethbrno.cz/) hackathon
+* Oct, [ETHBrno](https://ethbrno.cz/) privacy hackathon
