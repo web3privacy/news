@@ -4,7 +4,7 @@ build:
 	deno run --allow-all utils/build.js
 
 images:
-	deno run --allow-all utils/images.js
+	# deno run --allow-all utils/images.js
 
 frontend:
 	cd web && npm install && npm run build
