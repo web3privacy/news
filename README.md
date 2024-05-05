@@ -18,7 +18,7 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
-| [2024-13](/data/2024/week13.md) | Mar 25 - Mar 31 | Mar 31 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week13.md) |
+| [2024-13](/data/2024/week13.md) | Apr 29 - May 5 | May 5 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week13.md) |
 | [2024-10](/data/2024/week10.md) | Mar 4 - Mar 10 | Mar 10 | Coinmandeer | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week10.md) |
 | [2024-09](/data/2024/week09.md) | Feb 26 - Mar 3 | ✅ [published](https://news.web3privacy.info/2024-09) | Mykola | [Paragraph](https://paragraph.xyz/@privacynews/2024-09) |
 | [2024-08](/data/2024/week08.md) | Feb 19 - Feb 25 | ✅ [published](https://news.web3privacy.info/2024-08) | PG | [Paragraph](https://paragraph.xyz/@privacynews/2024-08) |
