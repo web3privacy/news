@@ -22,6 +22,7 @@ curator: mykola
 
 ### Research
 * [Buying and using Monero, privately](https://twitter.com/freedomtech/status/1785637104115953683)
+* [Privacy projects fundraising via current Gitcoin round](https://twitter.com/web3privacy/status/1785072707840639469)
 
 ---
 
