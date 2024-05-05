@@ -20,6 +20,11 @@ curator: mykola
 
 ---
 
+### Research
+* [Buying and using Monero, privately](https://twitter.com/freedomtech/status/1785637104115953683)
+
+---
+
 ### Releases
 * Cake Wallet [v4.15.5](https://github.com/cake-tech/cake_wallet/blob/main/cw_bitcoin/lib/electrum_derivations.dart)
 
@@ -53,7 +58,12 @@ curator: mykola
 - Coindesk: [Wasabi Wallet-Developer Blocks U.S. Citizens and Residents After Samourai Wallet Arrests](https://www.coindesk.com/policy/2024/04/29/wasabi-wallet-developer-blocks-us-citizens-and-residents-after-samourai-wallet-arrests/)
 - DeCrypt: ['Clock is Ticking' on Bitcoin Privacy: Edward Snowden](https://decrypt.co/229262/bitcoin-privacy-edward-snowden-clock-is-ticking)
 - The Block: [Samourai Wallet's Keonne Rodriguez pleads not guilty to money laundering, transmitting charges](https://www.theblock.co/post/291571/samourai-wallets-keonne-rodriguez-pleads-not-guilty-to-money-laundering-transmitting-charges)
-- Cointelegraph: [US senators, FBI aren’t opposed to crypto privacy: Railgun contributor](https://cointelegraph.com/news/us-politicians-arent-opposed-crypto-defi-privacy-railgun-ethereum) 
+- Cointelegraph: [US senators, FBI aren’t opposed to crypto privacy: Railgun contributor](https://cointelegraph.com/news/us-politicians-arent-opposed-crypto-defi-privacy-railgun-ethereum)
+
+---
+
+### Other
+- Amir Taaki: [Samourai Devs Arrested is a Wake Up Call for Crypto](https://dark.fi/insights/samourai-devs-arrested-is-a-wake-up-call.html)
 
 
 ---
@@ -64,7 +74,7 @@ curator: mykola
 * May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
 * May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
 * Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
-* Jun 19-26, [Web3Privacy Now Hackathon](https://web3privacy.info/events/) (Bled)
+* Jun 27, [Privacy Reunion #3](https://lu.ma/privacyreunion3) (Neuchâtel)
 * Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
 * Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
