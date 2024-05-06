@@ -28,12 +28,15 @@ curator: mykola
 
 ### Releases
 * Cake Wallet [v4.15.5](https://github.com/cake-tech/cake_wallet/blob/main/cw_bitcoin/lib/electrum_derivations.dart)
+* Prax Wallet for Penumbra [v1.0](https://praxwallet.com)
 
 ---
 
 ### Ecosystem
 
 - The Block: [Logos inscribes its manifesto on largest-ever Bitcoin block](https://www.theblock.co/post/292403/logos-manifesto-inscription-bitcoin)
+- Privacy & Scaling Explorations: [Core Program has been launched](https://pse-team.notion.site/PSE-Core-Program-2024-64ae61c3d7e74bf4bf9c15914ef22460)
+- Electric Coin & Co: [ECC Update](https://forum.zcashcommunity.com/t/today-we-sail-ecc-update-for-may-3/47577)
 
 ---
 
