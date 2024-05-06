@@ -22,7 +22,7 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 | [2024-17](/data/2024/week17.md) | Apr 22 - Apr 28 | Apr 28 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week17.md) |
 | [2024-16](/data/2024/week16.md) | Apr 15 - Apr 21 | Apr 21 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week16.md) |
 | [2024-15](/data/2024/week15.md) | Apr 8 - Apr 14 | Apr 14 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week15.md) |
-| [2024-14](/data/2024/week14.md) | Apr 1 - Apr 7 | Apr 7 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week14.md) |
+| [2024-14](/data/2024/week14.md) | Apr 1 - Apr 7 | ✅ [published](https://news.web3privacy.info/2024-14) | mykola | [Paragraph](pending) |
 | [2024-13](/data/2024/week13.md) | Mar 25 - Mar 31 | Mar 31 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week13.md) |
 | [2024-10](/data/2024/week10.md) | Mar 4 - Mar 10 | Mar 10 | Coinmandeer | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week10.md) |
 | [2024-09](/data/2024/week09.md) | Feb 26 - Mar 3 | ✅ [published](https://news.web3privacy.info/2024-09) | Mykola | [Paragraph](https://paragraph.xyz/@privacynews/2024-09) |
