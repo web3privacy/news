@@ -49,6 +49,9 @@ curator: mykola
 - Mina: [Grant on zkOracle Features1js: ZKON, ZkPass, Reclaim](https://minaprotocol.com/blog/zkoracles-rfp-three-teams-chosen)
 - Cointelegraph: [NuLink secures $11.4M to lead next-gen data protection efforts](https://cointelegraph.com/press-releases/nulink-secures-114m-to-lead-next-gen-data-protection-efforts)
 - Arcium: [$5.5M strategic funding round](https://twitter.com/ArciumHQ/status/1788557786537689447)
+- LocalMonero: [Exchange shuts down](https://cointelegraph.com/news/local-monero-exchange-shuts-down-crypto-privacy-services-dwindle)
+- Coinjoin: [Bitcoin privacy will survive despite CoinJoin closure — zkSNACKs CEO](https://cointelegraph.com/news/bitcoin-privacy-survive-coinjoin-closure)
+  Decrypt: [Why Erik Voorhees Is Pivoting to a Privacy-Centric AI Startup](https://decrypt.co/230281/venice-ai-shapeshift-founder-erik-voorhees-morpheus-open-source)
 
 ---
 
@@ -66,7 +69,9 @@ curator: mykola
 ### Governments
 - Coindesk: [Fatemeh Fannizadeh on Crypto Law, Switzerland and How KYC Is Failing](https://www.coindesk.com/opinion/2024/05/10/fatemeh-fannizadeh-on-crypto-law-switzerland-and-how-kyc-is-failing/)
 - Coindesk: [The U.S. Government’s Hypocritical Case Against Tornado Cash](https://www.coindesk.com/consensus-magazine/2024/05/07/the-us-governments-hypocritical-case-against-tornado-cash/)
-
+- The Block: [Former Pussy Riot lawyer launches blockchain-powered referendum to challenge Putin's inauguration](https://www.theblock.co/post/293528/former-pussy-riot-lawyer-launches-blockchain-powered-referendum-to-challenge-putins-inauguration)
+- Decrypt: [Bitcoin Mixers Pull Out of the US Amid Regulatory Heat](https://decrypt.co/229543/bitcoin-coin-mixers-shut-americans-out)
+  
 ---
 
 ### Other
