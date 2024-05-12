@@ -44,6 +44,9 @@ curator: mykola
 
 - Ten: [Chimp Exchange - the first privacy DEX on Ten](https://twitter.com/tenprotocol/status/1787204225761792452)
 - LunarDAO: [Moros invests via grant in LunarDAO](https://twitter.com/lunarpunksquad/status/1787482940533768433)
+- ZkPass: [live on Arbitrum](https://twitter.com/zkPass/status/1787447734196470176)
+- Mina: [Grant on zkOracle Features1js: ZKON, ZkPass, Reclaim](https://minaprotocol.com/blog/zkoracles-rfp-three-teams-chosen)
+- Cointelegraph: [NuLink secures $11.4M to lead next-gen data protection efforts](https://cointelegraph.com/press-releases/nulink-secures-114m-to-lead-next-gen-data-protection-efforts)
 
 ---
 
@@ -54,19 +57,16 @@ curator: mykola
 - ETHDam: [“Lunarpunk VS Solarpunk” panel](youtu.be/5C5r-8KR564) feat serinko x Nym, @mesquka x Railgun, and @ameensol x @0xbowio. Moderated by PG x Web3Privacy Now
 - Zcon V: [Zcash and the Regulatory/Policy Environment Sessions](https://www.youtube.com/watch?v=pfd6yi54kqU) feat Jonathan S. Rouach, Peter Van Valkenburgh, J.W. Verret, Paul Brigner, Kurt Opsahl
 - Fiat Lux: [Web3privacy now operations overview](https://youtu.be/HipTMiRzW6o) feat Mykola Siusko x Web3Privacy now  
-
+- ETHDam: [Boring Side of Privacy](youtu.be/Fm6tH-TZALc) feat Kiearan x Railgun
 
 ---
 
 ### Governments
 
-- Coindesk: [Samourai Wallet Charges Raise Existential Questions for Privacy Tech](https://www.coindesk.com/consensus-magazine/2024/04/25/samourai-wallet-charges-raise-existential-questions-for-privacy-tech/)
 
 ---
 
 ### Other
-- Amir Taaki: [Samourai Devs Arrested is a Wake Up Call for Crypto](https://dark.fi/insights/samourai-devs-arrested-is-a-wake-up-call.html)
-
 
 ---
 
@@ -77,6 +77,7 @@ curator: mykola
 * May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
 * Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
 * Jun 27, [Privacy Reunion #3](https://lu.ma/privacyreunion3) (Neuchâtel)
+* **Jul 12, [Web3Privacy Now "Occupy meetup"](https://lu.ma/w3pn-meetup-bru1)**
 * Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
 * Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
