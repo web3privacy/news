@@ -21,8 +21,10 @@ curator: mykola
 ---
 
 ### Research
-* [Multi-Prover AVS with TEE Coprocessors](https://blog.ata.network/tee-coprocessor-automata-multi-prover-avs-on-eigenlayer-f0f0b8264abc)
-* [Aleo's Mainnet update](https://aleo.org/post/road-to-mainnet-updates/)
+* [Automata Network: Multi-Prover AVS with TEE Coprocessors](https://blog.ata.network/tee-coprocessor-automata-multi-prover-avs-on-eigenlayer-f0f0b8264abc)
+* [Aleo: Mainnet update](https://aleo.org/post/road-to-mainnet-updates/)
+* [Zama: Verifiable FHE Bootstrapping using SNARKs](https://www.zama.ai/post/verifiable-fhe-bootstrapping-using-snarks)
+* [Umbra 2.0 vision](https://twitter.com/UmbraCash/status/1787520552921595932)
 
 ---
 
@@ -33,12 +35,15 @@ curator: mykola
 * Cashu [1.0](https://twitter.com/callebtc/status/1788943711625232646)
 * Particl [weekly update](https://particl.news/particl-development-progress-report-10-05-2024/)
 * Privy [sample UIs](https://twitter.com/privy_io/status/1789033417625268397)
-
+* Tangle [v1.0.2](https://github.com/webb-tools/tangle/releases/tag/v1.0.2)
+* Polyhedra's Expander [open-source](https://github.com/PolyhedraZK/Expander) 
+  
 ---
 
 ### Ecosystem
 
-- The Block: [Logos inscribes its manifesto on largest-ever Bitcoin block](https://www.theblock.co/post/292403/logos-manifesto-inscription-bitcoin)
+- Ten: [Chimp Exchange - the first privacy DEX on Ten](https://twitter.com/tenprotocol/status/1787204225761792452)
+- LunarDAO: [Moros invests via grant in LunarDAO](https://twitter.com/lunarpunksquad/status/1787482940533768433)
 
 ---
 
@@ -46,7 +51,11 @@ curator: mykola
 
 - ETHDam: [Zama’s fhEVM: Enabling Blockchain Privacy](https://www.youtube.com/watch?v=7dpBMj9uQog&) with Tore Frederiksen
 - ETHDam: [Alpha protection through privacy - a web3 privacy primitive for DeFi ](https://www.youtube.com/watch?v=5b91kAQF3aA) with Oliver Gale
-  
+- ETHDam: [“Lunarpunk VS Solarpunk” panel](youtu.be/5C5r-8KR564) feat serinko x Nym, @mesquka x Railgun, and @ameensol x @0xbowio. Moderated by PG x Web3Privacy Now
+- Zcon V: [Zcash and the Regulatory/Policy Environment Sessions](https://www.youtube.com/watch?v=pfd6yi54kqU) feat Jonathan S. Rouach, Peter Van Valkenburgh, J.W. Verret, Paul Brigner, Kurt Opsahl
+- Fiat Lux: [Web3privacy now operations overview](https://youtu.be/HipTMiRzW6o) feat Mykola Siusko x Web3Privacy now  
+
+
 ---
 
 ### Governments
