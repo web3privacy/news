@@ -38,6 +38,7 @@ curator: mykola
 * Tangle [v1.0.2](https://github.com/webb-tools/tangle/releases/tag/v1.0.2)
 * Polyhedra's Expander [open-source](https://github.com/PolyhedraZK/Expander)
 * Polygon [Mainden Alpha testnet](https://twitter.com/0xPolygon/status/1787533328087675294)
+* GrapheneOS [version 2024050700](https://grapheneos.org/releases#2024050700)
   
 ---
 
