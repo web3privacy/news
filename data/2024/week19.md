@@ -36,7 +36,8 @@ curator: mykola
 * Particl [weekly update](https://particl.news/particl-development-progress-report-10-05-2024/)
 * Privy [sample UIs](https://twitter.com/privy_io/status/1789033417625268397)
 * Tangle [v1.0.2](https://github.com/webb-tools/tangle/releases/tag/v1.0.2)
-* Polyhedra's Expander [open-source](https://github.com/PolyhedraZK/Expander) 
+* Polyhedra's Expander [open-source](https://github.com/PolyhedraZK/Expander)
+* Polygon [Mainden Alpha testnet](https://twitter.com/0xPolygon/status/1787533328087675294)
   
 ---
 
@@ -47,6 +48,7 @@ curator: mykola
 - ZkPass: [live on Arbitrum](https://twitter.com/zkPass/status/1787447734196470176)
 - Mina: [Grant on zkOracle Features1js: ZKON, ZkPass, Reclaim](https://minaprotocol.com/blog/zkoracles-rfp-three-teams-chosen)
 - Cointelegraph: [NuLink secures $11.4M to lead next-gen data protection efforts](https://cointelegraph.com/press-releases/nulink-secures-114m-to-lead-next-gen-data-protection-efforts)
+- Arcium: [$5.5M strategic funding round](https://twitter.com/ArciumHQ/status/1788557786537689447)
 
 ---
 
@@ -62,7 +64,8 @@ curator: mykola
 ---
 
 ### Governments
-
+- Coindesk: [Fatemeh Fannizadeh on Crypto Law, Switzerland and How KYC Is Failing](https://www.coindesk.com/opinion/2024/05/10/fatemeh-fannizadeh-on-crypto-law-switzerland-and-how-kyc-is-failing/)
+- Coindesk: [The U.S. Government’s Hypocritical Case Against Tornado Cash](https://www.coindesk.com/consensus-magazine/2024/05/07/the-us-governments-hypocritical-case-against-tornado-cash/)
 
 ---
 
