@@ -18,6 +18,7 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2024-19](/data/2024/week19.md) | May 6 - May 12 | May 12 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week19.md) |
 | [2024-18](/data/2024/week18.md) | Apr 29 - May 5 | May 5 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week18.md) |
 | [2024-17](/data/2024/week17.md) | Apr 22 - Apr 28 | Apr 28 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week17.md) |
 | [2024-16](/data/2024/week16.md) | Apr 15 - Apr 21 | Apr 21 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week16.md) |
