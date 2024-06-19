@@ -18,6 +18,13 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2024-26](/data/2024/week26.md) | Jun 24 - Jun 30 | Jun 30 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week26.md) |
+| [2024-25](/data/2024/week25.md) | Jun 17 - Jun 23 | Jun 23 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week25.md) |
+| [2024-24](/data/2024/week24.md) | Jun 10 - Jun 16 | Jun 16 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week24.md) |
+| [2024-23](/data/2024/week23.md) | Jun 3 - Jun 9 | Jun 9 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week23.md) |
+| [2024-22](/data/2024/week22.md) | May 27 - Jun 2 | Jun 2 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week22.md) |
+| [2024-21](/data/2024/week21.md) | May 20 - May 26 | May 26 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week21.md) |
+| [2024-20](/data/2024/week20.md) | May 13 - May 19 | May 19 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week20.md) |
 | [2024-19](/data/2024/week19.md) | May 6 - May 12 | May 12 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week19.md) |
 | [2024-18](/data/2024/week18.md) | Apr 29 - May 5 | May 5 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week18.md) |
 | [2024-17](/data/2024/week17.md) | Apr 22 - Apr 28 | Apr 28 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week17.md) |
