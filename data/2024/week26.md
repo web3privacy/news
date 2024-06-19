@@ -35,6 +35,7 @@ curator: radek
 ### Podcasts
 - [Redecentralizing Ethereum and the Issue of TEEs @ ZuBerlin 2024](https://www.youtube.com/watch?v=xYoxFqstJr8) by Julio Linares x Poetic Technologies
 - [Privacy Preserving Sidecar for CosmWasm](https://www.youtube.com/watch?v=cB5AoA4dCUM) by Ethan Buchman (Informal Systems)
+- [How to Enable Anonymous MACI on Cosmos Appchains](https://www.youtube.com/watch?v=RGXcLVNs6s8) by [Eric Zhang](https://x.com/ericzhang90) (DoraHacks) 
 
 ---
 
