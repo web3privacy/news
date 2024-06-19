@@ -33,6 +33,8 @@ curator: radek
 ---
 
 ### Podcasts
+- [Redecentralizing Ethereum and the Issue of TEEs @ ZuBerlin 2024](https://www.youtube.com/watch?v=xYoxFqstJr8) by Julio Linares x Poetic Technologies
+- [Privacy Preserving Sidecar for CosmWasm](https://www.youtube.com/watch?v=cB5AoA4dCUM) by Ethan Buchman (Informal Systems)
 
 ---
 
