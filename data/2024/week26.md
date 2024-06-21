@@ -25,7 +25,10 @@ curator: radek
 ---
 
 ### Releases
-  
+- Status [Public Beta for Mobile](https://status.app/blog/status-mobile-beta-is-here) 
+- Mina [First zkApp on Main-net: idMask](http://idmask.xyz)
+- Aleph Zero [Test-net Launch](https://alephzero.org/blog/zk-privacy-evm-l2-zkos/)
+- Shade [Alexandria Upgrade](https://shadeprotocol.io/blog/dshd-alexandria-upgrade-explained)
 ---
 
 ### Ecosystem
@@ -40,7 +43,7 @@ curator: radek
 ---
 
 ### Governments
-  
+- [Chat control vote postponed: Huge success in defense of digital privacy of correspondence!](https://www.patrick-breyer.de/en/chat-control-vote-postponed-huge-success/) 
 ---
 
 ### Other
@@ -51,6 +54,7 @@ curator: radek
 *(new/changes in **bold**)*
 
 * Jun 27, [Privacy Reunion #3](https://lu.ma/privacyreunion3) (Neuchâtel)
+* **Jul 10, [Shielding Summit](https://shieldingsummit.org) (Brussels)**
 * Jul 12, [Web3Privacy Now "Occupy meetup"](https://lu.ma/w3pn-meetup-bru1)
 * Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
