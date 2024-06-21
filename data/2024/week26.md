@@ -32,6 +32,7 @@ curator: radek
 ---
 
 ### Ecosystem
+- [Aztec launched Aztec Labs website](https://www.aztec-labs.com/)
 
 ---
 
