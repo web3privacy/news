@@ -25,29 +25,34 @@ curator: radek
 ---
 
 ### Releases
-- Status [Public Beta for Mobile](https://status.app/blog/status-mobile-beta-is-here) 
-- Mina [First zkApp on Main-net: idMask](http://idmask.xyz)
-- Aleph Zero [Test-net Launch](https://alephzero.org/blog/zk-privacy-evm-l2-zkos/)
-- Shade [Alexandria Upgrade](https://shadeprotocol.io/blog/dshd-alexandria-upgrade-explained)
+- Panther [Testnet 6 is live](https://x.com/ZKPanther/status/1805632128308150560)
+
 ---
 
 ### Ecosystem
-- [Aztec launched Aztec Labs website](https://www.aztec-labs.com/)
+- [Aztec launched Aztec new website](https://aztec.network)
+- [Electroin Coin & Co weekly](https://forum.zcashcommunity.com/t/cash-is-dead-long-live-digital-cash-ecc-weekly-update/48042)
+- [HOPR dev update](https://x.com/hoprnet/status/1805254456159748300)
+- [50M ZkApp acceleratpr by Manta Netrwork](https://x.com/ZK_Accelerator/status/1805598925870473252)
 
 ---
 
 ### Podcasts
-- [Redecentralizing Ethereum and the Issue of TEEs @ ZuBerlin 2024](https://www.youtube.com/watch?v=xYoxFqstJr8) by Julio Linares x Poetic Technologies
-- [Privacy Preserving Sidecar for CosmWasm](https://www.youtube.com/watch?v=cB5AoA4dCUM) by Ethan Buchman (Informal Systems)
-- [How to Enable Anonymous MACI on Cosmos Appchains](https://www.youtube.com/watch?v=RGXcLVNs6s8) by [Eric Zhang](https://x.com/ericzhang90) (DoraHacks) 
+- [The Importance of Privacy in Web3](https://www.youtube.com/watch?v=W-jz3z5AB9s) DeCC Day @ Consensus 2024 Austin
+- [Privacy Preserving ML with Fully Homomorphic Encryption](https://www.youtube.com/watch?v=g1Zlu63TP0Y) by Jordan Frery, Concrete ML Tech Lead and Research at Zama, Benoit Chevallier-Mames, VP Cloud and ML at Zama
+- [Building the endgame for blockchain privacy](https://www.youtube.com/watch?v=bikZpQH4_dI) by Savio, Product Manager at Aztec Labs
+- [Decoding Crypto: Privacy in 2024 feat Tornado Cash, CBDCs and AI surveillance](https://www.buzzsprout.com/2096305/15314703-privacy-in-2024-tornado-cash-cbdcs-and-ai-surveillance-feat-harry-halpin) by Harry Haplin, Nym
+- [Incrypted conference: surveillance and #AI in times of war](https://www.youtube.com/live/dhIZA8rCAt4?t=5527s) by Harry Haplin, Nym
 
 ---
 
 ### Governments
-- [Chat control vote postponed: Huge success in defense of digital privacy of correspondence!](https://www.patrick-breyer.de/en/chat-control-vote-postponed-huge-success/) 
+**- [Chat control vote postponed: Huge success in defense of digital privacy of correspondence!](https://www.patrick-breyer.de/en/chat-control-vote-postponed-huge-success/) **
 ---
 
 ### Other
+- [ID Verification Service for TikTok, Uber, X Exposed Driver Licenses!](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
+- [Julian Assange is free](https://x.com/wikileaks/status/1805390138945528183)
 
 ---
 
