@@ -47,7 +47,7 @@ curator: radek
 ---
 
 ### Governments
-**- [Chat control vote postponed: Huge success in defense of digital privacy of correspondence!](https://www.patrick-breyer.de/en/chat-control-vote-postponed-huge-success/) **
+- Cointelegraph: [Privacy-minded' CBDCs are a wolf in sheep’s clothinge](https://cointelegraph.com/news/privacy-minded-cbdcs-wolf-sheeps-clothing)
 ---
 
 ### Other
