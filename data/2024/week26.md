@@ -26,6 +26,7 @@ curator: radek
 
 ### Releases
 - Panther [Testnet 6 is live](https://x.com/ZKPanther/status/1805632128308150560)
+- RariMe [Self-custody identity wallet](https://rarime.com)
 
 ---
 
