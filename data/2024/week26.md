@@ -31,7 +31,7 @@ curator: radek
 - [Aztec launched Aztec new website](https://aztec.network)
 - [Electroin Coin & Co weekly](https://forum.zcashcommunity.com/t/cash-is-dead-long-live-digital-cash-ecc-weekly-update/48042)
 - [HOPR dev update](https://x.com/hoprnet/status/1805254456159748300)
-- [50M ZkApp acceleratpr by Manta Netrwork](https://x.com/ZK_Accelerator/status/1805598925870473252)
+- [50M ZkApp acceleratpr by Manta Network](https://x.com/ZK_Accelerator/status/1805598925870473252)
 - [Dusk Network announced mainnet date](https://dusk.network/news/dusk-announces-mainnet-date/)
 - [Singularity adopts Noir language](https://www.thesingularity.network/post/what-is-noir)
 - [Iranians Vote has been launched](https://x.com/UnchainIran/status/1806382365360431470)
