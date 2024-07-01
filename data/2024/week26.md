@@ -56,6 +56,9 @@ curator: mykola
 - Cointelegraph: [Privacy-minded' CBDCs are a wolf in sheep’s clothinge](https://cointelegraph.com/news/privacy-minded-cbdcs-wolf-sheeps-clothing)
 ---
 
+### Research
+- [Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://www.youtube.com/watch?v=UeV1zhbdVPI) by Enrico Bottazzi
+---
 ### Other
 - [Make Cypherpunk - one Ethereum block at a time](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article by Mykola Siusko x Web3Privacy Now
 - [ID Verification Service for TikTok, Uber, X Exposed Driver Licenses!](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
