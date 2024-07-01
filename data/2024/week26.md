@@ -1,5 +1,5 @@
 ---
-curator: radek
+curator: mykola
 ---
 
 <!--
