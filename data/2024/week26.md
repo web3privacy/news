@@ -61,7 +61,6 @@ curator: radek
 - [ID Verification Service for TikTok, Uber, X Exposed Driver Licenses!](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
 - [Julian Assange is free](https://x.com/wikileaks/status/1805390138945528183)
 - [Dark Pools for Institutions](https://blog.pantherprotocol.io/dark-pools-for-institutional-crypto-users-challenges-and-innovations/) by Panther Protocol
-- [A Voice for Open Source: An Interview With Hacker Amir Taaki](https://www.countere.com/home/a-voice-for-open-source-amir-taaki-interview-2024)
 
 ---
 
