@@ -46,6 +46,10 @@ curator: radek
 - [Incrypted conference: surveillance and #AI in times of war](https://www.youtube.com/live/dhIZA8rCAt4?t=5527s) by Harry Haplin, Nym
 - [MixMatch: Flow Matching for Mixnet Traffic](https://www.youtube.com/watch?v=9NycIxMxYps) by Lennart Oldenburg, KU Leuven
 - [How Secure Is Your Bitcoin? (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=yoRtjQ7sFow) by Rick Messitt
+- [Privacy in Public (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=-ma_baJr3MQ) by Kruw
+- [ Digital Anonymity and Secure Communication (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=0Iyuw9RK7qI) by Antonín Stoklásek
+- [Bitcoin & Human Rights: What 99% Are Getting Wrong (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=yWiJZoIgx7w) by Anita Posch
+
 ---
 
 ### Governments
