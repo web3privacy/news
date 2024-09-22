@@ -1,5 +1,6 @@
 ---
 curator: mykola
+skip: true
 ---
 
 <!--
@@ -17,5 +18,3 @@ curator: mykola
 
 ### Other
 -->
-
-

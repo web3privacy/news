@@ -2,6 +2,7 @@
 import { setWeek, nextMonday, format, addDays } from 'date-fns';
 const { issue, isFull } = Astro.props;
 import config from '../config.yaml';
+// import { Debug } from 'astro:components';
 
 const [ year, week ] = issue.week.split('-');
 const current = false;
@@ -12,9 +13,8 @@ function capitalizeFirstLetter(string) {
 
 ---
 
-
 <div class=`mb-8 border border-white/20`>
-    
+    <!-- <Debug answer={issue} /> -->
     <div class=`sm:flex w-full p-4 sm:p-6 bg-white/10`>
         <div class="grid gap-2 sm:gap-6 sm:flex items-center">
             <h1 class="text-2xl"><a href=`/${issue.week}`>Week {issue.week.split('-').reverse().join('/')}</a></h1>
