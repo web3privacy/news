@@ -1,5 +1,6 @@
 ---
 curator: mykola
+skip: true
 ---
 
 <!--
