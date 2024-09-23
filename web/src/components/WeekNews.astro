@@ -18,7 +18,12 @@ function capitalizeFirstLetter(string) {
     <div class=`sm:flex w-full p-4 sm:p-6 bg-white/10`>
         <div class="grid gap-2 sm:gap-6 sm:flex items-center">
             <h1 class="text-2xl"><a href=`/${issue.week}`>Week {issue.week.split('-').reverse().join('/')}</a></h1>
-            <div class=`text-xl ${current ? "text-white/50" : ""}`>{format(issue.period[0], "MMM d")} - {format(issue.period[1], "MMM d, yyyy")}</div>
+            <div class=`text-xl ${current ? "text-white/50" : ""}`>
+                {issue.exactDate 
+                    ? format(issue.exactDate.toString(), "MMM d") + " - " + format(addDays(issue.exactDate.toString(), 6), "MMM d, yyyy")
+                    : format(issue.period[0], "MMM d") + " - " + format(issue.period[1], "MMM d, yyyy")
+                }
+            </div>
             {!issue.published &&
                 <div class="text-white">🚧 Future edition</div>
             }
