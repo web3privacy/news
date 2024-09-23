@@ -1,5 +1,5 @@
 ---
-curator: mykola
+curator: Alina
 ---
 
 <!--
