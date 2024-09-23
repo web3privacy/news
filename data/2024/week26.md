@@ -1,6 +1,5 @@
 ---
 curator: mykola
-exactDate: 2024-9-23
 ---
 
 <!--
