@@ -22,57 +22,74 @@ exactDate: 2024-9-23
 ---
 
 ### Releases
-- Panther [Testnet 6 is live](https://x.com/ZKPanther/status/1805632128308150560)
-- RariMe [Self-custody identity wallet](https://rarime.com)
-- Stack Wallet [2.1.1](https://x.com/stack_wallet/status/1807108936991904044), [GitHub](https://github.com/cypherstack/stack_wallet)
-
+- Nym [NymVPN free beta testing now live](https://blog.nymtech.net/nymvpn-free-beta-testing-now-live-751edfc9bb69)
+- Firo [Firo Mandatory Release v0.14.14.0](https://firo.org/2024/09/04/firo-release-014140-mandatory.html)
+- Aleo [Aleo Mainnet is live](https://firo.org/2024/09/04/firo-release-014140-mandatory.html)
+- Gnosis [Gnosis Guild launched Enclave](https://x.com/GnosisGuild/status/1836426106074792384)
+- Semaphore [Semaphore v4 is out](https://x.com/SemaphoreDevs/status/1836427240784920722)
+- Aztec [Aztec launched a new website](https://aztec.network)
+  
 ---
 
 ### Ecosystem
-- [Aztec launched Aztec new website](https://aztec.network)
-- [Electroin Coin & Co weekly](https://forum.zcashcommunity.com/t/cash-is-dead-long-live-digital-cash-ecc-weekly-update/48042)
-- [HOPR dev update](https://x.com/hoprnet/status/1805254456159748300)
-- [50M ZkApp acceleratpr by Manta Network](https://x.com/ZK_Accelerator/status/1805598925870473252)
-- [Dusk Network announced mainnet date](https://dusk.network/news/dusk-announces-mainnet-date/)
-- [Singularity adopts Noir language](https://www.thesingularity.network/post/what-is-noir)
-- [Iranians Vote has been launched](https://x.com/UnchainIran/status/1806382365360431470)
-
+- [A look into Labyrinth's latest progress](https://blog.labyrinth.technology/labyrinth-user-owned-privacy-in-public-blockchains-a-look-at-our-latest-progres-2/)
+- [A new era for PSE](https://pse-team.notion.site/A-new-era-for-PSE-f4cde2e1a20d49ed92071a93ad8ba7df)
+- [Proof of Ink by Gavin Wood](https://cointelegraph.com/news/proof-of-ink-gavin-wood-tattoo-web3-privacy)
+- [IoTeX collaborates with Polygon Labs](https://www.theblock.co/post/316806/iotex-polygon-labs-agglayer-depin)
+- [Nillion integrates with NEAR Protocol](https://www.theblock.co/post/316458/nillion-integrates-with-near-protocol-enhancing-privacy-tools-for-developers)
+- [Namada Pre-Genesis Phase 2](https://docs.namada.net/networks/starting-network/genesis-flow/participants#bond-to-a-pre-genesis-validator-account)
+- [0xbow has been integrating with Privacy Pools](https://github.com/0xbow-io/privacy-pool-V1.0)
+- [Aztec gave grant to provable email](https://x.com/NoirLang/status/1834290911745884586)
+  
 ---
 
 ### Podcasts
-- [The Importance of Privacy in Web3](https://www.youtube.com/watch?v=W-jz3z5AB9s) DeCC Day @ Consensus 2024 Austin
-- [Privacy Preserving ML with Fully Homomorphic Encryption](https://www.youtube.com/watch?v=g1Zlu63TP0Y) by Jordan Frery, Concrete ML Tech Lead and Research at Zama, Benoit Chevallier-Mames, VP Cloud and ML at Zama
-- [Building the endgame for blockchain privacy](https://www.youtube.com/watch?v=bikZpQH4_dI) by Savio, Product Manager at Aztec Labs
-- [Decoding Crypto: Privacy in 2024 feat Tornado Cash, CBDCs and AI surveillance](https://www.buzzsprout.com/2096305/15314703-privacy-in-2024-tornado-cash-cbdcs-and-ai-surveillance-feat-harry-halpin) by Harry Haplin, Nym
-- [Incrypted conference: surveillance and #AI in times of war](https://www.youtube.com/live/dhIZA8rCAt4?t=5527s) by Harry Haplin, Nym
-- [MixMatch: Flow Matching for Mixnet Traffic](https://www.youtube.com/watch?v=9NycIxMxYps) by Lennart Oldenburg, KU Leuven
-- [How Secure Is Your Bitcoin? (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=yoRtjQ7sFow) by Rick Messitt
-- [Privacy in Public (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=-ma_baJr3MQ) by Kruw
-- [ Digital Anonymity and Secure Communication (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=0Iyuw9RK7qI) by Antonín Stoklásek
-- [Bitcoin & Human Rights: What 99% Are Getting Wrong (BTC Prague 2024 Keynote)](https://www.youtube.com/watch?v=yWiJZoIgx7w) by Anita Posch
+- [Jameson Lopp: Technology to empower individuals](https://press.logos.co/podcasts/logos-state/jameson-lopp-technology-to-empower-individuals) Logos Podcast with Jarred Hope
+- [How Gnosis 3.0 Paves the Way for Mass Adoption](https://www.youtube.com/watch?v=-Z-twj1gm10) Friederike Ernst
+- [Onchain Minimalism](https://www.youtube.com/watch?v=M8CO8MUPKxU) Keynote by Justin Drake at PlasmaCon 2024
+- [TEEs with Andrew Miller](https://zeroknowledge.fm/339-2/) Zero Knowledge fm
+- [LunarDAO <> FIRN forest-side chat](https://x.com/lunarpunksquad/status/1836026935295476065?s=19)
+- [Cross-chain intents & the modular ecosystem](https://x.com/anoma/status/1836056305854750765) Anoma
+- [Kruw on Bitcoin Privacy & Blockchain Analysis](https://www.youtube.com/watch?v=v952Fd1vmOs&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=10)
+- [Bitcoin privacy, and the crypto privacy landscape with @thevladcostea](https://www.youtube.com/watch?v=5JV06qGqf8s&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=9) Nym Community Call
+- [How to improve your privacy with Dappnode](https://www.youtube.com/watch?v=Hz4IPSz67IQ&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=8) Dappnode Crash Course
+- [Technical Workshop with Diego Lizarazo and Mauricio Magaldi](https://www.youtube.com/watch?v=y85aLzVMgGE&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=7) Midnight x TOKEN2049
+- [Progress In the Decentralized AI Stack](https://www.youtube.com/watch?v=hxszdjzPENE&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=6) Panel at Web3 Summit 2024 Berlin
+- [Confidential Computing for Solana](https://www.youtube.com/watch?v=1EwzB1S5vI8&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=5) HackSecret 4
+- [Best Mina application or library built using Protokit](https://www.youtube.com/watch?v=C6uaNABI4J4&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=4) ETHGlobal Singapore 2024
+- [Remigration Checks, Chainanalysis, Presidential Debate & more!](https://www.youtube.com/watch?v=qmcp2xcLT1I&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=2) Monero Talk
+- [Use Open-Source Technologies](https://www.youtube.com/watch?v=Sr72VSjoOWw&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=1) Franzi x Department of Decentralization @ ETHBerlin
 
 ---
 
 ### Governments
-- Cointelegraph: [Privacy-minded' CBDCs are a wolf in sheep’s clothinge](https://cointelegraph.com/news/privacy-minded-cbdcs-wolf-sheeps-clothing)
+- EFF: [Venezuela's Repression: surveillance and censorship following July's presidential election](https://www.eff.org/deeplinks/2024/09/unveiling-venezuelas-repression-surveillance-and-censorship-following-julys)
+- DW: [Chinese cyberattacks hit nearly half of German firms](https://www.dw.com/en/chinese-cyberattacks-hit-nearly-half-of-german-firms-study/a-70070417)
+- Reuters: [Telegram CEO Pavel Durov arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
+
 ---
 
 ### Research
-- [Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://www.youtube.com/watch?v=UeV1zhbdVPI) by Enrico Bottazzi
+- [Message Latency in Waku Relay with Rate Limiting Nullifiers](https://eprint.iacr.org/2024/1073)
+- [Haze and Daze: Compliant Privacy Mixers](https://eprint.iacr.org/2023/1152)
+
 ---
+
 ### Other
-- [Make Cypherpunk - one Ethereum block at a time](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article by Mykola Siusko x Web3Privacy Now
-- [ID Verification Service for TikTok, Uber, X Exposed Driver Licenses!](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
-- [Julian Assange is free](https://x.com/wikileaks/status/1805390138945528183)
-- [Dark Pools for Institutions](https://blog.pantherprotocol.io/dark-pools-for-institutional-crypto-users-challenges-and-innovations/) by Panther Protocol
+- Forbes [Alliances show the web3 revolution is unstoppable with Robinhood, Secret Network and Tezos](https://www.forbes.com/sites/digital-assets/2024/06/18/alliances-show-the-web3-revolution-is-unstoppable-with-robinhood-secret-network-and-tezos/)
+- [Firefox rolls out Total Cookie Protection by default for desktop](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
+- [Zashi Coinbase integration](https://x.com/ElectricCoinCo/status/1836792480001388765)
+- [Sweeping FTC study finds that social media sites engage in ‘vast surveillance’ of its users](https://www.engadget.com/big-tech/sweeping-ftc-study-finds-that-social-media-sites-engage-in-vast-surveillance-of-its-users-155846997.html?guccounter=1)
 
 ---
 
 ### Upcoming events
 *(new/changes in **bold**)*
 
-* Jul 10, [Shielding Summit](https://shieldingsummit.org) (Brussels)
-* Jul 12, [Web3Privacy Now "Occupy meetup"](https://lu.ma/w3pn-meetup-bru1)
+* Sept 26-27, [ETHMilan](https://www.ethmilan.xyz/) conference
+* Oct 3, [Web3Privacy Now ETHRome meetup](https://lu.ma/w3pn-meetup-rome1)
 * Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
-* Oct, [ETHBrno](https://ethbrno.cz/) privacy hackathon
+* Oct 8, [zkSummit](https://www.zksummit.com/) Lisbon
+* Nov 11, [Ethereum Cypherpunk Congress](https://congress.web3privacy.info/) Bangkok
+* Nov 12-15, [devcon](https://devcon.org/en/) Bangkok
