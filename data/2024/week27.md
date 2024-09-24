@@ -37,7 +37,6 @@ exactDate: 2024-9-23
 - [IoTeX collaborates with Polygon Labs](https://www.theblock.co/post/316806/iotex-polygon-labs-agglayer-depin)
 - [Nillion integrates with NEAR Protocol](https://www.theblock.co/post/316458/nillion-integrates-with-near-protocol-enhancing-privacy-tools-for-developers)
 - [Namada Pre-Genesis Phase 2](https://docs.namada.net/networks/starting-network/genesis-flow/participants#bond-to-a-pre-genesis-validator-account)
-- [0xbow has been integrating with Privacy Pools](https://github.com/0xbow-io/privacy-pool-V1.0)
 - [Aztec gave grant to provable email](https://x.com/NoirLang/status/1834290911745884586)
   
 ---
