@@ -62,7 +62,7 @@ exactDate: 2024-9-23
 ### Governments
 - EFF: [Venezuela's Repression: surveillance and censorship following July's presidential election](https://www.eff.org/deeplinks/2024/09/unveiling-venezuelas-repression-surveillance-and-censorship-following-julys)
 - DW: [Chinese cyberattacks hit nearly half of German firms](https://www.dw.com/en/chinese-cyberattacks-hit-nearly-half-of-german-firms-study/a-70070417)
-- Reuters: [Telegram CEO Pavel Durov arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
+- Radar: [Telegram will share users’ IP addresses and phone numbers” to governments when legally required](https://x.com/RadarHits/status/1838259453365301288)
 
 ---
 
