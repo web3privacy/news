@@ -56,6 +56,7 @@ exactDate: 2024-9-23
 - [Best Mina application or library built using Protokit](https://www.youtube.com/watch?v=C6uaNABI4J4&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=4) ETHGlobal Singapore 2024
 - [Remigration Checks, Chainanalysis, Presidential Debate & more!](https://www.youtube.com/watch?v=qmcp2xcLT1I&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=2) Monero Talk
 - [Use Open-Source Technologies](https://www.youtube.com/watch?v=Sr72VSjoOWw&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=1) Franzi x Department of Decentralization @ ETHBerlin
+- [Privado ID & Basic Attention Token team on Privacy in the Web3](https://x.com/PrivadoID/status/1838339960417431823) @ X spaces
 
 ---
 
