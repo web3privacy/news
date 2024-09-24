@@ -80,6 +80,7 @@ exactDate: 2024-9-23
 - [Zashi Coinbase integration](https://x.com/ElectricCoinCo/status/1836792480001388765)
 - [Sweeping FTC study finds that social media sites engage in ‘vast surveillance’ of its users](https://www.engadget.com/big-tech/sweeping-ftc-study-finds-that-social-media-sites-engage-in-vast-surveillance-of-its-users-155846997.html?guccounter=1)
 - [Cryptographic papers giveaway by BigSky](https://x.com/BigSky_7/status/1838189271242453187)
+- [Beyond cypherpunks article](https://x.com/FehuLayer/status/1836762772367176101)
 
 ---
 
