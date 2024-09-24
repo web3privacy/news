@@ -24,7 +24,7 @@ exactDate: 2024-9-23
 ### Releases
 - Nym [NymVPN free beta testing now live](https://blog.nymtech.net/nymvpn-free-beta-testing-now-live-751edfc9bb69)
 - Firo [Firo Mandatory Release v0.14.14.0](https://firo.org/2024/09/04/firo-release-014140-mandatory.html)
-- Aleo [Aleo Mainnet is live](https://firo.org/2024/09/04/firo-release-014140-mandatory.html)
+- Aleo [Aleo Mainnet is live](https://x.com/AleoHQ/status/1836413826985804064)
 - Gnosis [Gnosis Guild launched Enclave](https://x.com/GnosisGuild/status/1836426106074792384)
 - Semaphore [Semaphore v4 is out](https://x.com/SemaphoreDevs/status/1836427240784920722)
 - Aztec [Aztec launched a new website](https://aztec.network)
