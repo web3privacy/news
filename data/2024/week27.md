@@ -27,7 +27,6 @@ exactDate: 2024-9-23
 - Aleo [Mainnet is live](https://x.com/AleoHQ/status/1836413826985804064)
 - Gnosis Guild [Launched Enclave](https://x.com/GnosisGuild/status/1836426106074792384)
 - Semaphore [Semaphore v4 is out](https://x.com/SemaphoreDevs/status/1836427240784920722)
-- Aztec [Launched a new website](https://aztec.network)
   
 ---
 
