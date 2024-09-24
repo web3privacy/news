@@ -33,7 +33,6 @@ exactDate: 2024-9-23
 ### Ecosystem
 - [A look into Labyrinth's latest progress](https://blog.labyrinth.technology/labyrinth-user-owned-privacy-in-public-blockchains-a-look-at-our-latest-progres-2/)
 - [A new era for PSE](https://pse-team.notion.site/A-new-era-for-PSE-f4cde2e1a20d49ed92071a93ad8ba7df)
-- [Proof of Ink by Gavin Wood](https://cointelegraph.com/news/proof-of-ink-gavin-wood-tattoo-web3-privacy)
 - [IoTeX collaborates with Polygon Labs](https://www.theblock.co/post/316806/iotex-polygon-labs-agglayer-depin)
 - [Nillion integrates with NEAR Protocol](https://www.theblock.co/post/316458/nillion-integrates-with-near-protocol-enhancing-privacy-tools-for-developers)
 - [Namada Pre-Genesis Phase 2](https://docs.namada.net/networks/starting-network/genesis-flow/participants#bond-to-a-pre-genesis-validator-account)
