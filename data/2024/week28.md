@@ -23,7 +23,6 @@ exactDate: 2024-9-30
 
 ### Releases
 - xx Network [XX Network Delivers Worldcoin Network Anonymizer Application](https://patcrypt.com/xx-network-delivers-worldcoin-network-anonymizer-application/)
-- Zashi [Coinbase integration in Zashi](https://x.com/zashi_app/status/1836870847086350711)
 - Panther Protocol [Stage 7 of Panther Protocol is live](https://blog.pantherprotocol.io/testnet-stage-7-is-now-live-with-simulated-swaps-data-escrow-and-more/)
 - PIVX [PIVX is now avalibable on NOW Wallet](https://x.com/_PIVX/status/1838930400921399331)
   
