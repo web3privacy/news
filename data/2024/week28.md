@@ -22,6 +22,8 @@ exactDate: 2024-9-30
 ---
 
 ### Releases
+- Aztec [Alpha Build 2 is here](https://aztec.network/blog/unlocking-the-future-of-privacy-exploring-identity-and-social-use-cases-in-alpha-build-2-with-100k-in-prizes)
+- Codex [Release of public Testnet and updated whitepaper](https://cointelegraph.com/press-releases/codex-testnet-launch-ramps-up-decentralised-data-storage-with-democratisation-and-incentivisation)
 - xx Network [XX Network Delivers Worldcoin Network Anonymizer Application](https://patcrypt.com/xx-network-delivers-worldcoin-network-anonymizer-application/)
 - Panther Protocol [Stage 7 of Panther Protocol is live](https://blog.pantherprotocol.io/testnet-stage-7-is-now-live-with-simulated-swaps-data-escrow-and-more/)
 - PIVX [PIVX is now avalibable on NOW Wallet](https://x.com/_PIVX/status/1838930400921399331)
