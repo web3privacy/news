@@ -77,4 +77,5 @@ exactDate: 2024-9-30
 * Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
 * Oct 8, [zkSummit](https://www.zksummit.com/) Lisbon
 * Nov 11, [Ethereum Cypherpunk Congress](https://congress.web3privacy.info/) Bangkok
+* Nov 11, **[Parallel Society Congress](https://psc.logos.co/)** Bangkok
 * Nov 12-15, [devcon](https://devcon.org/en/) Bangkok
