@@ -61,7 +61,7 @@ exactDate: 2024-9-30
 
 ### Other
 - Cointelegraph [Telegram’s Policy shift raises concerns](https://cointelegraph.com/news/telegram-policy-shift-privacy-concerns)
-- EEF [Tell Congress: We Can't Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
+- EFF [Tell Congress: We Can't Afford More Bad Patents](https://act.eff.org/action/tell-congress-we-can-t-afford-more-bad-patents)
 - Oasis Academy [Can AI be developed responsibly?](https://oasisrose.garden/lessons/ai-alignment-and-oasis/)
 - Python [Zama Concrete ML: Simplifying Homomorphic Encryption for Python Machine Learning](https://www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/)
 - Gnericvibes [How Creatives Can Stay Safe Onchain: Essential Security Tips](https://mirror.xyz/0x744CDf12D5D289db118Ed9293c10cfa952169071/WhiZVEhBYE_EUVmzO8lS-hWd1wikK5Us9UtJdEb8RQc)
