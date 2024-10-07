@@ -78,4 +78,4 @@ Pick a date to be offline → Let friends and family know you’ll be offline, o
 For all of us smitten with privacy, going offline is the sweetest act of devotion. 
 Alternatively, get one of those [bad boys](https://www.ebay.it/itm/325892632180?_skw=nokia+nokia+3310&itmmeta=01J9GN5N0S75PH5RYQNW1G03FJ&hash=item4be0b6ee74:g:aH8AAOSw4JpjzR8k&itmprp=enc%3AAQAJAAAA8Mxmj%2BiGvOveHXEBClPb29ixfJhA%2B5kKWQm%2BiZ8h0gKxvvyToiqiO0hZwA3f5%2BvPKPI8W1L5cp%2BLHuSX%2Bh4VRRh0RlJx10frUwyvwYX7h1yRGiE6AHGVY7BBET2gAaHNT5WZ6YcCm%2BhGMg2OpPCZJmb7czQlR8tL4Qem2OZjItarNd5f4TwYZ1%2Byp0u%2FcLcpXNAHhiFPQv77CFfTBhEugyS13MHXzyENP1yLlwdNs%2B5hBa1Fws5icRT9ng98TiT1wQXo2OEAWfoXP559CrWOq8HuuwSJ7MQ%2BYFAdJSZUGMYTiHIhDtSscXTRbShJ%2BoQt%2Bw%3D%3D%7Ctkp%3ABFBMwNCWlcxk).
 
-Untill next week - and let's make privacy sexy again. 
+Until next week - and let's make privacy sexy again. 
