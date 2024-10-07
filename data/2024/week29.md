@@ -37,6 +37,7 @@ And now for the nitty gritty...
 - The LunarDAO [Improvement Proposal supporting DarkFi research & development](https://lunardao.net/darkfi_raise_guide_updated.html)
 - Labyrinth [September Update](https://www.labyrinth.technology/blog/september-update/)
 - Railgun [Introducing Shieldy & The Brain](https://x.com/RAILGUN_Project/status/1841873032048001089)
+- HCPP aka Hackers Congress Paralelni Polis [coverage by Bob Summerwill](https://x.com/BobSummerwill/status/1842136910329786406?s=19)
 ---
 
 ### Knowledge
