@@ -41,7 +41,7 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
 - Namada [initial release of the Namada js sdk is now available on npm](https://www.npmjs.com/package/@heliaxdev/namada-sdk)
 - Kontos [V2 Phase 2 Upgrade](https://x.com/Kontosio/status/1844979521113686497)
 - ANS [ANS Public Registration is now open](https://aleonames.id/)
-- Secret Network [partnership with Native, the Zero Trust Bitcoin platform, to unlock Decentralized Confidential Computing for Bitcoin](
+- Secret Network [integration of Secret’s Confidential Computing Layer with Solana](https://scrt.network/blog/decc-for-solana/)
 - Codex [Codex testnet launch ramps up decentralised data storage with democratisation and durability guarantees](https://cointelegraph.com/press-releases/codex-testnet-launch-ramps-up-decentralised-data-storage-with-democratisation-and-incentivisation)
 
 ---
