@@ -11,9 +11,9 @@ exactDate: 2024-10-7
 
 ### Inspiration
 
-### Inspiration [Going On(Line)] an offering of media from the web
+### Inspiration: Going On(Line) an offering of media from the web
 
-### Inspiration [Going Off(Line)] an offering of IRL events 
+### Inspiration: Going Off(Line) an offering of IRL events 
 
 ### Saucy Advice
 -->
