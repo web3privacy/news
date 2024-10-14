@@ -1,8 +1,6 @@
 
 ---
 curator: Alina
-
-exact Date: 2024-10-14
 ---
 
 <!--
