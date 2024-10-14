@@ -1,7 +1,7 @@
 
 ---
 curator: Alina
-exactDate: 2024-10-14
+exactDate: 2024-10-7
 ---
 
 <!--
@@ -36,6 +36,7 @@ this week we would like to give a spotlight to projects that won our bounty at [
 
 also, in case you've been out of the loop - we have launched the [Privacy Builder Pack](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde) to empower devs moving beyond one-off projects and build privacy-1st applications that can address real-world problems and thrive in the long run.
 
+---
 
 ### Insights
 - Namada [initial release of the Namada js sdk is now available on npm](https://www.npmjs.com/package/@heliaxdev/namada-sdk)
@@ -48,7 +49,7 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
 
 ### Knowledge
 - Veritas Protocol [The Benefits of Real-Time Blockchain Monitoring for Security](https://www.veritasprotocol.com/blog/the-benefits-of-real-time-blockchain-monitoring-for-security)
-- EFF[How to: Detect Bluetooth Trackers](https://ssd.eff.org/module/how-to-detect-bluetooth-trackers)
+- EFF [How to: Detect Bluetooth Trackers](https://ssd.eff.org/module/how-to-detect-bluetooth-trackers)
 - Privado.iD [Reclaiming Trust in the Age of AI: Private Proofs of Uniqueness and Digital Reputation](https://www.privado.id/blog/reclaiming-trust-in-the-age-of-ai)
 - IET [A secure blockchain framework for healthcare records management systems](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/htl2.12092)
 - Cointelegraph [Blockchain fixes misuse of biometric data — Privado ID founder](https://cointelegraph.com/news/blockchain-fixes-misuse-biometric-data-privado-id-founder)
@@ -58,14 +59,14 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
 - Cryptology ePrint Archive [Curve Forests: Transparent Zero-Knowledge Set Membership with Batching and Strong Security](https://eprint.iacr.org/2024/1647)
 - Cryptology ePrint Archive [Mild Asymmetric Message Franking: Illegal-Messages-Only and Retrospective Content Moderation](https://eprint.iacr.org/2024/1608)
 - Cryptology ePrint Archive [A Note on ``Privacy-Preserving and Secure Cloud Computing: A Case of Large-Scale Nonlinear Programming''](https://eprint.iacr.org/2024/1588)
-- [Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols](https://eprint.iacr.org/2024/1579)
-- [FLUENT: A Tool for Efficient Mixed-Protocol Semi-Private Function Evaluation](https://eprint.iacr.org/2024/1561)
-- [Understanding Leakage in Searchable Encryption: a Quantitative Approach](https://eprint.iacr.org/2024/1558)
-- 
+- Cryptology ePrint Archive [Re-visiting Authorized Private Set Intersection: A New Privacy-Preserving Variant and Two Protocols](https://eprint.iacr.org/2024/1579)
+- Cryptology ePrint Archive [FLUENT: A Tool for Efficient Mixed-Protocol Semi-Private Function Evaluation](https://eprint.iacr.org/2024/1561)
+- Cryptology ePrint Archive [Understanding Leakage in Searchable Encryption: a Quantitative Approach](https://eprint.iacr.org/2024/1558)
+
   
 ---
 
-### Inspiration [Going On(Line)] an offering of media from the web
+### Inspiration: Going On(Line) an offering of media from the web
 - [Mastering MPC & Memes with Mikerah](https://www.youtube.com/watch?v=1qJBFGXdah4) Zero Knowledge Podcast
 - [Shieldy & The Brain - Exploring ETH Privacy with RAILGUN](https://x.com/RAILGUN_Project/status/1844362272430514228)
 - [How Web3 Privacy Will Revolutionize DeFi](https://www.youtube.com/watch?v=ZnJTYSsnBc8) Chainalysis
@@ -80,7 +81,7 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
   
 ---
 
-### Inspiration [Going Off(Line)] an offering of IRL events 
+### Inspiration: Going Off(Line) an offering of IRL events 
 *(new/changes in **bold**)*
 
 * Oct 17-19,[ETHSofia Conference & Hackathon](https://www.ethsofia.com/)
