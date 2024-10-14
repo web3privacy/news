@@ -82,6 +82,7 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
 * Nov 7-9, [DeFi Security Summit](https://defisecuritysummit.org/) Bangkok
 * Nov 11, [Ethereum Cypherpunk Congress](https://congress.web3privacy.info/) Bangkok
 * Nov 11, [Parallel Society Congress](https://psc.logos.co/) Bangkok
+* Nov 13, [Women in web3Privacy Side Event](https://lu.ma/jgpu1m09) Bangkok
 * Nov 12-15, [devcon](https://devcon.org/en/) Bangkok
 
 
