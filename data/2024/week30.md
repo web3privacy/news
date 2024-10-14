@@ -36,7 +36,6 @@ this week we would like to give a spotlight to projects that won our bounty at [
 
 also, in case you've been out of the loop - we have launched the [Privacy Builder Pack](https://absorbing-diagram-66b.notion.site/Privacy-Builder-Pack-2cae5f1e195c4970b4eb41a14d3f4bde) to empower devs moving beyond one-off projects and build privacy-1st applications that can address real-world problems and thrive in the long run.
 
-curated by privacy advocates and seasoned hackers.
 
 ### Insights
 - Namada [initial release of the Namada js sdk is now available on npm](https://www.npmjs.com/package/@heliaxdev/namada-sdk)
