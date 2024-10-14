@@ -1,3 +1,4 @@
+![week30](https://github.com/web3privacy/news/blob/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png)
 
 <!--
 ### Insights
