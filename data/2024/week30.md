@@ -1,8 +1,4 @@
 
----
-curator: Alina
----
-
 <!--
 ### Insights
 
@@ -19,7 +15,7 @@ curator: Alina
 
 ---
 
-hello and welcome to my girl blog!
+hello and welcome!
 
 this week we would like to give a spotlight to projects that won our bounty at [ETHRome](https://x.com/ETHRome). 
 
@@ -96,3 +92,7 @@ also, in case you've been out of the loop - we have launched the [Privacy Builde
 Eric Hughes
 
 Until next week - and let's make privacy sexy again. 
+
+---
+curator: Alina
+---
