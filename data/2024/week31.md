@@ -67,6 +67,7 @@ we're happy to see this community gaining momentum.
 
 ### Knowledge
 - EFF [Salt Typhoon Hack Shows There's No Security Backdoor That's Only For The "Good Guys"](https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys)
+- EFF [A Flourishing Internet Depends on Competition](https://www.eff.org/deeplinks/2024/10/flourishing-internet-depends-competition)
 - Cointelegraph [Blockchain fixes misuse of biometric data — Privado ID founder](https://cointelegraph.com/news/blockchain-fixes-misuse-biometric-data-privado-id-founder)
 - Cryptology ePrint Archive [Drifting Towards Better Error Probabilities in Fully Homomorphic Encryption Schemes](https://eprint.iacr.org/2024/1718)
 - Cryptology ePrint Archive [Quantum Security of a Compact Multi-Signature](https://eprint.iacr.org/2024/1344)
@@ -77,12 +78,13 @@ we're happy to see this community gaining momentum.
 ---
 
 ### Inspiration: Going On(Line) an offering of media from the web
-- [None of your business: privacy & crypto talk](https://x.com/RAILGUN_Project/status/1847057295735509502) RAILGUN
+- [None of your business: privacy & crypto talk](https://x.com/RAILGUN_Project/status/1847057295735509502) RAILGUN X Space
 - [Death and rebirth in the phase of paradigm shifts](https://www.youtube.com/watch?v=5ssEoX4j8nY) Nym Community Call
 - [EFFecting Change: How to Protest with Privacy in Mind](https://x.com/i/broadcasts/1OyJAZAyzQWxb) EFF
 - [Driving Adoption of Privacy - Paul Puey](https://www.youtube.com/watch?v=Q3odxA7EUS4&t=1s) ETHDam 2024
 - [Future of identity-centric blockchain](https://open.spotify.com/episode/6JreaDmvgfOU5T8zdKg9r0) AdLunam Podcast
 - [How Web3 navigates the balance between transparency and privacy on public chains](https://www.youtube.com/watch?v=8UgXgzxwfE0) reDeFining RWA at Token2049
+- [A Future for Private Cryptocurrencies ft. Firo, Particl & PIVX](https://x.com/BasicSwapDEX/status/1847684828616962423) BasicSwap DEX X Space
 
 ---
 
