@@ -14,7 +14,7 @@ exactDate: 2024-10-21
 
 ### Inspiration: Going Off(Line) an offering of IRL events 
 
-### Researcher 
+### Explorer 
 
 ### Saucy Quote
 -->
@@ -85,7 +85,7 @@ we're happy to see this community gaining momentum.
 
 ---
 
-### Researcher 
+### Explorer 
 
 In a tangled world wide web of information, a jungle where every option seems to have a hidden gotcha, we have all have become sceptical of the motives behind each and every source of information As the debate around technology's impact on society intensifies, privacy has taken centre stage. Many of us, who once treated privacy as an afterthought, are now asking: "Where do I even start?"
 
