@@ -102,7 +102,7 @@ This weeks spotlight is on [Waku](https://explorer.web3privacy.info/project/waku
 
 With it's shining 83% score, I asked one of their contributors [Václav Pavlín](https://x.com/vpavlin) some questions: 
 
-How is waku different from other protocols?
+How is Waku different from other protocols?
 *Waku does not compromise on privacy, censorship resistance and permissionless nature. It's aim is to enable any project to onboard quickly on an extensive network of p2p nodes and focus on your protocol, rather than bootstrapping and building a network from scratch.*
 
 What’s the next hot feature Waku is working on?
