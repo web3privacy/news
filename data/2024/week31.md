@@ -61,6 +61,7 @@ we're happy to see this community gaining momentum.
 - Horizen [Q3 Report](https://mirror.xyz/0xF4D306be0E45E78bfE29588Bd018fe9CE405a62d/_kb7oihytUd54F_t-L3yH0Y0COq7zVlYd8cxbzHIQ68)
 - Haven Protocol [GUI update 4.1 - New Release](https://x.com/havenxhv/status/1847589412613353939?s=46)
 - PlatON [Partnership with Uxuycom to integrate the #UXUY Telegram Wallet](https://x.com/uxuycom/status/1847466930942427331)
+- Fairblock [What happened to our decentralized private new internet?](https://ethresear.ch/t/what-happened-to-our-decentralized-private-new-internet/20657)
 
 ---
 
