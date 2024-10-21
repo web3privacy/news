@@ -128,7 +128,7 @@ That's it on the Explorer and don't forget to add your favorite projects [here](
 ### Saucy Quote 🥫
 
 "there is no meaningful future for cryptocurrency without privacy" 
-[prenumbra](https://x.com/penumbrazone/status/1847264986071970203?s=46)
+[penumbra](https://x.com/penumbrazone/status/1847264986071970203?s=46)
 
 Until next week - and let's make privacy sexy. 
 
