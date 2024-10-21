@@ -1,3 +1,7 @@
+---
+curator: Alina
+exactDate: 2024-10-7
+---
 
 <!--
 ### Insights
