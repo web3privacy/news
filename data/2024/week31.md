@@ -106,7 +106,7 @@ How is waku different from other protocols?
 *Waku does not compromise on privacy, censorship resistance and permissionless nature. It's aim is to enable any project to onboard quickly on an extensive network of p2p nodes and focus on your protocol, rather than bootstrapping and building a network from scratch.*
 
 What’s the next hot feature Waku is working on?
-*There is a lot going on - end-to-end reliability protocol is huge, incentivization, RLN on mainnet with variable rate limits per user, Story sync to make sure all store nodes return same history...*
+*There is a lot going on - end-to-end reliability protocol is huge, incentivization, RLN on mainnet with variable rate limits per user, Store sync to make sure all store nodes return same history...*
 
 How would you sum up Waku team culture in one word?
 *Open.*
