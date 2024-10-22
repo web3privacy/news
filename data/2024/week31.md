@@ -21,7 +21,7 @@ exactDate: 2024-10-21
 
 ---
 
-<img width="1175" alt="Screenshot 2024-10-21 at 2 37 24 PM" src="https://github.com/web3privacy/news/blob/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png">
+<img width="800" alt="" src="https://github.com/web3privacy/news/blob/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png">
 
 gm privacy humans! 
 
