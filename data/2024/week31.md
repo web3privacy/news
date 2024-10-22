@@ -21,6 +21,8 @@ exactDate: 2024-10-21
 
 ---
 
+![privacy dashboard](../img/web3privacy%20rome%20meetup%20by%20jensei.png)
+
 gm privacy humans! 
 
 
