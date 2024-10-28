@@ -23,10 +23,11 @@ exactDate: 2024-10-28
 
 <img width="1200" alt="" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png">
 
-gm privacy humans! 
+
+hi, privacy humans! 
 
 
-While you're waiting for [Ethereum Cypherpunk Congress](https://lu.ma/w3pn-meetup-devcon7), we released videos from ETHRome web3 Privacy now meetup! 
+While you're waiting for [Ethereum Cypherpunk Congress](https://lu.ma/w3pn-meetup-devcon7), we released videos from ETHRome web3 Privacy now meetup:
 
 > [Web3Privacy Now is Care, Ecosystem, and Impact - PG](https://www.youtube.com/watch?v=m_pxws316eU&list=PLSsVHWrO8Yh0pE_hcoiZHPhI0Pn24BlrL&index=1)
 
@@ -81,7 +82,8 @@ Hope you enjoy!
 
 ![vitalik](https://github.com/user-attachments/assets/41dde377-5ac5-4821-8c8a-deaff116e684)
 
-Don't forget to add/update your favorite projects [here](https://explorer.web3privacy.info/project/create)!
+Don't forget to add/update your favorite projects [on the Explorer](https://explorer.web3privacy.info/project/create)!
+Not sure [how](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2ZMIq6Os-ZKQyT_l6a5F1-gJURySvvwNRKzBvNpWM)?
 
 
 ### Inspiration: Going Off(Line) an offering of IRL events 
