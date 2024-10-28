@@ -63,6 +63,10 @@ Hope you enjoy!
 - Circle [Unveiling the Confidential ERC-20 Framework: Compliant Privacy on Public Blockchains using FHE](https://www.circle.com/blog/confidential-erc-20-framework-for-compliant-on-chain-privacy)
 - CFPB [CFPB Takes Action to Curb Unchecked Worker Surveillance](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-to-curb-unchecked-worker-surveillance/)
 - Hackernoon [Cypherpunks (and Women) Write Code: Jude Milhon and Community Memory](https://hackernoon.com/cypherpunks-and-women-write-code-jude-milhon-and-community-memory)
+- FastCompany [Why the EU’s biometric border-check system has failed to launch](https://www.fastcompany.com/91217067/why-the-e-u-s-biometric-border-check-system-has-failed-to-launch?utm_source=flipboard&utm_content=Monkey_Flower%2Fmagazine%2FSurveillance%2C+Privacy+and+InfoSec)
+- Cryptology ePrint Archive [Offline-Online Indifferentiability of Cryptographic Systems](https://eprint.iacr.org/2024/1751)
+- Cryptology ePrint Archive [Attestation Proof of Association – provability that attestation keys are bound to the same hardware and person](https://eprint.iacr.org/2024/1444)
+- Cryptology ePrint Archive [More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials](https://eprint.iacr.org/2024/1738)
 ---
 
 
@@ -73,6 +77,7 @@ Hope you enjoy!
 - [The Future of Privacy in web3](https://x.com/iEx_ec/status/1850928206549049644) Lobster Protocol + iExec X space
 - [Argument & Lurk in 2025](https://www.youtube.com/watch?v=SzAkoyJtgjg) zkSummit 12 Lisbon
 - [The Right for Privacy in 2024](https://www.youtube.com/watch?v=OIiLJAvtgXU) POW Summit
+- [threat of data colonialism](https://x.com/techwontsaveus/status/1849442761218355607) Tech Won't Save Us
 
 ---
 
