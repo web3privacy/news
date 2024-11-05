@@ -61,6 +61,7 @@ things have been cooking up in web3privacy kitchen:
 - [Amir Taaki: Past, Present & Future of Bitcoin](https://www.youtube.com/watch?v=Ul8p0nf6Hxo)
 - [Crypto-privacy on the policy agenda](https://www.youtube.com/watch?v=ZLanWzAPYeg)
 - [Silke Noa & Rachel Rose O'Leary: AssangeDAO](https://www.youtube.com/watch?v=rZMzOQ0kxB4)
+- [4 tips for using RAILGUN](https://x.com/haochizzle/status/1853827736730734811)
 
 
 ---
