@@ -44,7 +44,7 @@ things have been cooking up in web3privacy kitchen:
 - [Nillion network raises $25M](https://cointelegraph.com/news/nillion-network-funding-decentralized-privacy-solutions)
 - [Protocol Berg is back](https://x.com/protocol_berg/status/1853395071107830218?s=35)
 - [NymVPN statement on US Elections](https://blog.nymtech.net/no-matter-who-wins-nymvpn-is-free-for-the-next-month-to-fight-for-freedom-9189e4a47d3d)
-- 
+- [Encrypted Messenger Session Moves to Switzerland](https://restoreprivacy.com/encrypted-messenger-session-moves-to-switzerland-amid-privacy-concerns/)
 ---
 
 ### Knowledge
@@ -87,8 +87,6 @@ Not sure [how](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2
 * Nov 12-15, [devcon](https://devcon.org/en/) Bangkok
 * Nov 15-17 [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok)
 * Dec 6-8, [ETHIndia](https://ethindia2024.devfolio.co/) Bengaluru
-
-* devcon [side events list](https://lu.ma/devcon)
 
 
 ### Saucy Quote 🥫
