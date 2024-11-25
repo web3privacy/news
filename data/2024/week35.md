@@ -89,7 +89,7 @@ Not sure [how](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2
 * Dec 5-6, [Emergence](https://emergence.xyz/) Prague
 * Dec 6-8, [ETHIndia](https://ethindia2024.devfolio.co/) Bengaluru
 * Jan 30-31, [ETHZurich](https://ethereumzuri.ch/)
-* Feb 7-9, [ETHPOxford](https://ethoxford.io/)
+* Feb 7-9, [ETHOxford](https://ethoxford.io/)
 * Feb 15 - March 1, [ZK Village](https://www.zklab.systems/zk-village) Denver, USA
 * Feb 23 - March 1, [ETHDenver](https://www.ethdenver.com/)
 
