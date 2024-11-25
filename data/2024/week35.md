@@ -25,6 +25,7 @@ exactDate: 2024-11-25
 <img width="1200" alt="" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png">
 
 
+
 hi and welcome back, 
 
 after the [Ethereum Cypherpunk Congress](https://lu.ma/w3pn-meetup-devcon7) shebang we are continuing with the news, as usual
