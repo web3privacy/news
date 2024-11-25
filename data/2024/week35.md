@@ -69,7 +69,10 @@ so, cheesy moment over.
 ---
 
 ### Inspiration: Going On(Line) an offering of media from the web
-- [Organizational Culture in the Ethereum Ecosystem, Ann Brody](https://app.devcon.org/schedule/U7SNLQ)
+- [Ann Brody: Organizational Culture in the Ethereum Ecosystem](https://app.devcon.org/schedule/U7SNLQ)
+- [“The One Where Lisa Loud is Shattering Expectations and Navigating a Career in Decentralized Encryption”](https://youtu.be/gWpSe9s9Ib4?feature=shared)
+- [“The One Where Park is Explaining that Cypherpunk is Feminist at its Core”](https://youtu.be/5krSUieJVH0?feature=shared)
+- [The One Where Ais Connoly Gets Real about ZKz”](https://youtu.be/Kt9M3c0b0cc?feature=shared)
 - [Oasis recent events](https://x.com/oasisprotocol/status/1860976772386586914?s=46)
 - [Road to PrivadoID](https://x.com/espaciocripto/status/1860016997129683401?s=46)
 
