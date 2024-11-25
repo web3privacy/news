@@ -62,10 +62,7 @@ so, cheesy moment over.
 - [Application of cryptographic techniques to shield cellular metadata from network carriers](https://www.aclu.org/news/privacy-technology/new-mobile-phone-service-shows-we-can-have-both-privacy-and-nice-things)
 - [Crypto-Asset Market Abuse Under EU MiCA](https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/cryptoasset-market-abuse-under-eu-mica/FDC11EC096728B9EF1097A5346F0EF27)
 - [AI in criminal justice](https://www.eff.org/deeplinks/2024/11/ai-criminal-justice-trend-attorneys-need-know-about)
-- [US gov outlawing crypto?](https://www.youtube.com/embed/WFJkqAFi1ZQ?start=1434)
-- [Arcium: reshaping how data, AI and blockchains work together](https://www.youtube.com/watch?v=S0Xy_p7Agcg)
 
-  
 ---
 
 ### Inspiration: Going On(Line) an offering of media from the web
@@ -73,8 +70,10 @@ so, cheesy moment over.
 - [“The One Where Lisa Loud is Shattering Expectations and Navigating a Career in Decentralized Encryption”](https://youtu.be/gWpSe9s9Ib4?feature=shared)
 - [“The One Where Park is Explaining that Cypherpunk is Feminist at its Core”](https://youtu.be/5krSUieJVH0?feature=shared)
 - [The One Where Ais Connoly Gets Real about ZKz”](https://youtu.be/Kt9M3c0b0cc?feature=shared)
+- [US gov outlawing crypto?](https://www.youtube.com/embed/WFJkqAFi1ZQ?start=1434)
 - [Oasis recent events](https://x.com/oasisprotocol/status/1860976772386586914?s=46)
 - [Road to PrivadoID](https://x.com/espaciocripto/status/1860016997129683401?s=46)
+- [Arcium: reshaping how data, AI and blockchains work together](https://www.youtube.com/watch?v=S0Xy_p7Agcg)
 
 ---
 
