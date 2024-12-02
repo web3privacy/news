@@ -50,7 +50,7 @@ Explore our 2023 selection and nominate your choices for 2024!
 
 ### Insights
 - [Tornado Cash Sanctions Deemed Unlawful](http://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf) 🤍
-- [RAILGUN POI](http://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf)
+- [RAILGUN PPOI](http://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf)
 - [Fileverse Updates](https://x.com/fileverse/status/1862530272714985876?s=46)
 - [PrivadoID KYA](https://x.com/privadoid/status/1863245672629383239?s=46)
 - [Worlcoin ID Passport Credential](https://x.com/worldcoin/status/1862276636143436167?s=46)
