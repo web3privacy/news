@@ -28,6 +28,8 @@ hey hot stuff, how's your Monday going?
 
 mentally we are still [here](https://www.youtube.com/watch?v=Un3_zWjL9PA) - Cypherpunk Congress aftermovie just dropped! 
 
+individual talks will be out soon, hold tight. 
+
 in other news, we are opening [web3privacy now yearly awards](https://awards.web3privacy.info/)! 
 
 
