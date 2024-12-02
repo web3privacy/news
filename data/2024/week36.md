@@ -62,7 +62,6 @@ Explore our 2023 selection and nominate your choices for 2024!
 
 ### Knowledge
 - [2024 FOTN Report](https://freedomhouse.org/sites/default/files/2024-10/FREEDOM-ON-THE-NET-2024-DIGITAL-BOOKLET.pdf)
-- [MPC resources](https://x.com/rarimo_protocol/status/1861748722100486280?s=46)
 - [Compiling Juvix to Cairo Assembly](https://zenodo.org/records/13739344)
 - [Nomos: IPAs for Data Availability](https://blog.nomos.tech/inner-product-arguments-for-data-availability/)
 - [EFF: Cover Your Tracks](https://coveryourtracks.eff.org/) 👀
