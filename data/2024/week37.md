@@ -98,6 +98,7 @@ I'm not jealous at all of them. No FOMO. If I say it enough, it'll come true.
 * Feb 7-9, [ETHOxford](https://ethoxford.io/)
 * Feb 15 - March 1, [ZK Village](https://www.zklab.systems/zk-village) Denver, USA
 * Feb 23 - March 1, [ETHDenver](https://www.ethdenver.com/)
+* April 2-5 - [ETHBucharest](https://x.com/ethbucharest_?s=21)
 * May 9-11 – [ETHDam](https://www.ethdam.com/) Amsterdam
 * May 27-29 – [ETHPrague](https://ethprague.com/)
 * Jun 3-8 – [ETHBelgrade](https://ethbelgrade.rs/)
