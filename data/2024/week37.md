@@ -28,9 +28,11 @@ exactDate: 2024-12-02
 hey, hey
 is your Monday as chaotic as mine? 
 
-I am stepping back till mid-January, because taking breaks from work is encouraged for creativity and sanity (or so I heard). The newsletter will be taken over by ChatGPT, good luck, have fun xxx
+I am stepping back till mid-January, because taking breaks from work is encouraged for creativity and sanity (or so I heard). 
 
-jk, [Alisa](https:/x.com/alisaischaos) will be stepping in to deliver a fresh batch of privacy news to your email for five Mondays. Just like a cat leaving a dead mouse on your pillow as a sign of affection. 
+The newsletter will be taken over by ChatGPT, good luck, have fun xxx
+
+jk, Alisa will be stepping in to deliver a fresh batch of privacy news to your email for five Mondays. Just like a cat leaving a dead mouse on your pillow as a sign of affection. 
 
 
 On another note, Cypherpunk Congress videos are up! Here's a curated list so you don't have to go searchin':
@@ -43,7 +45,9 @@ On another note, Cypherpunk Congress videos are up! Here's a curated list so you
 
 more coming soon!
 
-Also, most of the team / contributors are at an offsite right now, getting sleep and brainstorming the future, while some are FOMOing from afar. Yet, we still tuned in for a quick "what are Women in web3 Privacy are doing" session, along with a gentle roast and lots of love.
+Also, most of the team / contributors are at an offsite right now, getting sleep and brainstorming the future, while some are FOMOing from afar. 
+
+Yet, we still tuned in for a quick "what are Women in web3 Privacy are doing" session, along with a gentle roast and lots of love.
 
 
 <img width="1163" alt="Screenshot 2024-12-09 at 8 31 45 PM" src="https://github.com/user-attachments/assets/2541594d-e767-45e0-8b1a-40597af0fe6a">
