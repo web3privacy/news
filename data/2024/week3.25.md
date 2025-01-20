@@ -81,7 +81,7 @@ Now let's dive into the latest updates in privacy!
 
 
 ### Saucy Pic 🥫
-Hope you are being consious about how much time you spend online, crypto is chaotic enough. If anything this is how I've been feeling any time i log on:
+Hope you are being conscious about how much time you spend online, crypto is chaotic enough. If anything this is how I've been feeling any time i log on:
 
 
 <img width="448" alt="Screenshot 2025-01-20 at 10 26 50 PM" src="https://github.com/user-attachments/assets/cba2ece4-c0ad-4696-92d8-0614ae727315" />
