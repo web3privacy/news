@@ -18,7 +18,20 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
-| [2024-26](/data/2024/week27.md) | Sep 23 - Sep 29 | Sep 23 | alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week27.md) |
+| [2024-40](/data/2024/week40.md) | Sep 30 - Oct 6 | Oct 6 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week40.md) |
+| [2024-39](/data/2024/week39.md) | Sep 23 - Sep 29 | Sep 29 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week39.md) |
+| [2024-38](/data/2024/week38.md) | Sep 16 - Sep 22 | Sep 22 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week38.md) |
+| [2024-37](/data/2024/week37.md) | Sep 9 - Sep 15 | Sep 15 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week37.md) |
+| [2024-36](/data/2024/week36.md) | Sep 2 - Sep 8 | Sep 8 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week36.md) |
+| [2024-35](/data/2024/week35.md) | Aug 26 - Sep 1 | Sep 1 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week35.md) |
+| [2024-34](/data/2024/week34.md) | Aug 19 - Aug 25 | Aug 25 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week34.md) |
+| [2024-33](/data/2024/week33.md) | Aug 12 - Aug 18 | Aug 18 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week33.md) |
+| [2024-32](/data/2024/week32.md) | Aug 5 - Aug 11 | Aug 11 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week32.md) |
+| [2024-31](/data/2024/week31.md) | Jul 29 - Aug 4 | Aug 4 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week31.md) |
+| [2024-30](/data/2024/week30.md) | Jul 22 - Jul 28 | Jul 28 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week30.md) |
+| [2024-29](/data/2024/week29.md) | Jul 15 - Jul 21 | Jul 21 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week29.md) |
+| [2024-28](/data/2024/week28.md) | Jul 8 - Jul 14 | Jul 14 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week28.md) |
+| [2024-27](/data/2024/week27.md) | Jul 1 - Jul 7 | Jul 7 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week27.md) |
 | [2024-26](/data/2024/week26.md) | Jun 24 - Jun 30 | Jun 30 | mykola | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week26.md) |
 | [2024-25](/data/2024/week25.md) | Jun 17 - Jun 23 | Jun 23 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week25.md) |
 | [2024-24](/data/2024/week24.md) | Jun 10 - Jun 16 | Jun 16 | radek | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week24.md) |
