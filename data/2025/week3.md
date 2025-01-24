@@ -21,7 +21,7 @@ exactDate: 2025-01-20
 
 ---
 
-<img width="814" alt="Screenshot 2024-12-09 at 8 08 11 PM" src="https://github.com/user-attachments/assets/29991435-98a8-4f85-a5c8-72fa4b1dd145">
+<img width="1200" alt="back of a person wearing an anti surveillance tshirt" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/w3pn-news-tshirt.png">
 
 Good evening and welcome to the cosy corner of crypto that is not going to mention any of the recent developments (you can head over to crypto twitter for the memes and the rants).
 
