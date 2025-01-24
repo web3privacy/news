@@ -120,6 +120,4 @@ private internet money."
 
 Until next week - let's make privacy sexy. 
 
----
-curator: Alina
----
+### curator: Alina
