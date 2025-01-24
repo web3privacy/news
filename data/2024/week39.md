@@ -73,6 +73,4 @@ For the appetizer we have [all videos from Ethereum Cypherpunk Congress](https:/
 
 
 
----
-curator: Alina
----
+### curator: Alina
