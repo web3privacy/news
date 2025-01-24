@@ -1,6 +1,9 @@
 ---
 curator: Alina
+published: true
 exactDate: 2025-01-20
+links:
+  paragraph: https://paragraph.xyz/@privacynews/week-in-privacy-20
 ---
 
 <!--
