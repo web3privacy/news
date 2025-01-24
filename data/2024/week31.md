@@ -137,6 +137,4 @@ That's it on the Explorer and don't forget to add your favorite projects [here](
 
 Until next week - and let's make privacy sexy. 
 
----
-curator: Alina
----
+### curator: Alina
