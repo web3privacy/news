@@ -1,8 +1,6 @@
 ---
 curator: mykola
-published: pending
-links:
-  paragraph: pending
+published: false
 ---
 
 <!--
