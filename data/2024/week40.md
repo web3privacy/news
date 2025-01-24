@@ -71,6 +71,4 @@ As we countdown to the New Year, let's make one last resolution: before the cloc
 
 
 
----
-curator: Alisa
----
+### curator: Alina
