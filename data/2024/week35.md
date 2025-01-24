@@ -97,6 +97,4 @@ Not sure [how](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2
 <img width="557" alt="Screenshot 2024-11-25 at 11 45 40 PM" src="https://github.com/user-attachments/assets/528f8c17-c0d5-4989-b920-dec613f12f9f">
 
 
----
-curator: Alina
----
+### curator: Alina
