@@ -24,9 +24,7 @@ function capitalizeFirstLetter(string) {
                     : format(issue.period[0], "MMM d") + " - " + format(issue.period[1], "MMM d, yyyy")
                 }
             </div>
-            {!issue.published &&
-                <div class="text-white">🚧 Future edition</div>
-            }
+            {!issue.published}
         </div>
         <div class="grow"></div>
         <div class="mt-2 sm:mt-0 flex gap-4 items-center">
