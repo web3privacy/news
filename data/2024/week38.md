@@ -93,8 +93,6 @@ And we have a recording of a talk you've been waiting for!
 <img width="1143" alt="Screenshot 2024-12-09 at 8 30 14 PM" src="https://github.com/user-attachments/assets/09992f0d-3e9d-40e3-9845-2059261460f1">
 
 
-
-
 ---
-curator: Alisa
+curator: Alina
 ---
