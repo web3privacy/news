@@ -110,6 +110,4 @@ I'm not jealous at all of them. No FOMO. If I say it enough, it'll come true.
 
 
 
----
-curator: Alina
----
+### curator: Alina
