@@ -98,6 +98,4 @@ Eric Hughes
 
 Until next week - and let's make privacy sexy again. 
 
----
-curator: Alina
----
+### curator: Alina
