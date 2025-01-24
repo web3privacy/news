@@ -1,6 +1,9 @@
 ---
 curator: Alina
+published: true
 exactDate: 2024-10-15
+links: 
+  paragraph: https://paragraph.xyz/@privacynews/week-in-the-privacy-news-132024
 ---
 
 <!--
