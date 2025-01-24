@@ -1,5 +1,5 @@
 ---
-curator: Alisa
+curator: Alina
 exactDate: 2024-12-16
 ---
 
