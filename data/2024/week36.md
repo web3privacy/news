@@ -21,7 +21,7 @@ exactDate: 2024-12-02
 
 ---
 
-<img width="1200" alt="" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/data/img/web3privacy%20rome%20meetup%20by%20jensei.png">
+<img width="1200" alt="" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/w3pn-rome-meetup-jensei.png">
 
 hey hot stuff, how's your Monday going? 
 
