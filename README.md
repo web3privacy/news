@@ -12,9 +12,67 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 
 * [Subscribe Now!](https://paragraph.xyz/@privacynews/subscribe)
 
-## Issues
+## Template code for a new News entry
 
-<!-- ISSUES-START -->
+```
+---
+curator: your-name
+exactDate: 2025-00-00
+published: true
+links:
+  paragraph: https://paragraph.xyz/LINK
+  mirror: https://mirror.xyz/LINK
+---
+
+### Research
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Ecosystem
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Grants
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Releases
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Podcasts
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Governments
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Other
+- [item 1](https://LINK-TO-ITEM.com)
+- [item 2](https://LINK-TO-ITEM.com)
+- [item 3](https://LINK-TO-ITEM.com)
+
+### Upcoming events
+
+_(new/changes in **bold**)_
+
+- May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
+- May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
+- Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
+- Jun 27, [Privacy Reunion #3](https://lu.ma/privacyreunion3) (Neuchâtel)
+- **Jul 12, [Web3Privacy Now "Occupy meetup"](https://lu.ma/w3pn-meetup-bru1)**
+- Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
+- Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
+- Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
+- Oct, [ETHBrno](https://ethbrno.cz/) privacy hackathon
+```
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
@@ -41,5 +99,3 @@ You can read more in our [documentation](https://docs.web3privacy.info/news/week
 | [2024-07](/data/2024/week07.md) | Feb 12 - Feb 18 | ✅ [published](https://news.web3privacy.info/2024-07) | Mykola | [Paragraph](https://paragraph.xyz/@privacynews/2024-07) |
 | [2024-06](/data/2024/week06.md) | Feb 5 - Feb 11 | ✅ [published](https://news.web3privacy.info/2024-06) | Tree | [Paragraph](https://paragraph.xyz/@privacynews/2024-06), [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/YeescUmT44QN7Hv4a9L6GuK6LZS0N5VO-4g7NnYHNbo) |
 | [2024-05](/data/2024/week05.md) | Jan 29 - Feb 4 | ✅ [published](https://news.web3privacy.info/2024-05) | - | [Paragraph](https://paragraph.xyz/@privacynews/2024-05) |
-
-<!-- ISSUES-END -->
