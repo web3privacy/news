@@ -1,4 +1,3 @@
-
 ---
 curator: Alina
 exactDate: 2024-12-02
@@ -136,6 +135,4 @@ Not sure [how](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/Ri2
 
 till next monday! 
 
----
-curator: Alina
----
+### curator: Alina

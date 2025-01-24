@@ -1,3 +1,4 @@
+---
 curator: Alina
 exactDate: 2025-01-20
 ---
@@ -90,6 +91,6 @@ Hope you are being conscious about how much time you spend online, crypto is cha
 
 to more time offline 💖 
 see ya next Monday!
----
-curator: Alina
----
+
+
+### curator: Alina
