@@ -97,6 +97,4 @@ Until next week, reporting straight from the Cypherpunk Congress.
 For attendees - I will deliver the news personally to you (#yappaholic).
 To our remote frens - the next edition will be different, it'll make you feel like you're right there without any visuals :) You can watch the talks later when they are released, but I will be delivering the best and most chaotic quotes from the Congress directly to your inbox! 
 
----
-curator: Alina
----
+### curator: Alina
