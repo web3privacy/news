@@ -14,7 +14,7 @@
     "@astrojs/tailwind": "^5.1.0",
     "@frsource/base64": "^1.0.40",
     "@rollup/plugin-yaml": "^4.1.2",
-    "astro": "^4.3.5",
+    "astro": "^4.16.18",
     "date-fns": "^3.3.1",
     "marked": "^12.0.0",
     "svelte": "^4.2.19",
