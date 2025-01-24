@@ -10,7 +10,7 @@
     let cats = [];
     let ghData = {};
 
-    export let year = "2024";
+    export let year = "2024 && 2025";
     export let week = "05";
     export let current = false;
 
