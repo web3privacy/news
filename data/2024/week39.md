@@ -21,8 +21,7 @@ exactDate: 2024-12-16
 
 ---
 
-<img width="814" alt="Screenshot 2024-12-09 at 8 08 11 PM" src="https://github.com/user-attachments/assets/29991435-98a8-4f85-a5c8-72fa4b1dd145">
-
+<img width="1200" alt="back of a person wearing an anti surveillance tshirt" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/w3pn-news-tshirt.png">
 
 GM GM 
 Is everyone getting ready for the holidays..? 
