@@ -1,6 +1,9 @@
 ---
 curator: Alina
+published: true
 exactDate: 2024-12-02
+links:
+  paragraph: https://paragraph.xyz/@privacynews/week-in-privacy-192024
 ---
 
 <!--
