@@ -52,6 +52,14 @@ exactDate: 2024-9-23
 - [Cross-chain intents & the modular ecosystem](https://x.com/anoma/status/1836056305854750765) Anoma
 - [Kruw on Bitcoin Privacy & Blockchain Analysis](https://www.youtube.com/watch?v=v952Fd1vmOs&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=10)
 - [Bitcoin privacy, and the crypto privacy landscape with @thevladcostea](https://www.youtube.com/watch?v=5JV06qGqf8s&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=9) Nym Community Call
+- [How to improve your privacy with Dappnode](https://www.youtube.com/watch?v=Hz4IPSz67IQ&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=8) Dappnode Crash Course
+- [Technical Workshop with Diego Lizarazo and Mauricio Magaldi](https://www.youtube.com/watch?v=y85aLzVMgGE&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=7) Midnight x TOKEN2049
+- [Progress In the Decentralized AI Stack](https://www.youtube.com/watch?v=hxszdjzPENE&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=6) Panel at Web3 Summit 2024 Berlin
+- [Confidential Computing for Solana](https://www.youtube.com/watch?v=1EwzB1S5vI8&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=5) HackSecret 4
+- [Best Mina application or library built using Protokit](https://www.youtube.com/watch?v=C6uaNABI4J4&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=4) ETHGlobal Singapore 2024
+- [Remigration Checks, Chainanalysis, Presidential Debate & more!](https://www.youtube.com/watch?v=qmcp2xcLT1I&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=2) Monero Talk
+- [Use Open-Source Technologies](https://www.youtube.com/watch?v=Sr72VSjoOWw&list=PL-EuBfVebuVN4XQICXeUun_rQNA68Qp8-&index=1) Franzi x Department of Decentralization @ ETHBerlin
+- [Privado ID & Basic Attention Token team on Privacy in the Web3](https://x.com/PrivadoID/status/1838339960417431823) @ X spaces
 
 ---
 
@@ -59,12 +67,14 @@ exactDate: 2024-9-23
 - EFF: [Venezuela's Repression: surveillance and censorship following July's presidential election](https://www.eff.org/deeplinks/2024/09/unveiling-venezuelas-repression-surveillance-and-censorship-following-julys)
 - DW: [Chinese cyberattacks hit nearly half of German firms](https://www.dw.com/en/chinese-cyberattacks-hit-nearly-half-of-german-firms-study/a-70070417)
 - Reuters: [Telegram CEO Pavel Durov arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/)
+- Radar: [Telegram will share users’ IP addresses and phone numbers” to governments when legally required](https://x.com/RadarHits/status/1838259453365301288)
 
 ---
 
 ### Research
 - [Message Latency in Waku Relay with Rate Limiting Nullifiers](https://eprint.iacr.org/2024/1073)
 - [Haze and Daze: Compliant Privacy Mixers](https://eprint.iacr.org/2023/1152)
+- 
 ---
 
 ### Other
@@ -72,6 +82,9 @@ exactDate: 2024-9-23
 - [Firefox rolls out Total Cookie Protection by default for desktop](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/)
 - [Zashi Coinbase integration](https://x.com/ElectricCoinCo/status/1836792480001388765)
 - [Sweeping FTC study finds that social media sites engage in ‘vast surveillance’ of its users](https://www.engadget.com/big-tech/sweeping-ftc-study-finds-that-social-media-sites-engage-in-vast-surveillance-of-its-users-155846997.html?guccounter=1)
+- [Cryptographic papers giveaway by BigSky](https://x.com/BigSky_7/status/1838189271242453187)
+- [Beyond cypherpunks article](https://x.com/FehuLayer/status/1836762772367176101)
+
 
 ---
 
