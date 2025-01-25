@@ -1,4 +1,4 @@
-<a href="https://news.web3privacy.info"><img src="https://github.com/web3privacy/news/assets/67269/3751ac53-019d-411c-83ce-77faf4b2505d" width="75%" /></a>
+<a href="https://news.web3privacy.info"><img src="https://github.com/web3privacy/news/assets/67269/3751ac53-019d-411c-83ce-77faf4b2505d" width="100%" /></a>
 
 # Week in the Privacy News
 
@@ -82,6 +82,7 @@ _(new/changes in **bold**)_
 - Image should follow the following naming convention: YYYY-WW.png (i.e. 2025-03.png)
 - Once uploaded there theses should be linked within the .md file using the following standard: `<img width="1200" alt="insert some alt text here" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/2025-03.png">`
 
+<!-- ISSUES-START -->
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
@@ -108,3 +109,5 @@ _(new/changes in **bold**)_
 | [2024-07](/data/2024/week07.md) | Feb 12 - Feb 18 | ✅ [published](https://news.web3privacy.info/2024-07) | Mykola | [Paragraph](https://paragraph.xyz/@privacynews/2024-07) |
 | [2024-06](/data/2024/week06.md) | Feb 5 - Feb 11 | ✅ [published](https://news.web3privacy.info/2024-06) | Tree | [Paragraph](https://paragraph.xyz/@privacynews/2024-06), [Mirror](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/YeescUmT44QN7Hv4a9L6GuK6LZS0N5VO-4g7NnYHNbo) |
 | [2024-05](/data/2024/week05.md) | Jan 29 - Feb 4 | ✅ [published](https://news.web3privacy.info/2024-05) | - | [Paragraph](https://paragraph.xyz/@privacynews/2024-05) |
+
+<!-- ISSUES-END -->
