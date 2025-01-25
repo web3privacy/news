@@ -2,8 +2,8 @@
 
 # Week in the Privacy News
 
-[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml) 
-[![Sync script to update the readme.md summary table](https://github.com/web3privacy/news/actions/workflows/sync.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/sync.yml)
+[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml)
+[![Sync script to update the readme summary table](https://github.com/web3privacy/news/actions/workflows/sync.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/sync.yml)
 
 This repository serves as the source for the [Week in The Privacy News](https://news.web3privacy.info/) newsletter.
 
