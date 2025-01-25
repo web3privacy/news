@@ -15,7 +15,7 @@ lines.push("| --- | --- | --- | --- | --- |");
 for (const issue of issues) {
   const [year, week] = issue.week.split("-");
   const props = [
-    `[${issue.week}](/data/${issue.week}.md)`,
+    `[${issue.week}](/data/${year}/week${week}.md)`,
     `${format(new Date(issue.period[0]), "MMM d")} - ${
       format(new Date(issue.period[1]), "MMM d")
     }`,
