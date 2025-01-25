@@ -2,15 +2,16 @@
 
 # Week in the Privacy News
 
-[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml) 
+[![Sync script to update the readme.md summary table](https://github.com/web3privacy/news/actions/workflows/sync.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/sync.yml)
 
-> What's new in web3 privacy?
+This repository serves as the source for the [Week in The Privacy News](https://news.web3privacy.info/) newsletter.
 
-This repository serves as the source for the [Week in The Privacy News](https://news.web3privacy.info/)  newsletter.
+Please read our [documentation](https://docs.web3privacy.info/news/week-in-the-privacy) prior to contributing and follow the template and important considerations listed below.
 
-You can read more in our [documentation](https://docs.web3privacy.info/news/week-in-the-privacy).
+## [Subscribe to the newsletter via Paragraph](https://paragraph.xyz/@privacynews/subscribe)
 
-* [Subscribe Now!](https://paragraph.xyz/@privacynews/subscribe)
+-------------
 
 ## Template code for a new News entry
 
@@ -74,6 +75,8 @@ _(new/changes in **bold**)_
 - Oct, [ETHBrno](https://ethbrno.cz/) privacy hackathon
 ```
 
+-------------
+
 ## Important considerations when adding news items
 - Start with the template above and edit as necessary. None of the 'meta' data at the top of the file are required but we appreciate you filling them in. 
 - Navigate to the /data/ directory and to the year you are publishing for (i.e. 2025), within that directory create a new file and paste the template there.
@@ -81,6 +84,8 @@ _(new/changes in **bold**)_
 - Images used within the news item need to be in .png format and be uploaded to the /web/public/img/ directory (so as to be accessible on website frontend)
 - Image should follow the following naming convention: YYYY-WW.png (i.e. 2025-03.png)
 - Once uploaded there theses should be linked within the .md file using the following standard: `<img width="1200" alt="insert some alt text here" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/2025-03.png">`
+
+-------------
 
 <!-- ISSUES-START -->
 
