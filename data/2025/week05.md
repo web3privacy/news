@@ -1,7 +1,9 @@
 ---
 curator: Alina
 published: true
-exactDate: 2025-01-27
+exactDate: 2025-01-20
+links:
+  paragraph: https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-5
 ---
 
 <!--
