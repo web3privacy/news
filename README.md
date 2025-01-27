@@ -90,6 +90,7 @@ _(new/changes in **bold**)_
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2025-05](/data/2025/week05.md) | Jan 27 - Feb 2 | ✅ [published](https://news.web3privacy.info/2025-05) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-5) |
 | [2025-04](/data/2025/week04.md) | Jan 20 - Jan 26 | ✅ [published](https://news.web3privacy.info/2025-04) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/week-in-privacy-20) |
 | [2024-40](/data/2024/week40.md) | Sep 30 - Oct 6 | Oct 6 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week40.md) |
 | [2024-39](/data/2024/week39.md) | Sep 23 - Sep 29 | Sep 29 | Alina | [Edit](https://github.com/web3privacy/news/edit/main/data/2024/week39.md) |
