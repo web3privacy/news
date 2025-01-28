@@ -1,13 +1,9 @@
-
 name: Deploy to GitHub Pages
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
-  # Using a different branch name? Replace `main` with your branch’s name
   push:
     branches: [ main ]
 
-# Allow this job to clone the repo and create a page deployment
 permissions:
   contents: read
   pages: write
@@ -44,8 +40,7 @@ jobs:
         run: make compile
 
       - name: Upload Pages Artifact
-        # Must use v2 to avoid requiring `actions/deploy-pages@v4` or newer
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
 
