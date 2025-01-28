@@ -40,7 +40,9 @@ jobs:
         run: make compile
 
       - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
+      # Must use v2 to avoid requiring `actions/deploy-pages@v4` - TO BE CHANGED AFTER Jan 30 2025
+      # See: https://github.blog/changelog/2024-04-16-deprecation-notice-v3-of-the-artifact-actions
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./dist
 
