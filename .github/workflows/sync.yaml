@@ -1,8 +1,10 @@
 name: Synchronize repo
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
+  workflow_run:
+    workflows: ["Deploy to GitHub Pages"]
+      types:
+        - completed
   workflow_dispatch:
 
 permissions:
