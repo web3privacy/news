@@ -2,11 +2,11 @@
 
 # Week in the Privacy News
 
-[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml) - [![Sync script to update the readme table](https://github.com/web3privacy/news/actions/workflows/sync.yaml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/sync.yaml)
+[![Deploy to GitHub Pages](https://github.com/web3privacy/news/actions/workflows/deploy.yml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/deploy.yml) [![Sync script to update the readme table](https://github.com/web3privacy/news/actions/workflows/sync.yaml/badge.svg)](https://github.com/web3privacy/news/actions/workflows/sync.yaml)
 
-This repository serves as the source for the [Week in The Privacy News](https://news.web3privacy.info/) newsletter.
+This repository serves as the source for the [Week in The Privacy News](https://news.web3privacy.info/) newsletter
 
-Please read our [documentation](https://docs.web3privacy.info/news/week-in-the-privacy) prior to contributing and follow the template and important considerations listed below.
+Please read our [documentation](https://docs.web3privacy.info/news/week-in-the-privacy) prior to contributing
 
 ## [Subscribe to the newsletter via Paragraph](https://paragraph.xyz/@privacynews/subscribe)
 
