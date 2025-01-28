@@ -21,57 +21,46 @@ exactDate: 2025-00-00
 published: true
 links:
   paragraph: https://paragraph.xyz/LINK
-  mirror: https://mirror.xyz/LINK
 ---
 
-### Research
+
+### Insights
 - [item 1](https://LINK-TO-ITEM.com)
 - [item 2](https://LINK-TO-ITEM.com)
 - [item 3](https://LINK-TO-ITEM.com)
 
-### Ecosystem
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+### Knowledge
+- [words](website)
+- [words](website)
+- [words](website)
 
-### Grants
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+### Inspiration
+- [words](website)
+- [words](website)
+- [words](website)
 
-### Releases
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+### Inspiration: Going On(Line) an offering of media from the web
+- [words](website)
+- [words](website)
+- [words](website)
 
-### Podcasts
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+### Inspiration: Going Off(Line) an offering of IRL events 
+*(new/changes in **bold**)*
 
-### Governments
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+* Jan 30-31, [ETHZurich](https://ethereumzuri.ch/)
+* Feb 7-9, [ETHOxford](https://ethoxford.io/)
+* Feb 15 - March 1, [ZK Village](https://www.zklab.systems/zkai-village) Denver, USA
+* Feb 23 - March 1, [ETHDenver](https://www.ethdenver.com/)
+* April 2-5 - [ETHBucharest](https://x.com/ethbucharest_?s=21)
+* May 9-11 – [ETHDam](https://www.ethdam.com/) Amsterdam
+* May 27-29 – [ETHPrague](https://ethprague.com/)
+* Jun 3-8 – [ETHBelgrade](https://ethbelgrade.rs/)
+* Jun 12-13 – [Protocol Berg](https://protocol.berlin/) Berlin
 
-### Other
-- [item 1](https://LINK-TO-ITEM.com)
-- [item 2](https://LINK-TO-ITEM.com)
-- [item 3](https://LINK-TO-ITEM.com)
+### Saucy Quote
 
-### Upcoming events
+### Curator: your-name
 
-_(new/changes in **bold**)_
-
-- May 24-26, [ETHBerlin](https://ethberlin.org/) hackathon
-- May 30, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Prague) conference
-- Jun 7-9, [MoneroKon](https://monerokon.org/) (Prague) conference & hackathon
-- Jun 27, [Privacy Reunion #3](https://lu.ma/privacyreunion3) (Neuchâtel)
-- **Jul 12, [Web3Privacy Now "Occupy meetup"](https://lu.ma/w3pn-meetup-bru1)**
-- Oct 4-6, [Hackers Congress Paralelní Polis (HCPP)](https://hcpp.cz/) (Prague) conference
-- Oct 4-6, [ETHRome](https://ethrome.org/) hackathon
-- Oct, [Web3Privacy Now Summit](https://web3privacy.info/events/) (Brno) conference
-- Oct, [ETHBrno](https://ethbrno.cz/) privacy hackathon
 ```
 
 -------------
