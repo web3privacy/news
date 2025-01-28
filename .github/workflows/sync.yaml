@@ -2,9 +2,9 @@ name: Synchronize repo
 
 on:
   workflow_run:
-    workflows: ["Deploy to GitHub Pages"]
-      types:
-        - completed
+    workflows: [Deploy to GitHub Pages]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
