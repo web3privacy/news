@@ -3,8 +3,7 @@ curator: Alina
 published: true
 exactDate: 2025-01-20
 links:
-  paragraph: https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-6
----
+  paragraph: https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-2
 
 <!--
 ### Insights
