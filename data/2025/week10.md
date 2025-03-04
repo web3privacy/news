@@ -32,10 +32,10 @@ Hope your first week of March is off to a good start!
 May I suggest some digital home improvements? 
 
 1. Switch one chat a week from Whatsapp to Signal.
-2. Don't try to fix anyone's moral compas on social media, unless they are open to it. 
+2. Don't try to fix anyone's moral compass on social media, unless they are open to it. 
 3. Cleanse your home screen from unnecessary apps.
 4. Draft and share in Fileverse ddocs instead of Google Sheets.
-5. Move sentitive information and your seed phrases to good old analogue paper. 
+5. Move sensitive information and your seed phrases to good old analogue paper. 
 6. Sage your devices.
 
    
