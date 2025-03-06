@@ -78,10 +78,15 @@ Introductory text goes here
 ## Important considerations when adding news items
 - Start with the template above and edit as necessary. None of the 'meta' data at the top of the file are required but we appreciate you filling them in. 
 - Navigate to the /data/ directory and to the year you are publishing for (i.e. 2025), within that directory create a new file and paste the template there.
-- All the files must be .md and use the following naming convention: 'week##.md' - there must be two numbers after 'week' and this number reflects the week of the year (i.e. the news for 20/01/2025 would become 'week03.md' within the /2025/ directory)
-- Images used within the news item need to be in .png format and be uploaded to the /web/public/img/ directory (so as to be accessible on website frontend)
+- All the files must be .md and use the following naming convention: 'week##.md'
+- Important: There must be two numbers after 'week' and this number reflects the week of the year (i.e. the news for 20/01/2025 would become 'week03.md' within the /2025/ directory) if not things will break.
+- Images used within the news item need to be in .png format and be uploaded to the **/web/public/img/** directory (so as to be accessible for the website)
 - Image should follow the following naming convention: YYYY-WW.png (i.e. 2025-03.png)
-- Once uploaded there theses should be linked within the .md file using the following standard: `<img width="1200" alt="insert some alt text here" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/2025-03.png">`
+- Image must not have spaces within the name or else things will break (example of what not to do 'picture for week 7 news.jpg')
+- Once uploaded to the /img folder, place the following code in your .md and replace the image name at the end: 
+```
+<img width="1200" alt="insert some alt text here" src="https://raw.githubusercontent.com/web3privacy/news/refs/heads/main/web/public/img/2025-03.png">
+```
 
 -------------
 
