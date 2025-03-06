@@ -23,41 +23,51 @@ links:
   paragraph: https://paragraph.xyz/LINK
 ---
 
+Header image goes here - see the note below
+
+Introductory text goes here
+
+---
 
 ### Insights
 - [item 1](https://LINK-TO-ITEM.com)
 - [item 2](https://LINK-TO-ITEM.com)
 - [item 3](https://LINK-TO-ITEM.com)
 
+---
+
 ### Knowledge
 - [words](website)
 - [words](website)
 - [words](website)
 
-### Inspiration
+---
+
+### Knowledge
 - [words](website)
 - [words](website)
 - [words](website)
+
+---
 
 ### Inspiration: Going On(Line) an offering of media from the web
 - [words](website)
 - [words](website)
 - [words](website)
 
+---
+
 ### Inspiration: Going Off(Line) an offering of IRL events 
 *(new/changes in **bold**)*
 
-* Jan 30-31, [ETHZurich](https://ethereumzuri.ch/)
-* Feb 7-9, [ETHOxford](https://ethoxford.io/)
-* Feb 15 - March 1, [ZK Village](https://www.zklab.systems/zkai-village) Denver, USA
-* Feb 23 - March 1, [ETHDenver](https://www.ethdenver.com/)
 * April 2-5 - [ETHBucharest](https://x.com/ethbucharest_?s=21)
 * May 9-11 – [ETHDam](https://www.ethdam.com/) Amsterdam
 * May 27-29 – [ETHPrague](https://ethprague.com/)
 * Jun 3-8 – [ETHBelgrade](https://ethbelgrade.rs/)
 * Jun 12-13 – [Protocol Berg](https://protocol.berlin/) Berlin
+* Jun 20-22 - [MoneroKon](https://www.monerokon.org/) Prague 
 
-### Saucy Quote
+### Sauce 🥫
 
 ### Curator: your-name
 
