@@ -43,13 +43,6 @@ Introductory text goes here
 
 ---
 
-### Knowledge
-- [words](website)
-- [words](website)
-- [words](website)
-
----
-
 ### Inspiration: Going On(Line) an offering of media from the web
 - [words](website)
 - [words](website)
