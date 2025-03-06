@@ -41,7 +41,7 @@ May I suggest some digital home improvements?
    
 We've been cooking over at Web3Privacy! Here's some updates:
 
-- PG's Article - [Rethinking Freedom in the Digital Age: The Rise of the Carepunks](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/pXlDdQln8tRuXF_AwT_061Jt_HaGuOC-Ovj4y5yQxHw)
+- PGs Article - [Rethinking Freedom in the Digital Age: The Rise of the Carepunks](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/pXlDdQln8tRuXF_AwT_061Jt_HaGuOC-Ovj4y5yQxHw)
 - Web3Privacy Now Hackathon applications are now [open](https://hackathon.web3privacy.info/)!
 
 now for the digital privacy news:
