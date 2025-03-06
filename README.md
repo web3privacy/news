@@ -79,7 +79,8 @@ links:
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
-| [2025-09](/data/2025/week09.md) | Feb 24 - Mar 2 | ✅ [published](https://news.web3privacy.info/2025-09) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-6) |
+| [2025-10](/data/2025/week10.md) | Mar 3 - Mar 9 | ✅ [published](https://news.web3privacy.info/2025-10) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-6) |
+| [2025-09](/data/2025/week09.md) | Feb 24 - Mar 2 | ✅ [published](https://news.web3privacy.info/2025-09) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-2) |
 | [2025-08](/data/2025/week08.md) | Feb 17 - Feb 23 | ✅ [published](https://news.web3privacy.info/2025-08) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-6) |
 | [2025-07](/data/2025/week07.md) | Feb 10 - Feb 16 | ✅ [published](https://news.web3privacy.info/2025-07) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-week-7) |
 | [2025-06](/data/2025/week06.md) | Feb 3 - Feb 9 | ✅ [published](https://news.web3privacy.info/2025-06) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-5) |
