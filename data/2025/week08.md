@@ -6,29 +6,12 @@ links:
   paragraph: https://paragraph.xyz/@privacynews/cosy-privacy-corner-week-6
 ---
 
-<!--
-### Insights
-
-### Knowledge
-
-### Inspiration
-
-### Inspiration: Going On(Line) an offering of media from the web
-
-### Inspiration: Going Off(Line) an offering of IRL events 
-
-### Explorer 
-
-### Saucy Quote
--->
-
----
 <img width="1686" alt="Screenshot 2025-02-03 at 10 30 49 PM" src="https://github.com/user-attachments/assets/317c5722-510b-40ff-88bd-ee5b8c1690e7">
 
 Good morning, on todays episode of "this is so dumb it overflows into genius" we have a use case for homomorphic encryption: [homodaddies](https://x.com/sunscreentech/status/1890065055032701015?s=46)
 Great to see privacy tapping into the niche markets out there. In the meantime [Kinklink](https://x.com/kinklink_ai/status/1890410205365543208) is kicking off. Lots of romance in the air, even in the privacy community this past week.
 
-In other news, some updates from Web3Privacy
+In other news, some updates from Web3Privacy!
 - [Speaker proposals are open](https://x.com/web3privacy/status/1891803413408563648)!
 - [web3privacy starter kit masterpost is here](https://x.com/web3privacy/status/1880239862399279121)
 - [support web3privacy now on Giveth](https://giveth.io/project/web3privacy-now-advocating-for-digital-privacy)
