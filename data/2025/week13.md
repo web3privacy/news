@@ -4,7 +4,7 @@ curator: Alina
 published: true
 exactDate: 2025-03-18
 links:
-  paragraph: https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-4
+  paragraph: https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-6
 
 <!--
 ### Insights
@@ -27,7 +27,7 @@ links:
 
 Good day, 
 
-Today we announced a [MEMATHON](https://lu.ma/6dtpioqm)! Launching on 1st of April - by the way, this is not a joke. Would we put so much effort into a joke? Well, probably yes. But it's not. So sign up, subit on JokeRace, and feel free to let your imagination go wild on the open track or the bounties.
+Today we announced a [MEMATHON](https://lu.ma/6dtpioqm)! Launching on 1st of April - by the way, this is not a joke. Would we put so much effort into a joke? Well, probably yes. But it's not. So sign up, submit on JokeRace, and feel free to let your imagination go wild on the open track or the bounties.
 
 <img width="560" alt="Screenshot 2025-03-25 at 17 46 53" src="https://github.com/user-attachments/assets/649b2f98-d09f-4f57-b5f6-aeb7c98257f1" />
 
