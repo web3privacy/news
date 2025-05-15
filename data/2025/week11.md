@@ -4,24 +4,8 @@ published: true
 exactDate: 2025-01-20
 links:
   paragraph: https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-4
-
-<!--
-### Insights
-
-### Knowledge
-
-### Inspiration
-
-### Inspiration: Going On(Line) an offering of media from the web
-
-### Inspiration: Going Off(Line) an offering of IRL events 
-
-### Explorer 
-
-### Saucy Quote
--->
-
 ---
+
 <img width="1686" alt="Screenshot 2025-02-03 at 10 30 49 PM" src="https://github.com/user-attachments/assets/317c5722-510b-40ff-88bd-ee5b8c1690e7" />
 
 *When was the last time you’ve seen a really good privacy meme?* 
