@@ -88,7 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
-| [2025-14](/data/2025/week14.md) | Mar 31 - Apr 6 | Apr 6 | - | [Edit](https://github.com/web3privacy/news/edit/main/data/2025/week14.md) |
+| [2025-14](/data/2025/week14.md) | Mar 31 - Apr 6 | ✅ [published](https://news.web3privacy.info/2025-14) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-6) |
 | [2025-13](/data/2025/week13.md) | Mar 24 - Mar 30 | ✅ [published](https://news.web3privacy.info/2025-13) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-6) |
 | [2025-12](/data/2025/week12.md) | Mar 17 - Mar 23 | ✅ [published](https://news.web3privacy.info/2025-12) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-4) |
 | [2025-11](/data/2025/week11.md) | Mar 10 - Mar 16 | ✅ [published](https://news.web3privacy.info/2025-11) | Alina | [Paragraph](https://paragraph.xyz/@privacynews/cosy-corner-of-privacy-4) |
