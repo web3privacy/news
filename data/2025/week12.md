@@ -1,4 +1,3 @@
-
 ---
 curator: Alina
 published: true
