@@ -8,7 +8,7 @@ links:
 
 <img width="1686" alt="Screenshot 2025-02-03 at 10 30 49 PM" src="https://github.com/user-attachments/assets/317c5722-510b-40ff-88bd-ee5b8c1690e7" />
 
-Hello, friends! After some break we are finally back with our newsletter - surely you missed it. But there is no time to waste your time, so let's begin:
+Hello, friends! After some break we are finally back with our newsletter. We want to say one thing: October will be a huge month for privacy with many product announcements, partnerships, unstoppable events. Enjoy the show:
 
 ---
 
