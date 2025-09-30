@@ -8,7 +8,7 @@ This repository serves as the source for the [Week in The Privacy News](https://
 
 Please read our [documentation](https://docs.web3privacy.info/news/week-in-the-privacy) prior to contributing
 
-## [Subscribe to the newsletter via Paragraph](https://paragraph.xyz/@privacynews/subscribe)
+## [Subscribe to the newsletter via Paragraph](https://paragraph.xyz/@web3privacy)
 
 -------------
 
