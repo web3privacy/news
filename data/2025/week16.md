@@ -6,7 +6,7 @@ links:
   paragraph: 
 ---
 
-<img width="1686" alt="Screenshot 2025-02-03 at 10 30 49 PM" src="https://github.com/user-attachments/assets/317c5722-510b-40ff-88bd-ee5b8c1690e7" />
+![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/2025-16.png)
 
 Hello, friends! In a spirit of celebrating Banned Books week, we here at Web3Privacy Now are delighted to be able to prepare for you another newsletter with freshest info. Going against the censorship, as we ought to given this week's theme, we bring you info about new NymVPN update that brings build-in censorship resistance features. Thanks to the EFF's series StopCensoringAbortion you can also learn more about Meta's attempts to silent pro-abortion activists and so much more. So brew yourself some hot beverage of your choice, stay relaxed and look into what is new:
 
