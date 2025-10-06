@@ -1,6 +1,6 @@
 ---
 curator: m
-published: false
+published: true
 exactDate: 2025-10-06
 links:
   paragraph: 
@@ -21,7 +21,7 @@ Hello, friends! In a spirit of celebrating Banned Books week, we here at Web3Pri
 - [Coinbase is profitting on its Bitcoin loans](https://decrypt.co/342744/how-coinbase-profits-bitcoin-backed-loans-technology-provider)
 - [What does the government shutdown mean for privacy and cybersecurity?](https://iapp.org/news/a/a-view-from-dc-what-does-the-government-shutdown-mean-for-privacy-and-cybersecurity-)
 - [SysLinuxOS aspires to be best Linux for system administrators](https://thenewstack.io/syslinuxos-the-go-to-linux-for-system-administrators/)
-- [Phishing SMS came from unsecurd cellular router](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/)
+- [Phishing SMS came from unsecured cellular router](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/)
 ### Knowledge
 - [Long read on how big tech firms are enabling government surveillance with military and intel agencies](https://privacyinternational.org/long-read/5683/big-techs-bind-military-and-intelligence-agencies)
 - [Proton's tips on how to inbox zero](https://proton.me/blog/inbox-zero)
@@ -45,8 +45,8 @@ Hello, friends! In a spirit of celebrating Banned Books week, we here at Web3Pri
 
 * Oct 14 - [How Surveillance Targets Women and Gender-Queer People](https://www.eff.org/event/how-surveillance-targets-women-and-gender-queer-people) Seattle
 * Oct 17-19 - [ETHRome](https://www.ethrome.org/) Rome
-* Oct 27-29 - [TechCrunch Disrupt 2025](https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&utm_medium=post&utm_campaign=disrupt2025&utm_content=exhibit&promo=post_exhibitorprogram_09302025&display=)
 * Oct 28 - [Cybersecurity and Privacy Institute Annual Conference](https://uwaterloo.ca/cybersecurity-privacy-institute/2025conference?utm_source=chatgpt.com)
 * Nov 7-8 - [SeaGL conference](https://www.eff.org/event/seagl) Seattle
 * Nov 16 - [Web3Privacy Now Congress II](https://congress.web3privacy.info/) Buenos Aires
+* Nov 21 - [Ethereum Privacy Stack](https://web3privacy.github.io/eps25/)
 * Dec 27-30 - [39th Chaos Communication Congress](https://events.ccc.de/en/2025/09/28/39c3-call-for-participation/) Hamburg
