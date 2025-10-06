@@ -1,6 +1,6 @@
 ---
 curator: m
-published: false
+published: true
 exactDate: 2025-10-06
 links:
   paragraph: 
