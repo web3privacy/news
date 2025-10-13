@@ -6,7 +6,7 @@ links:
   paragraph: 
 ---
 
-<img src="https://github.com/web3privacy/news/blob/main/web/public/img/2025-42.png" width="500"/>
+![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/2025-42.png?raw=true)
 
 Good morning, folks! We are gonna continue in what we do best here and that is to share the freshest news and updates to you. Wanna learn more? Windows 10 support is about to end which is an opportunity as good as any to look after different and more secure OS, that's why we brng you a bit older but still solid article 30 days of Linux - if you wonder what everybody else is using, check our [stacks](https://stacks.web3privacy.info/) (shameless plug). Other than that, get some insight on AI and its abillities to help predict eartquakes, potential danger of Agentic AI, or learn more about Israeli spyware. But don't doom 'n' gloom, friends. It's beautiful to be able to care about our privacy and together we can do much more good. So as every Monday, get yourself some hot beverage if you like, sit relaxed and enjoy the news.   
 
