@@ -47,7 +47,9 @@ Good morning, folks! We are gonna continue in what we do best here and that is t
 *(new/changes in **bold**)*
 
 * Oct 14 - [How Surveillance Targets Women and Gender-Queer People](https://www.eff.org/event/how-surveillance-targets-women-and-gender-queer-people) Seattle
-* Oct 17-19 - [ETHRome](https://www.ethrome.org/) Rome
+* Oct 16 -[DC Privacy summit](https://www.dcprivacysummit.org)
+* Oct 16 - [Web3Privacy meetup](https://luma.com/8jv4odjn) Rome
+* Oct 17-19 [ETHRome privacy hackathon](https://www.ethrome.org) Rome
 * Oct 28 - [Cybersecurity and Privacy Institute Annual Conference](https://uwaterloo.ca/cybersecurity-privacy-institute/2025conference?utm_source=chatgpt.com)
 * Nov 7-8 - [SeaGL conference](https://www.eff.org/event/seagl) Seattle
 * Nov 16 - [Web3Privacy Now Congress II](https://congress.web3privacy.info/) Buenos Aires
