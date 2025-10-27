@@ -88,6 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2025-44](/data/2025/week44.md) | Oct 27 - Nov 2 | ✅ [published](https://news.web3privacy.info/2025-44) | m | [Paragraph](null) |
 | [2025-43](/data/2025/week43.md) | Oct 20 - Oct 26 | ✅ [published](https://news.web3privacy.info/2025-43) | m | [Paragraph](null) |
 | [2025-42](/data/2025/week42.md) | Oct 13 - Oct 19 | ✅ [published](https://news.web3privacy.info/2025-42) | m | [Paragraph](null) |
 | [2025-16](/data/2025/week16.md) | Apr 14 - Apr 20 | ✅ [published](https://news.web3privacy.info/2025-16) | m | [Paragraph](null) |
