@@ -21,6 +21,7 @@ Educate yourselves on new pushes in anti-VPN agenda, how Google helps ICE, how A
 - [Google learns about Chinese spywares disguised as VPNs in their App Store](https://www.techradar.com/vpn/vpn-privacy-security/google-issues-security-alert-your-vpn-app-could-be-spyware-in-disguise)
 - [PSE's report on state of privacy voting](https://pse.dev/blog/state-of-private-voting-2026)
 - [First age confirmation with digi ID, now banning of VPNs. Lawmakers in US are having a go at privacy (again) and have no clue what they are doing](https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing)
+- [Ethereum foundation's wallet Kohaku has been demoed on ECC2 event, using Privacy Pools](https://x.com/0xprivacypools/status/1990222459719860330)
 - [No more "Louvre" level passwords for cultural institutions. Proton gives access to Proton Pass to these institutions for free for two years](https://proton.me/blog/free-password-manager-cultural-institutions)
 - [Google is hosting a CBP app that uses facial recognition to identify immigrants](https://www.404media.co/google-has-chosen-a-side-in-trumps-mass-deportation-effort/)
   
