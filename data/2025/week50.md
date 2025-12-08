@@ -40,6 +40,7 @@ Another week full of news is in the books. So take a look with us into new Arciu
 ### Inspiration: Going Off(Line) an offering of IRL events 
 *(new/changes in **bold**)*
 * Dec 8 - [WEB3SEC 2025: Workshop Encouraging Building Better Blockchain Security 2025](https://web3sec.ws/) Honolulu
+* Dec 17 - [Prague Logos Circle](https://luma.com/ag4nnwzs) Prague
 * Dec 27-30 - [39th Chaos Communication Congress](https://events.ccc.de/en/2025/09/28/39c3-call-for-participation/) Hamburg
 * Jan 31 - Feb 1 - [FOSDEM 2026](https://fosdem.org/2026/schedule/) Brussels
 * Mar 6-7 2026 - [Logos Network's Parallel Society](https://x.com/Logos_network/status/1984952918454247534) Lisabon
