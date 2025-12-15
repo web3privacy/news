@@ -3,7 +3,7 @@ curator: m
 published: true
 exactDate: 2025-12-15
 links:
-  paragraph: [https://paragraph.com/@web3privacy/week-in-the-privacy-news-46](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073)
+  paragraph: https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073
 ---
 
 ![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/2025-51.png?raw=true)
