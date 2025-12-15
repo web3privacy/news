@@ -88,6 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2025-51](/data/2025/week51.md) | Dec 15 - Dec 21 | ✅ [published](https://news.web3privacy.info/2025-51) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2025-50](/data/2025/week50.md) | Dec 8 - Dec 14 | ✅ [published](https://news.web3privacy.info/2025-50) | m | [Paragraph](https://paragraph.com/@web3privacy/week-in-the-privacy-news-46) |
 | [2025-49](/data/2025/week49.md) | Dec 1 - Dec 7 | ✅ [published](https://news.web3privacy.info/2025-49) | m | [Paragraph](https://paragraph.com/@web3privacy/week-in-the-privacy-news-46) |
 | [2025-48](/data/2025/week48.md) | Nov 24 - Nov 30 | ✅ [published](https://news.web3privacy.info/2025-48) | m | [Paragraph](https://paragraph.com/@web3privacy/week-in-the-privacy-news-46) |
