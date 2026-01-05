@@ -16,7 +16,7 @@ And Happy New Year and off to the good start! Fhenix team has been working a lot
 
 
 ### Tool of the week
-- [Fhenix - blockchain research and development company building privacy-focused solutions using FHE](fhenix.io)
+- [Fhenix - blockchain research and development company building privacy-focused solutions using FHE](https://x.com/fhenix)
 ---
 
 ### Insights
