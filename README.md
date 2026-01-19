@@ -88,6 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2026-03](/data/2026/week03.md) | Jan 12 - Jan 18 | ✅ [published](https://news.web3privacy.info/2026-03) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-02](/data/2026/week02.md) | Jan 5 - Jan 11 | ✅ [published](https://news.web3privacy.info/2026-02) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-01](/data/2026/week01.md) | Dec 29 - Jan 4 | ✅ [published](https://news.web3privacy.info/2026-01) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2025-53](/data/2025/week53.md) | Dec 29 - Jan 4 | ✅ [published](https://news.web3privacy.info/2025-53) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
