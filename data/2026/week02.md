@@ -6,7 +6,7 @@ links:
   paragraph: https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073
 ---
 
-![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/2026-02.png?raw=true)
+![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/2025-43.png?raw=true)
 
 Good Monday, friends of privacy!
 
