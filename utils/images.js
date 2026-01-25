@@ -1,6 +1,7 @@
 import { join } from "https://deno.land/std@0.208.0/path/mod.ts";
 import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { existsSync } from "https://deno.land/std@0.224.0/fs/exists.ts";
+import { launch } from "jsr:@astral/astral";
 
 const DATA_DIR = "./data";
 
@@ -33,23 +34,12 @@ console.log("Done");
 // ---------
 
 async function genImage(url, fn) {
-  const imgResp = await fetch("https://html2svg.gwei.cz", {
-    method: "POST",
-    body: JSON.stringify({
-      url,
-      format: "png",
-      width: 1920,
-      height: 960,
-    }),
-    headers: {
-      "content-type": "application/json",
-    }
-  });
-
-  if (imgResp.body) {
-    const file = await Deno.open(fn, { write: true, create: true });
-    await imgResp.body.pipeTo(file.writable);
-
-    console.log(`Image written: ${fn}`);
-  }
+  const browser = await launch();
+  const page = await browser.newPage();
+  await page.setViewportSize({ width: 1920, height: 960 });
+  await page.goto(url, { waitUntil: "networkidle0" });
+  const screenshot = await page.screenshot({ format: "png" });
+  await Deno.writeFile(fn, screenshot);
+  await browser.close();
+  console.log(`Image written: ${fn}`);
 }
