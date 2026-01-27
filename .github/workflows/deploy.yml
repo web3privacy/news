@@ -31,8 +31,6 @@ jobs:
 
       - name: Build bundle
         run: make build images
-        env:
-          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
       - name: Setup node
         uses: actions/setup-node@v4
