@@ -20,12 +20,19 @@ jobs:
         with:
           timezoneLinux: "Europe/Prague"
 
+      - name: Install Chromium dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
       - uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
 
       - name: Build bundle
         run: make build images
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
       - name: Setup node
         uses: actions/setup-node@v4

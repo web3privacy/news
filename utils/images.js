@@ -34,7 +34,7 @@ console.log("Done");
 // ---------
 
 async function genImage(url, fn) {
-  const browser = await launch();
+  const browser = await launch({ args: ["--no-sandbox"] });
   const page = await browser.newPage();
   await page.setViewportSize({ width: 1920, height: 960 });
   await page.goto(url, { waitUntil: "networkidle0" });
