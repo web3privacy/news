@@ -44,6 +44,8 @@ async function build() {
     }
   }
 
+  issues.sort((a, b) => b.week.localeCompare(a.week));
+
   await emptyDir(DEST_DIR);
 
   const outputFn = join(DEST_DIR, "index.json");
