@@ -26,7 +26,7 @@ While some of us are still thinking about Monerotopia, let's take a look togethe
 ### Insights
 - [Matrix sees sudden surge in new users amid Discord mass exodus](https://cyberinsider.com/matrix-sees-sudden-surge-in-new-users-amid-discord-mass-exodus/)
 - [Solana's crypto phone called Saga aims to bring high-level phone where you can store your crypto safely and privately](https://coinfomania.com/es/solanas-crypto-phone-everyones-talking-about-solana-saga/)
-- [Vitalik Buterin Challenges Stablecoin Yields, Pushes ETH-Backed Models](https://www.bitdegree.org/crypto/news/crypto-pac-pours-1-5-million-into-effort-to-unseat-texas-rep-al-green)
+- [ZK API Usage Credits: LLMs and Beyond](https://ethresear.ch/t/zk-api-usage-credits-llms-and-beyond/24104)
 - [Apple’s new security feature limits cell networks from collecting precise location data](https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/)
 - [Cops in Miami and LA bought GEOSpy, AI tool to geolocate people from picture](https://www.404media.co/cops-are-buying-geospy-ai-that-geolocates-photos-in-seconds/)
 ---
