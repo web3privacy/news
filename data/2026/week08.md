@@ -43,6 +43,8 @@ So welcome them as our Tool of the Week and learn more in following entries!
 ---
 ### Inspiration: Going On(Line) an offering of media from the web
 - [Bob Summervile's talk from ETHDenver about Early Days of Ethereum](https://x.com/EthereumDenver/status/2024544356032794689)
+- [Jordi Baylina x ZisK - A zkVM Foundation for Next-Gen Blockchains from ETHDenver](https://www.youtube.com/watch?v=1PRnm4qomKA&list=PLAy4HNUNlzRlahJg-0I_f-Aqbxht0UFlM&index=74)
+- [From Transparent by Default to Private by Design: Navigating Ethereum’s Privacy Primitives from Guy Itzhaki x Fhenix](https://x.com/EthereumDenver/status/2024563237426278739)
 - [Vlad Costea's Bitcoin Takeover podcast with Riccardo Spagni on Bitcoin, Monero and privacy](https://www.youtube.com/live/0O_R9gs_Qrc?si=uSZBTBFQ6q4hOHZn)
 - [Check out the W3PN Academy Shorts](https://www.youtube.com/playlist?list=PLSsVHWrO8Yh2ddxh5QprxU1g2pOB5yHN0)
 - [Take our new Academy Course - ZK for not tech, done in collaboration with Oskarth](https://academy.web3privacy.info/p/zk-for-not-tech-by-oskarth)
