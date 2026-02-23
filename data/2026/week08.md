@@ -12,7 +12,7 @@ links:
 
 Good Monday, friends of privacy!
 
-It's a pleasure to see so many new projects and proposals coming up, showing that privacy is not only needed, but also booming and beutiful. 
+It's a pleasure to see so many new projects and proposals coming up, showing that privacy is not only needed, but also booming and beautiful. 
 
 This week we saw quite a few accomplishments for tools, fun events and insightful speeches. 
 What caught our attention most was rebrand of Zashi to ZODL.
