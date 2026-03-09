@@ -24,7 +24,7 @@ For the tool of the week, we want to highlight awesome dashboard of wallets - Wa
 ![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/tool_pic/tool10.png?raw=true)
 
 ### Insights
-- [WallatBeat's scoring philosophy](https://x.com/walletbeat/status/2026759303793643655)
+- [WalletBeat's scoring philosophy](https://x.com/walletbeat/status/2026759303793643655)
 - [Zcash Open Development Lab Raises $25M+ in Seed Funding](https://x.com/zodl_app/status/2030995832808288659)
 - [a16z's Jolt now supports ZK](https://a16zcrypto.com/posts/article/zkvm-jolt-zero-knowledge/)
 - [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
