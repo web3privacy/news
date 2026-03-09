@@ -11,7 +11,7 @@ links:
 
 Good Monday, friends of privacy!
 
-This week's news seemed to be centered mainly around need to prove one's identity, that data being sold or stolen and people having to find new, creative ways how to protect their privacy. We salute you all, creators and builders as well as users. 
+This week's news seemed to be centered mainly around need to prove one's identity, that data being sold or stolen and people having to find new, creative ways how to protect their privacy. We salute you all, creators and builders as well as users. Privacy is normal! So let's spread it.
 
 For the tool of the week, we want to highlight awesome dashboard of wallets - WalletBeat!
 ---
@@ -25,6 +25,7 @@ For the tool of the week, we want to highlight awesome dashboard of wallets - Wa
 
 ### Insights
 - [WallatBeat's scoring philosophy](https://x.com/walletbeat/status/2026759303793643655)
+- [Zcash Open Development Lab Raises $25M+ in Seed Funding](https://x.com/zodl_app/status/2030995832808288659)
 - [a16z's Jolt now supports ZK](https://a16zcrypto.com/posts/article/zkvm-jolt-zero-knowledge/)
 - [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/)
 - [Mullvad’s new GotaTun protocol passes first independent audit](https://cyberinsider.com/mullvads-new-gotatun-protocol-passes-first-independent-audit/)
@@ -36,6 +37,7 @@ For the tool of the week, we want to highlight awesome dashboard of wallets - Wa
 - [Read SimpleX explanaination for people who might be wondering why they should care for privacy](https://simplex.chat/why/)
 - [Accelerated privacy by design – the convergence of trust, compliance & encrypted compute articly by Optalsysys](https://x.com/Optalysys/status/2030945820367896987)
 - [How Journalists Are Reporting From Iran With No Internet by Wired](https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/)
+- [Government Uses Targeted Advertising to Track Your Location](https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp)
 ---
 ### Inspiration: Going On(Line) an offering of media from the web
 - [Take a look at winners of Privacy Awards 2025](https://paragraph.com/@web3privacy/privacy-awards-2025-the-winners)
