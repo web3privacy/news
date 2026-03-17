@@ -19,7 +19,7 @@ Open-source LLM where you don't need to create an account. So take a look!
 
 
 ### Tool of the week
-- [Qwen - open-source LLM as an alternative to ChatGPT](gwen.ai)
+- [Qwen - open-source LLM as an alternative to ChatGPT](https://x.com/Alibaba_Qwen)
 ---
 ![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/tool_pic/tool11.png?raw=true)
 
