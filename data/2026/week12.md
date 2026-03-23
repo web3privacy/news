@@ -15,7 +15,7 @@ Last week brought lots of attention to age verification laws implementation and 
 
 But amidst these restriction it is exactly privacy focused tools and projects that need support as they can enable us to fight for our rights. 
 
-So as a tool of this week we nominate Human Password, privacy-preserving digital identity tool that lets you prove you’re a real person online without revealing your personal data.
+So as a tool of this week we nominate Human Passport, privacy-preserving digital identity tool that lets you prove you’re a real person online without revealing your personal data.
 ---
 
 
