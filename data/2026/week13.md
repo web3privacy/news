@@ -40,7 +40,7 @@ If you are in Cannes right now, enjoy the event. And if you have a time, take a 
 - [Human Passport talking about their Covenant and Universal Personhood](https://x.com/HumnPassport/status/2034281963788349864)
 ---
 ### Inspiration: Going On(Line) an offering of media from the web
-- [AI Privacy and Sovereignity talk by Logos](https://www.youtube.com/live/LSjnpMTrQl0)
+- [AI Privacy and Sovereignty talk by Logos](https://www.youtube.com/live/LSjnpMTrQl0)
 - ["Privacy is not protection. It's a weapon" interview with Amir Taaki](https://www.youtube.com/watch?v=R1z756gXAfY)
 - [Check out the W3PN Academy Shorts](https://www.youtube.com/playlist?list=PLSsVHWrO8Yh2ddxh5QprxU1g2pOB5yHN0)
 - [Take our new Academy Course - ZK for not tech, done in collaboration with Oskarth](https://academy.web3privacy.info/p/zk-for-not-tech-by-oskarth)
