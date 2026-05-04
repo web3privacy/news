@@ -88,6 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2026-18](/data/2026/week18.md) | Apr 27 - May 3 | ✅ [published](https://news.web3privacy.info/2026-18) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-17](/data/2026/week17.md) | Apr 20 - Apr 26 | ✅ [published](https://news.web3privacy.info/2026-17) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-16](/data/2026/week16.md) | Apr 13 - Apr 19 | ✅ [published](https://news.web3privacy.info/2026-16) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-15](/data/2026/week15.md) | Apr 6 - Apr 12 | ✅ [published](https://news.web3privacy.info/2026-15) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
