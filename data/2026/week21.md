@@ -11,7 +11,7 @@ links:
 
 Good Monday, friends of privacy!
 
-At this point we all probably heard about the alleged OnlyFans leak, another push for Age Surveillance laws and others, but lot of good has happened as well.
+At this point we all probably heard about the alleged leaks, another push for Age Surveillance laws and others, but lot of good has happened as well.
 
 Be it events as EthCC, Mullvad fixing their fingerprinting flaw and what brings the most joy to us - Tor Project and Funding the Commons campaign for Internet Freedom, the Tool of the Week. 
 ---
@@ -27,7 +27,6 @@ Be it events as EthCC, Mullvad fixing their fingerprinting flaw and what brings 
 - [Tor and Funding the Commons has launched crowdfunding campaing to support free internet](https://x.com/torproject/status/2056752808091894197)
 - [Tails 7.8 is out](https://tails.net/news/version_7.8/)
 - [Perspecives on future of Ethereum by it's founder, Vitalik Buterin](https://x.com/VitalikButerin/status/2058583593102844111)
-- [Look into alleged OnlyFans breach](https://hackread.com/hacker-selling-onlyfans-user-records-old-breaches/)
 - [ZCash update by Josh Swihart](https://x.com/jswihart/status/2058760011384602765)
 ---
 ### Knowledge
