@@ -1,7 +1,7 @@
 ---
 curator: m
 published: true
-exactDate: 2026-06-29
+exactDate: 2026-07-13
 links:
   paragraph: https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073
 ---
