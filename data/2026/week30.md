@@ -38,7 +38,7 @@ A lot has been said about Artificial Intelligence, its cons and pros, and regard
 - [Generative AI can't duplicate dancing. Yet](https://themarkup.org/artificial-intelligence/2026/01/21/our-video-tests-prove-generative-ai-still-sucks-at-dancing-see-for-yourself)
 
 ---
-![alt text](https://github.com/web3privacy/news/blob/main/web/public/img/tool_pic/tool29.png?raw=true)
+
 ### Inspiration: Going On(Line) an offering of media from the web
 - [Get the book The Politics of Privacy: Autonomy and Power in the Digital Age](https://web3privacynow.metalabel.com/politicsofprivacy?variantId=3)
 - [Check the State of Decentralised Privacy report](https://web3privacy.info/projects/state-of-decentralized-privacy-report)
