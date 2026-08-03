@@ -38,7 +38,7 @@ And for tool of the week, Fhenix - privacy infrastructure project using FHE.
 - [Coldcard warns of hardware wallet seed-generation flaw after stolen funds reach $88.6 million](https://cyberinsider.com/coldcard-warns-of-wallet-seed-flaw-as-stolen-amounts-reach-88-6-million/)
 - [ZODL's statement regarding Coldcard](https://x.com/zodl_app/status/2083977511583506593)
 - [EFF publishes a practical guide to recording law enforcement safely](https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement)
-- [Will Corcoran explains why privacy should become the default on Ethereum](https://x.com/corcoranwill/status/2083313409744130449)
+- [Ethereum Foundation's all-Protocol sync update](https://x.com/corcoranwill/status/2083313409744130449)
 
 ---
 
