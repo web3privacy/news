@@ -33,7 +33,6 @@ And for tool of the week, Ironwood - Zcash's newest shielded pool, letting users
 ---
 
 ### Knowledge
-- [Exploring how privacy can move Ethereum closer to genuine digital self-sovereignty](https://hackmd.io/@pcaversaccio/ethereum-privacy-the-road-to-self-sovereignty)
 - [Tuta examines how Google's Android changes could restrict sideloading and independent apps](https://tuta.com/blog/android-side-load-apps-google)
 - [EFF looks at hackers building technology that shifts power back toward its users](https://www.eff.org/deeplinks/2026/07/vv26)
 - [GrapheneOS raises concerns after Revolut blocks users who don't pass Google Play checks](https://cyberinsider.com/grapheneos-says-revolut-is-blocking-its-users-over-google-play-checks/)
