@@ -88,6 +88,7 @@ Introductory text goes here
 
 | Week | Period | Deadline | Curator | Links |
 | --- | --- | --- | --- | --- |
+| [2026-39](/data/2026/week39.md) | Sep 21 - Sep 27 | ✅ [published](https://news.web3privacy.info/2026-39) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-38](/data/2026/week38.md) | Sep 14 - Sep 20 | ✅ [published](https://news.web3privacy.info/2026-38) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-37](/data/2026/week37.md) | Sep 7 - Sep 13 | ✅ [published](https://news.web3privacy.info/2026-37) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
 | [2026-36](/data/2026/week36.md) | Aug 31 - Sep 6 | ✅ [published](https://news.web3privacy.info/2026-36) | m | [Paragraph](https://paragraph.com/0x0f1f3daf416b74db3de55eb4d7513a80f4841073) |
