@@ -33,6 +33,7 @@ Our Tool of the Week is Freedom Tool—an open-source platform for anonymous, ve
 
 ---
 ### Knowledge
+- Zodl Android [3.17.2 (3157)](https://github.com/zodl-inc/zodl-android/releases/tag/3.17.2-3157) updates secure server-connection verification; maintainers recommend updating as soon as possible (October 20 release notes; [source-linked Zcash context](https://zecview.com/news/)).
 - [Court records reveal what Telegram sharing user data with US authorities looks like](https://www.404media.co/heres-what-telegram-giving-data-to-the-u-s-government-looks-like/)
 - [Congress struggles to regulate AI while lacking sufficient technical expertise](https://www.politico.com/news/2026/10/19/congress-ai-regulation-expertise-01123525)
 - [SFLC examines the growing suppression of digital dissent in India](https://sflc.in/silencing-digital-dissent/)
